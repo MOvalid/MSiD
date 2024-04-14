@@ -1,0 +1,623 @@
+name,position,played_minutes,appearances,first_squad,substitute_in,substitute_out,goals,avg_goals,yellow_cards,yellow_red_cards,red_cards,club
+A. Hakimi,Defender,1886.0,26.0,21.0,5.0,2.0,4.0,0.15,6.0,1.0,0.0,psg
+A. Letellier,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,psg
+Carlos Soler,Midfielder,1131.0,22.0,14.0,8.0,11.0,3.0,0.14,0.0,0.0,0.0,psg
+Danilo Pereira,Midfielder,1981.0,28.0,22.0,6.0,6.0,2.0,0.07,2.0,0.0,0.0,psg
+E. Bitshiabu,Defender,390.0,10.0,4.0,6.0,3.0,0.0,0.0,2.0,0.0,0.0,psg
+Fabián Ruiz,Midfielder,1664.0,24.0,18.0,6.0,9.0,1.0,0.04,0.0,0.0,0.0,psg
+G. Donnarumma,Goalkeeper,2970.0,33.0,33.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,psg
+H. Ekitike,Attacker,877.0,21.0,8.0,13.0,8.0,3.0,0.14,0.0,0.0,0.0,psg
+H. Lamy,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,psg
+I. Housni,Attacker,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,psg
+Ismaël Gharbi,Midfielder,51.0,4.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,psg
+Juan Bernat,Defender,1294.0,24.0,14.0,10.0,7.0,1.0,0.04,1.0,0.0,0.0,psg
+K. Mbappé,Attacker,2372.0,29.0,27.0,2.0,6.0,23.0,0.79,5.0,0.0,0.0,psg
+L. Messi,Attacker,2482.0,28.0,28.0,0.0,5.0,15.0,0.54,0.0,0.0,0.0,psg
+M. Verratti,Midfielder,1791.0,24.0,22.0,2.0,11.0,0.0,0.0,9.0,0.0,1.0,psg
+Marquinhos,Defender,2438.0,29.0,27.0,2.0,4.0,2.0,0.07,3.0,0.0,0.0,psg
+N. Fernandez-Veliz,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,psg
+N. Mukiele,Defender,1133.0,19.0,12.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,psg
+Neymar,Attacker,1553.0,20.0,18.0,2.0,8.0,13.0,0.65,5.0,1.0,0.0,psg
+Nuno Mendes,Defender,1553.0,23.0,18.0,5.0,10.0,1.0,0.04,2.0,0.0,0.0,psg
+P. Kimpembe,Defender,730.0,11.0,9.0,2.0,2.0,0.0,0.0,3.0,0.0,0.0,psg
+Renato Sanches,Midfielder,536.0,18.0,5.0,13.0,6.0,2.0,0.11,1.0,0.0,0.0,psg
+Sergio Ramos,Defender,2258.0,28.0,26.0,2.0,4.0,1.0,0.04,3.0,0.0,1.0,psg
+Sergio Rico,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,psg
+Serif Nhaga,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,psg
+T. Pembélé,Defender,265.0,5.0,4.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,psg
+Vitinha,Midfielder,2166.0,31.0,26.0,5.0,18.0,1.0,0.03,2.0,0.0,0.0,psg
+W. Zaïre-Emery,Midfielder,549.0,21.0,4.0,17.0,3.0,2.0,0.1,1.0,0.0,0.0,psg
+A. Buksa,Attacker,59.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+A. Claude-Maurice,Midfielder,519.0,17.0,4.0,13.0,4.0,3.0,0.18,0.0,0.0,0.0,lens
+A. Fulgini,Midfielder,639.0,12.0,9.0,3.0,9.0,1.0,0.08,0.0,0.0,0.0,lens
+A. Louveau,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+A. Thomasson,Midfielder,936.0,15.0,12.0,3.0,10.0,3.0,0.2,1.0,0.0,0.0,lens
+B. Samba,Goalkeeper,2970.0,33.0,33.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,lens
+D. Machado,Defender,1862.0,28.0,21.0,7.0,20.0,3.0,0.11,4.0,0.0,1.0,lens
+David Costa,Midfielder,1388.0,29.0,16.0,13.0,15.0,1.0,0.03,2.0,0.0,0.0,lens
+F. Medina,Defender,2424.0,28.0,28.0,0.0,5.0,2.0,0.07,5.0,0.0,0.0,lens
+F. Sotoca,Attacker,2686.0,33.0,30.0,3.0,12.0,6.0,0.18,4.0,0.0,0.0,lens
+F. Sylla,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+I. Boura,Defender,84.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+J. Cabot,Midfielder,508.0,11.0,5.0,6.0,2.0,0.0,0.0,2.0,0.0,0.0,lens
+J. Gradit,Defender,2380.0,28.0,28.0,0.0,7.0,1.0,0.04,5.0,0.0,0.0,lens
+J. Le Cardinal,Defender,146.0,6.0,2.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,lens
+J. Leca,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+J. Onana,Midfielder,589.0,17.0,7.0,10.0,7.0,0.0,0.0,2.0,0.0,0.0,lens
+K. Danso,Defender,2970.0,33.0,33.0,0.0,0.0,1.0,0.03,7.0,0.0,0.0,lens
+L. Openda,Attacker,2129.0,33.0,24.0,9.0,20.0,18.0,0.55,1.0,0.0,0.0,lens
+M. Haïdara,Defender,1469.0,31.0,16.0,15.0,5.0,0.0,0.0,4.0,0.0,0.0,lens
+N. Bonte,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+P. Frankowski,Midfielder,2482.0,33.0,27.0,6.0,12.0,4.0,0.12,2.0,0.0,0.0,lens
+Pierre-Ismaelo Ganiou,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+R. Labeau Lascary,Attacker,112.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+S. Abdul Samed,Midfielder,2537.0,29.0,29.0,0.0,2.0,1.0,0.03,5.0,0.0,1.0,lens
+S. Fofana,Midfielder,2718.0,31.0,30.0,1.0,6.0,4.0,0.13,2.0,0.0,0.0,lens
+Steven Fortès,Defender,6.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+W. Fariñez,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+W. Saïd,Attacker,603.0,19.0,6.0,13.0,6.0,5.0,0.26,2.0,0.0,0.0,lens
+Y. Barry,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+Y. Fofana,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+Y. Pandor,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lens
+Ł. Poręba,Midfielder,257.0,9.0,3.0,6.0,3.0,0.0,0.0,1.0,0.0,0.0,lens
+A. Harit,Midfielder,515.0,10.0,6.0,4.0,5.0,0.0,0.0,2.0,0.0,0.0,olympique marseille
+A. Ounahi,Midfielder,117.0,7.0,1.0,6.0,1.0,1.0,0.14,0.0,0.0,0.0,olympique marseille
+A. Sánchez,Attacker,2334.0,30.0,27.0,3.0,18.0,13.0,0.43,3.0,0.0,0.0,olympique marseille
+B. Elmaz,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique marseille
+C. Mbemba,Defender,2486.0,31.0,28.0,3.0,4.0,4.0,0.13,2.0,0.0,0.0,olympique marseille
+C. Ünder,Midfielder,2047.0,32.0,23.0,9.0,15.0,5.0,0.16,3.0,0.0,0.0,olympique marseille
+D. Payet,Midfielder,749.0,22.0,8.0,14.0,7.0,2.0,0.09,0.0,0.0,0.0,olympique marseille
+E. Bailly,Defender,444.0,14.0,4.0,10.0,3.0,0.0,0.0,1.0,0.0,0.0,olympique marseille
+Emran Soglo,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique marseille
+Esey Gebreyesus,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique marseille
+F. Mughe,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique marseille
+I. Kaboré,Defender,847.0,18.0,8.0,10.0,4.0,1.0,0.06,1.0,0.0,0.0,olympique marseille
+J. Clauss,Defender,2219.0,29.0,27.0,2.0,13.0,1.0,0.03,1.0,0.0,0.0,olympique marseille
+J. Veretout,Midfielder,2413.0,33.0,26.0,7.0,7.0,3.0,0.09,3.0,0.0,0.0,olympique marseille
+L. Balerdi,Defender,2245.0,30.0,26.0,4.0,4.0,0.0,0.0,6.0,0.0,1.0,olympique marseille
+M. Guendouzi,Midfielder,1878.0,29.0,22.0,7.0,11.0,2.0,0.07,3.0,0.0,0.0,olympique marseille
+Nuno Tavares,Defender,2160.0,27.0,22.0,5.0,4.0,6.0,0.22,4.0,0.0,1.0,olympique marseille
+Pau López,Goalkeeper,2520.0,28.0,28.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,olympique marseille
+R. Malinovskyi,Midfielder,861.0,15.0,9.0,6.0,8.0,1.0,0.07,4.0,0.0,0.0,olympique marseille
+Raimane Daou,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique marseille
+Rubén Blanco,Goalkeeper,450.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique marseille
+S. Gigot,Defender,1840.0,24.0,22.0,2.0,7.0,2.0,0.08,4.0,1.0,1.0,olympique marseille
+S. Kolašinac,Defender,1834.0,28.0,22.0,6.0,11.0,4.0,0.14,3.0,0.0,0.0,olympique marseille
+S. Ngapandouetnbu,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique marseille
+V. Rongier,Midfielder,2673.0,32.0,30.0,2.0,5.0,1.0,0.03,6.0,0.0,0.0,olympique marseille
+Vítinha,Attacker,300.0,9.0,4.0,5.0,3.0,2.0,0.22,0.0,0.0,0.0,olympique marseille
+A. Disasi,Defender,2880.0,33.0,32.0,1.0,1.0,3.0,0.09,2.0,0.0,0.0,monaco
+A. Golovin,Midfielder,2177.0,30.0,25.0,5.0,18.0,7.0,0.23,4.0,0.0,0.0,monaco
+A. Nübel,Goalkeeper,2970.0,33.0,33.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,monaco
+B. Embolo,Attacker,1755.0,28.0,19.0,9.0,8.0,12.0,0.43,2.0,0.0,0.0,monaco
+C. Matsima,Defender,175.0,5.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,monaco
+Caio Henrique,Defender,2527.0,30.0,28.0,2.0,5.0,1.0,0.03,3.0,0.0,0.0,monaco
+E. Ben Seghir,Midfielder,873.0,14.0,11.0,3.0,11.0,4.0,0.29,1.0,0.0,0.0,monaco
+E. Diop,Midfielder,169.0,5.0,1.0,4.0,1.0,1.0,0.2,0.0,0.0,0.0,monaco
+E. Matazo,Midfielder,930.0,19.0,10.0,9.0,4.0,1.0,0.05,2.0,0.0,0.0,monaco
+G. Maripán,Defender,1980.0,24.0,23.0,1.0,3.0,3.0,0.12,4.0,1.0,0.0,monaco
+Gelson Martins,Midfielder,340.0,11.0,3.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,monaco
+I. Jakobs,Defender,826.0,28.0,6.0,22.0,2.0,0.0,0.0,2.0,0.0,0.0,monaco
+Jean Lucas,Midfielder,289.0,6.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,monaco
+K. Diatta,Midfielder,1952.0,28.0,21.0,7.0,13.0,4.0,0.14,3.0,0.0,0.0,monaco
+K. Volland,Attacker,606.0,14.0,7.0,7.0,7.0,3.0,0.21,1.0,0.0,0.0,monaco
+M. Akliouche,Midfielder,309.0,8.0,4.0,4.0,5.0,0.0,0.0,3.0,0.0,0.0,monaco
+M. Boadu,Attacker,140.0,10.0,1.0,9.0,1.0,2.0,0.2,0.0,0.0,0.0,monaco
+M. Camara,Midfielder,1992.0,25.0,23.0,2.0,7.0,0.0,0.0,5.0,0.0,1.0,monaco
+M. Sarr,Defender,713.0,13.0,8.0,5.0,2.0,0.0,0.0,3.0,0.0,0.0,monaco
+N. Babai,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,monaco
+R. Aguilar,Defender,1003.0,18.0,12.0,6.0,6.0,0.0,0.0,2.0,0.0,0.0,monaco
+S. Magassa,Midfielder,80.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,monaco
+T. Didillon,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,monaco
+T. Minamino,Midfielder,521.0,15.0,7.0,8.0,7.0,1.0,0.07,2.0,0.0,0.0,monaco
+Vanderson,Defender,1792.0,26.0,19.0,7.0,7.0,1.0,0.04,2.0,1.0,0.0,monaco
+W. Ben Yedder,Attacker,1905.0,29.0,25.0,4.0,17.0,17.0,0.59,4.0,0.0,0.0,monaco
+Y. Fofana,Midfielder,2638.0,31.0,30.0,1.0,1.0,2.0,0.06,2.0,1.0,1.0,monaco
+Y. Lienard,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,monaco
+Y. Okou,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,monaco
+A. Gomes,Midfielder,2567.0,32.0,31.0,1.0,21.0,2.0,0.06,6.0,0.0,0.0,lille
+A. Jakubech,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+A. Ounas,Midfielder,914.0,17.0,11.0,6.0,9.0,1.0,0.06,1.0,0.0,0.0,lille
+A. Virginius,Attacker,241.0,14.0,1.0,13.0,1.0,1.0,0.07,1.0,0.0,0.0,lille
+Alexsandro Ribeiro,Defender,1248.0,17.0,12.0,5.0,1.0,3.0,0.18,3.0,0.0,0.0,lille
+André Gomes,Midfielder,1547.0,24.0,17.0,7.0,6.0,3.0,0.12,6.0,0.0,0.0,lille
+B. André,Midfielder,2479.0,29.0,28.0,1.0,4.0,1.0,0.03,10.0,0.0,0.0,lille
+B. Costil,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+B. Diakité,Defender,2202.0,28.0,24.0,4.0,4.0,2.0,0.07,5.0,0.0,0.0,lille
+C. Baleba,Midfielder,293.0,15.0,3.0,12.0,3.0,0.0,0.0,2.0,0.0,1.0,lille
+E. Zhegrova,Midfielder,974.0,20.0,10.0,10.0,7.0,3.0,0.15,1.0,0.0,0.0,lille
+G. Gudmundsson,Defender,706.0,15.0,8.0,7.0,3.0,0.0,0.0,2.0,0.0,0.0,lille
+I. Ferrah,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+Ismaily,Defender,1582.0,20.0,18.0,2.0,5.0,2.0,0.1,0.0,0.0,0.0,lille
+J. Bamba,Attacker,2340.0,29.0,27.0,2.0,9.0,5.0,0.17,5.0,0.0,0.0,lille
+J. Bazié,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+J. David,Attacker,2743.0,32.0,31.0,1.0,11.0,21.0,0.66,5.0,0.0,0.0,lille
+J. Martin,Midfielder,189.0,10.0,1.0,9.0,1.0,0.0,0.0,2.0,0.0,0.0,lille
+José Fonte,Defender,2233.0,27.0,26.0,1.0,2.0,1.0,0.04,6.0,0.0,0.0,lille
+L. Chevalier,Goalkeeper,2430.0,27.0,27.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,lille
+L. Yoro,Defender,676.0,11.0,7.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,lille
+M. Bayo,Attacker,575.0,23.0,5.0,18.0,4.0,4.0,0.17,0.0,0.0,0.0,lille
+M. Makhabe,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+R. Cabella,Midfielder,2151.0,27.0,24.0,3.0,11.0,7.0,0.26,3.0,0.0,0.0,lille
+S. Ramet,Midfielder,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+T. Negrel,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+T. Weah,Attacker,1447.0,24.0,15.0,9.0,7.0,0.0,0.0,2.0,0.0,0.0,lille
+Tiago Djaló,Defender,2022.0,25.0,24.0,1.0,6.0,2.0,0.08,7.0,0.0,0.0,lille
+U. Raghouber,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+V. Burlet,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lille
+A. Do Marcolino,Attacker,14.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,rennes
+A. Gouiri,Attacker,2099.0,28.0,24.0,4.0,11.0,11.0,0.39,2.0,0.0,0.0,rennes
+A. Kalimuendo,Attacker,1765.0,26.0,23.0,3.0,20.0,7.0,0.27,0.0,0.0,0.0,rennes
+A. Theate,Defender,2859.0,32.0,32.0,0.0,2.0,3.0,0.09,5.0,0.0,0.0,rennes
+A. Truffert,Defender,1961.0,28.0,24.0,4.0,11.0,0.0,0.0,2.0,0.0,0.0,rennes
+B. Bourigeaud,Midfielder,2656.0,32.0,32.0,0.0,17.0,3.0,0.09,4.0,1.0,0.0,rennes
+B. Meling,Defender,1182.0,25.0,10.0,15.0,4.0,0.0,0.0,2.0,0.0,1.0,rennes
+B. Santamaría,Midfielder,1466.0,21.0,16.0,5.0,3.0,1.0,0.05,2.0,0.0,0.0,rennes
+C. Wooh,Defender,1007.0,13.0,12.0,1.0,2.0,0.0,0.0,4.0,0.0,0.0,rennes
+D. Alemdar,Goalkeeper,314.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,rennes
+D. Doué,Midfielder,1099.0,24.0,11.0,13.0,12.0,3.0,0.12,5.0,0.0,0.0,rennes
+D. Spence,Defender,575.0,8.0,7.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,rennes
+E. Damergy,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rennes
+F. Tait,Midfielder,1651.0,28.0,19.0,9.0,12.0,2.0,0.07,2.0,0.0,0.0,rennes
+G. Doué,Defender,10.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,rennes
+G. Tutu,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rennes
+H. Traoré,Defender,2100.0,26.0,23.0,3.0,3.0,1.0,0.04,4.0,0.0,0.0,rennes
+I. Salah,Attacker,164.0,10.0,1.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,rennes
+J. Belocian,Defender,111.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,rennes
+J. Doku,Attacker,867.0,24.0,8.0,16.0,7.0,5.0,0.21,0.0,0.0,0.0,rennes
+J. Rodon,Defender,1238.0,14.0,14.0,0.0,1.0,1.0,0.07,2.0,0.0,1.0,rennes
+K. Toko Ekambi,Attacker,625.0,12.0,7.0,5.0,5.0,1.0,0.08,0.0,0.0,0.0,rennes
+L. Assignon,Defender,196.0,7.0,2.0,5.0,1.0,0.0,0.0,2.0,0.0,0.0,rennes
+L. Majer,Midfielder,1221.0,27.0,13.0,14.0,11.0,1.0,0.04,3.0,0.0,0.0,rennes
+L. Rouillé,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rennes
+L. Ugochukwu,Midfielder,1245.0,22.0,13.0,9.0,8.0,0.0,0.0,3.0,0.0,1.0,rennes
+M. Terrier,Attacker,1330.0,16.0,16.0,0.0,9.0,9.0,0.56,0.0,0.0,0.0,rennes
+R. Salin,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,rennes
+S. Mandanda,Goalkeeper,2656.0,30.0,30.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,rennes
+W. Omari,Defender,913.0,11.0,10.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,rennes
+Xeka,Midfielder,551.0,8.0,6.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,rennes
+A. Laaziri,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+A. Lacazette,Attacker,2488.0,30.0,29.0,1.0,8.0,20.0,0.67,3.0,0.0,0.0,olympique lyonnais
+A. Sarr,Attacker,450.0,10.0,5.0,5.0,4.0,1.0,0.1,0.0,0.0,0.0,olympique lyonnais
+Anthony Lopes,Goalkeeper,2367.0,27.0,27.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,olympique lyonnais
+B. Barcola,Attacker,1081.0,22.0,11.0,11.0,6.0,5.0,0.23,3.0,0.0,0.0,olympique lyonnais
+C. Lukeba,Defender,2626.0,30.0,29.0,1.0,0.0,2.0,0.07,6.0,1.0,0.0,olympique lyonnais
+C. Tolisso,Midfielder,1705.0,26.0,21.0,5.0,13.0,1.0,0.04,3.0,0.0,0.0,olympique lyonnais
+D. Dib,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+D. Lovren,Defender,1328.0,15.0,15.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,olympique lyonnais
+H. Aouar,Midfielder,485.0,14.0,6.0,8.0,6.0,1.0,0.07,2.0,0.0,0.0,olympique lyonnais
+Henrique,Defender,307.0,6.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+J. Boateng,Defender,316.0,6.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+J. Lepenant,Midfielder,1833.0,28.0,20.0,8.0,9.0,1.0,0.04,3.0,0.0,0.0,olympique lyonnais
+Jeffinho,Attacker,155.0,4.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,olympique lyonnais
+K. Bonnevie,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+M. Caqueret,Midfielder,2347.0,31.0,27.0,4.0,12.0,2.0,0.06,2.0,0.0,0.0,olympique lyonnais
+M. Dembélé,Attacker,852.0,22.0,8.0,14.0,5.0,3.0,0.14,1.0,0.0,0.0,olympique lyonnais
+M. El Arouch,Midfielder,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+M. Gusto,Defender,162.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+M. Sarr,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+N. Tagliafico,Defender,2589.0,29.0,29.0,0.0,3.0,1.0,0.03,4.0,0.0,0.0,olympique lyonnais
+R. Cherki,Midfielder,1448.0,29.0,16.0,13.0,10.0,3.0,0.1,3.0,0.0,0.0,olympique lyonnais
+R. Riou,Goalkeeper,600.0,7.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+S. Diomandé,Defender,1689.0,21.0,19.0,2.0,3.0,0.0,0.0,2.0,0.0,1.0,olympique lyonnais
+S. Kumbedi,Defender,1010.0,15.0,11.0,4.0,2.0,0.0,0.0,8.0,0.0,0.0,olympique lyonnais
+S. Lega,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,olympique lyonnais
+Thiago Mendes,Midfielder,1869.0,27.0,21.0,6.0,8.0,1.0,0.04,3.0,0.0,0.0,olympique lyonnais
+A. Amraoui,Defender,279.0,5.0,3.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,nice
+A. Beka Beka,Midfielder,392.0,11.0,5.0,6.0,5.0,0.0,0.0,1.0,0.0,0.0,nice
+A. Mendy,Defender,473.0,10.0,6.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,nice
+A. Ramsey,Midfielder,1514.0,26.0,17.0,9.0,11.0,1.0,0.04,3.0,0.0,0.0,nice
+B. Bouanani,Attacker,581.0,14.0,6.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0,nice
+B. Brahimi,Attacker,642.0,23.0,4.0,19.0,3.0,3.0,0.13,0.0,0.0,0.0,nice
+D. Traoré,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+Dante,Defender,2850.0,32.0,32.0,0.0,1.0,1.0,0.03,4.0,0.0,0.0,nice
+E. Garrido,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+G. Laborde,Attacker,2061.0,28.0,23.0,5.0,9.0,9.0,0.32,0.0,0.0,0.0,nice
+H. Boudaoui,Midfielder,1480.0,22.0,17.0,5.0,9.0,1.0,0.05,4.0,0.0,0.0,nice
+J. Bryan,Defender,177.0,6.0,2.0,4.0,2.0,0.0,0.0,3.0,0.0,0.0,nice
+J. Lotomba,Defender,2028.0,28.0,22.0,6.0,8.0,0.0,0.0,4.0,0.0,0.0,nice
+J. Todibo,Defender,2512.0,30.0,29.0,1.0,1.0,0.0,0.0,3.0,1.0,1.0,nice
+K. Schmeichel,Goalkeeper,2790.0,31.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+K. Thuram,Midfielder,2426.0,33.0,28.0,5.0,14.0,2.0,0.06,3.0,0.0,0.0,nice
+M. Bard,Defender,2144.0,28.0,24.0,4.0,6.0,0.0,0.0,6.0,0.0,0.0,nice
+M. Bułka,Goalkeeper,180.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+M. Viti,Defender,633.0,9.0,7.0,2.0,1.0,1.0,0.11,0.0,0.0,0.0,nice
+N. Pépé,Attacker,1529.0,19.0,17.0,2.0,7.0,6.0,0.32,2.0,0.0,0.0,nice
+P. Rosario,Midfielder,1485.0,26.0,14.0,12.0,4.0,0.0,0.0,5.0,0.0,0.0,nice
+R. Barkley,Midfielder,802.0,24.0,8.0,16.0,6.0,3.0,0.12,1.0,0.0,0.0,nice
+R. Belahyane,Midfielder,101.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+S. Diop,Midfielder,1009.0,18.0,12.0,6.0,9.0,1.0,0.06,1.0,0.0,0.0,nice
+S. Kari,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+T. Boulhendi,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+T. Louchet,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+T. Moffi,Attacker,883.0,11.0,10.0,1.0,6.0,4.0,0.36,1.0,0.0,0.0,nice
+T. Trinker,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+Y. Atal,Defender,658.0,14.0,7.0,7.0,5.0,1.0,0.07,1.0,0.0,0.0,nice
+Y. Nahounou,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nice
+Y. Ndayishimiye,Midfielder,566.0,10.0,6.0,4.0,2.0,1.0,0.1,2.0,0.0,0.0,nice
+A. Aouchiche,Midfielder,241.0,11.0,1.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,lorient
+A. Kari,Midfielder,31.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+A. Pelon,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+B. Dieng,Attacker,722.0,13.0,9.0,4.0,9.0,3.0,0.23,1.0,0.0,0.0,lorient
+B. Innocent,Midfielder,1009.0,22.0,11.0,11.0,9.0,0.0,0.0,5.0,0.0,0.0,lorient
+B. Meité,Midfielder,1238.0,14.0,13.0,1.0,0.0,1.0,0.07,4.0,0.0,0.0,lorient
+D. Yongwa,Defender,449.0,10.0,4.0,6.0,1.0,1.0,0.1,0.0,0.0,0.0,lorient
+E. Colas,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+E. Kroupi,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+E. Le Fée,Midfielder,2596.0,30.0,30.0,0.0,12.0,5.0,0.17,4.0,0.0,0.0,lorient
+G. Kalulu,Defender,2069.0,24.0,23.0,1.0,1.0,0.0,0.0,5.0,0.0,0.0,lorient
+I. Koné,Attacker,1153.0,32.0,10.0,22.0,7.0,5.0,0.16,2.0,0.0,0.0,lorient
+Igor Silva,Defender,457.0,7.0,5.0,2.0,2.0,0.0,0.0,2.0,0.0,1.0,lorient
+J. Laporte,Defender,1543.0,18.0,18.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,lorient
+J. Makengo,Midfielder,838.0,11.0,10.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,lorient
+J. Pollersbeck,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+J. Ponceau,Midfielder,1654.0,30.0,20.0,10.0,17.0,1.0,0.03,1.0,0.0,0.0,lorient
+K. Nagera,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+L. Abergel,Midfielder,1908.0,24.0,23.0,1.0,7.0,0.0,0.0,5.0,1.0,0.0,lorient
+M. Talbi,Defender,2970.0,33.0,33.0,0.0,0.0,1.0,0.03,0.0,0.0,0.0,lorient
+M. Wackers,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+P. Bellon,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+P. Nouga,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+R. Faivre,Midfielder,817.0,11.0,9.0,2.0,6.0,1.0,0.09,0.0,0.0,0.0,lorient
+S. Diarra,Midfielder,1068.0,28.0,14.0,14.0,14.0,2.0,0.07,1.0,0.0,0.0,lorient
+S. Doucouré,Attacker,107.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+T. Bartouche,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lorient
+T. Le Bris,Defender,1265.0,22.0,14.0,8.0,8.0,2.0,0.09,0.0,0.0,0.0,lorient
+V. Le Goff,Defender,2880.0,32.0,32.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,lorient
+V. Mannone,Goalkeeper,1607.0,18.0,17.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,lorient
+Y. Cathline,Midfielder,1001.0,20.0,10.0,10.0,6.0,1.0,0.05,0.0,0.0,0.0,lorient
+Y. Mvogo,Goalkeeper,1363.0,16.0,16.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,lorient
+A. Flips,Midfielder,1701.0,28.0,24.0,4.0,19.0,4.0,0.14,2.0,0.0,1.0,reims
+A. Matusiwa,Midfielder,2149.0,26.0,25.0,1.0,8.0,0.0,0.0,4.0,0.0,0.0,reims
+A. Olliero,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+A. Zeneli,Midfielder,985.0,22.0,12.0,10.0,12.0,0.0,0.0,0.0,0.0,0.0,reims
+C. Keita,Defender,533.0,7.0,6.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0,reims
+D. Lopy,Midfielder,1264.0,26.0,15.0,11.0,9.0,0.0,0.0,5.0,1.0,1.0,reims
+E. Agbadou,Defender,2155.0,26.0,24.0,2.0,0.0,0.0,0.0,5.0,0.0,2.0,reims
+F. Balogun,Attacker,2568.0,32.0,29.0,3.0,14.0,18.0,0.56,4.0,0.0,0.0,reims
+F. Duparchy,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+J. Cajuste,Midfielder,1166.0,26.0,10.0,16.0,7.0,3.0,0.12,8.0,1.0,0.0,reims
+J. Ito,Attacker,2480.0,30.0,29.0,1.0,13.0,5.0,0.17,3.0,0.0,1.0,reims
+K. Doumbia,Midfielder,1076.0,24.0,12.0,12.0,12.0,2.0,0.08,0.0,0.0,0.0,reims
+K. Sierhuis,Attacker,132.0,11.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+M. Busi,Defender,757.0,16.0,8.0,8.0,5.0,0.0,0.0,3.0,0.0,0.0,reims
+M. Maolida,Attacker,195.0,8.0,2.0,6.0,2.0,1.0,0.12,0.0,0.0,0.0,reims
+M. Munetsi,Midfielder,2267.0,29.0,26.0,3.0,9.0,6.0,0.21,6.0,0.0,0.0,reims
+M. van Bergen,Attacker,887.0,28.0,6.0,22.0,4.0,0.0,0.0,1.0,0.0,0.0,reims
+N. Holm,Attacker,187.0,8.0,2.0,6.0,1.0,0.0,0.0,1.0,0.0,0.0,reims
+N. Penneteau,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+Ognjen Lukić,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+S. Koeberlé,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+S. Sylla,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+T. De Smet,Defender,1585.0,19.0,18.0,1.0,5.0,0.0,0.0,2.0,0.0,0.0,reims
+T. Foket,Defender,1546.0,19.0,18.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,reims
+T. Koudou,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,reims
+V. Atangana Edoa,Midfielder,72.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,reims
+Y. Abdelhamid,Defender,2970.0,33.0,33.0,0.0,0.0,1.0,0.03,3.0,0.0,0.0,reims
+Y. Diouf,Goalkeeper,2340.0,26.0,26.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,reims
+A. Maurer,Attacker,434.0,9.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,clermont
+A. Seidu,Defender,2013.0,23.0,23.0,0.0,4.0,0.0,0.0,9.0,0.0,1.0,clermont
+B. Diallo,Defender,83.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+C. Konaté,Defender,570.0,9.0,6.0,3.0,1.0,0.0,0.0,2.0,0.0,0.0,clermont
+E. Rashani,Midfielder,1810.0,27.0,22.0,5.0,17.0,3.0,0.11,2.0,0.0,0.0,clermont
+F. Ogier,Defender,1512.0,23.0,16.0,7.0,1.0,0.0,0.0,3.0,0.0,0.0,clermont
+G. Kyei,Attacker,1842.0,32.0,21.0,11.0,16.0,7.0,0.22,3.0,0.0,0.0,clermont
+G. Versini,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+J. Allevinah,Attacker,2050.0,31.0,23.0,8.0,12.0,1.0,0.03,2.0,0.0,0.0,clermont
+J. Gastien,Midfielder,2157.0,26.0,24.0,2.0,6.0,3.0,0.12,6.0,0.0,0.0,clermont
+Jérémie Bela,Attacker,719.0,17.0,7.0,10.0,5.0,1.0,0.06,0.0,0.0,0.0,clermont
+K. Andrić,Attacker,1392.0,29.0,16.0,13.0,14.0,4.0,0.14,3.0,0.0,0.0,clermont
+L. Margueron,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+M. Caufriez,Defender,1774.0,21.0,20.0,1.0,2.0,0.0,0.0,8.0,1.0,0.0,clermont
+M. Cham,Midfielder,1765.0,33.0,21.0,12.0,18.0,7.0,0.21,2.0,0.0,0.0,clermont
+M. Diaw,Goalkeeper,2970.0,33.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+M. Gonalons,Midfielder,1278.0,21.0,17.0,4.0,15.0,1.0,0.05,3.0,0.0,0.0,clermont
+M. Wieteska,Defender,2850.0,32.0,32.0,0.0,2.0,0.0,0.0,5.0,0.0,1.0,clermont
+M. Zeffane,Defender,402.0,13.0,4.0,9.0,4.0,0.0,0.0,1.0,0.0,0.0,clermont
+Neto Borges,Defender,2389.0,28.0,28.0,0.0,2.0,2.0,0.07,3.0,1.0,1.0,clermont
+O. Djoco,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+O. Kamdem,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+S. Berkani,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+S. Cissé,Defender,35.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+S. Khaoui,Midfielder,1794.0,29.0,20.0,9.0,15.0,5.0,0.17,4.0,0.0,0.0,clermont
+Y. Magnin,Midfielder,2120.0,33.0,22.0,11.0,3.0,0.0,0.0,6.0,0.0,0.0,clermont
+Y. Massolin,Midfielder,54.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,clermont
+A. Gueguin,Attacker,19.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+A. Nordin,Attacker,1968.0,31.0,25.0,6.0,21.0,7.0,0.23,3.0,0.0,0.0,montpellier
+B. Kamara,Goalkeeper,407.0,5.0,4.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,montpellier
+B. Lecomte,Goalkeeper,1260.0,14.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+B. Makouana,Attacker,193.0,8.0,1.0,7.0,1.0,0.0,0.0,1.0,0.0,0.0,montpellier
+C. Jullien,Defender,2426.0,27.0,27.0,0.0,1.0,0.0,0.0,4.0,0.0,0.0,montpellier
+D. Bertaud,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+E. Bongemba,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+E. Tchato,Defender,992.0,19.0,10.0,9.0,5.0,1.0,0.05,1.0,0.0,0.0,montpellier
+E. Wahi,Attacker,2234.0,29.0,26.0,3.0,17.0,13.0,0.45,7.0,0.0,1.0,montpellier
+F. Maouassa,Defender,1674.0,28.0,20.0,8.0,16.0,4.0,0.14,0.0,0.0,0.0,montpellier
+F. Sacko,Defender,2202.0,30.0,25.0,5.0,6.0,0.0,0.0,2.0,0.0,0.0,montpellier
+I. Sylla,Defender,1080.0,12.0,12.0,0.0,0.0,1.0,0.08,0.0,0.0,0.0,montpellier
+J. Chotard,Midfielder,2010.0,30.0,21.0,9.0,9.0,0.0,0.0,4.0,0.0,0.0,montpellier
+J. Ferri,Midfielder,2381.0,29.0,28.0,1.0,10.0,0.0,0.0,5.0,1.0,0.0,montpellier
+K. Fayad,Midfielder,568.0,22.0,5.0,17.0,2.0,0.0,0.0,1.0,0.0,1.0,montpellier
+K. Kouyaté,Defender,993.0,12.0,12.0,0.0,2.0,0.0,0.0,4.0,0.0,0.0,montpellier
+L. Leroy,Midfielder,1063.0,23.0,13.0,10.0,11.0,0.0,0.0,6.0,0.0,0.0,montpellier
+M. Estève,Defender,1362.0,19.0,15.0,4.0,3.0,0.0,0.0,3.0,0.0,0.0,montpellier
+M. Loubatieres,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+M. Sakho,Defender,681.0,13.0,6.0,7.0,5.0,1.0,0.08,2.0,0.0,0.0,montpellier
+M. Suárez,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+Matis Carvalho,Goalkeeper,135.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+Pedro Mendes,Defender,12.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+R. Halhal,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+R. Tchato,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+S. Faye,Attacker,35.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+S. Mavididi,Attacker,1048.0,21.0,12.0,9.0,9.0,4.0,0.19,1.0,0.0,1.0,montpellier
+T. Allix,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+T. Sainte-Luce,Defender,357.0,5.0,5.0,0.0,2.0,1.0,0.2,0.0,0.0,0.0,montpellier
+T. Savanier,Midfielder,2306.0,27.0,27.0,0.0,7.0,10.0,0.37,4.0,0.0,3.0,montpellier
+T. Tamas,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+V. Germain,Attacker,648.0,28.0,5.0,23.0,4.0,2.0,0.07,1.0,0.0,1.0,montpellier
+W. Khazri,Attacker,1527.0,25.0,18.0,7.0,12.0,4.0,0.16,5.0,0.0,1.0,montpellier
+Yanis Guermouche,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,montpellier
+A. Onaiwu,Attacker,932.0,30.0,7.0,23.0,7.0,2.0,0.07,0.0,0.0,0.0,toulouse
+A. Rouault,Defender,2956.0,33.0,33.0,0.0,1.0,2.0,0.06,3.0,1.0,0.0,toulouse
+B. Dejaegere,Midfielder,1657.0,26.0,23.0,3.0,23.0,4.0,0.15,5.0,0.0,0.0,toulouse
+B. van den Boomen,Midfielder,2661.0,31.0,30.0,1.0,7.0,5.0,0.16,6.0,0.0,0.0,toulouse
+C. Mawissa Elebi,Defender,97.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,toulouse
+D. Genreau,Midfielder,458.0,17.0,4.0,13.0,4.0,0.0,0.0,2.0,0.0,0.0,toulouse
+E. Zuliani,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,toulouse
+F. Chaïbi,Midfielder,2030.0,31.0,21.0,10.0,14.0,5.0,0.16,2.0,0.0,0.0,toulouse
+G. Suazo,Defender,897.0,14.0,10.0,4.0,2.0,0.0,0.0,1.0,0.0,0.0,toulouse
+Guillaume Restes,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,toulouse
+I. Aradj,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,toulouse
+K. Haug,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,toulouse
+K. Keben,Defender,356.0,11.0,4.0,7.0,2.0,0.0,0.0,1.0,0.0,0.0,toulouse
+Logan Costa,Defender,233.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,toulouse
+M. Desler,Defender,1927.0,23.0,22.0,1.0,6.0,1.0,0.04,4.0,1.0,0.0,toulouse
+M. Diarra,Defender,1130.0,22.0,11.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0,toulouse
+M. Dupé,Goalkeeper,2970.0,33.0,33.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,toulouse
+O. Zandén,Defender,143.0,5.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,toulouse
+R. Healey,Attacker,58.0,3.0,0.0,3.0,0.0,1.0,0.33,0.0,0.0,0.0,toulouse
+R. Nicolaisen,Defender,2637.0,30.0,30.0,0.0,1.0,0.0,0.0,5.0,1.0,0.0,toulouse
+Rafael Ratão,Attacker,1579.0,25.0,22.0,3.0,21.0,5.0,0.2,2.0,0.0,0.0,toulouse
+S. Hamulic,Attacker,78.0,4.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,toulouse
+S. Spierings,Midfielder,2796.0,32.0,31.0,1.0,2.0,2.0,0.06,4.0,0.0,0.0,toulouse
+T. Dallinga,Attacker,2025.0,32.0,24.0,8.0,21.0,12.0,0.38,4.0,0.0,0.0,toulouse
+T. Himeur,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,toulouse
+T. Tsingaras,Midfielder,7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,toulouse
+V. Birmančević,Midfielder,331.0,21.0,1.0,20.0,1.0,0.0,0.0,0.0,0.0,0.0,toulouse
+V. Sierro,Midfielder,388.0,10.0,4.0,6.0,2.0,0.0,0.0,2.0,0.0,0.0,toulouse
+W. Kamanzi,Defender,457.0,8.0,5.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,toulouse
+Z. Aboukhlal,Attacker,2260.0,33.0,26.0,7.0,15.0,8.0,0.24,4.0,0.0,0.0,toulouse
+A. Djiku,Defender,2519.0,29.0,29.0,0.0,3.0,1.0,0.03,8.0,0.0,0.0,strasbourg
+A. Nuss,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+Alexandre Pierre,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+Anas Nanah,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+C. Dagba,Defender,744.0,17.0,9.0,8.0,9.0,0.0,0.0,2.0,0.0,0.0,strasbourg
+D. Jean,Midfielder,12.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+D. Liénard,Midfielder,1501.0,25.0,18.0,7.0,10.0,0.0,0.0,4.0,0.0,0.0,strasbourg
+E. Kawashima,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+E. Sobol,Defender,767.0,13.0,8.0,5.0,3.0,0.0,0.0,2.0,0.0,0.0,strasbourg
+F. Bouebari,Defender,74.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+F. Guilbert,Defender,1014.0,13.0,12.0,1.0,4.0,0.0,0.0,3.0,0.0,0.0,strasbourg
+G. Nyamsi,Defender,1386.0,17.0,17.0,0.0,2.0,1.0,0.06,4.0,0.0,1.0,strasbourg
+H. Diallo,Attacker,2436.0,32.0,27.0,5.0,5.0,17.0,0.53,3.0,1.0,0.0,strasbourg
+H. Diarra,Midfielder,1204.0,24.0,13.0,11.0,10.0,1.0,0.04,3.0,0.0,0.0,strasbourg
+I. Doukouré,Defender,1864.0,23.0,20.0,3.0,4.0,1.0,0.04,5.0,0.0,0.0,strasbourg
+I. Sissoko,Midfielder,1004.0,22.0,9.0,13.0,5.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+J. Aholou,Midfielder,1272.0,27.0,16.0,11.0,14.0,3.0,0.11,4.0,0.0,1.0,strasbourg
+J. Bellegarde,Midfielder,1989.0,25.0,24.0,1.0,9.0,1.0,0.04,4.0,0.0,0.0,strasbourg
+J. Robinand,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+K. Gameiro,Attacker,2017.0,30.0,23.0,7.0,14.0,9.0,0.3,0.0,0.0,1.0,strasbourg
+L. Mothiba,Attacker,419.0,18.0,3.0,15.0,3.0,3.0,0.17,0.0,0.0,0.0,strasbourg
+L. Perrin,Defender,1413.0,22.0,14.0,8.0,1.0,0.0,0.0,3.0,0.0,0.0,strasbourg
+M. Le Marchand,Defender,1747.0,23.0,20.0,3.0,4.0,0.0,0.0,5.0,1.0,0.0,strasbourg
+M. Sanson,Midfielder,999.0,13.0,13.0,0.0,10.0,1.0,0.08,1.0,0.0,0.0,strasbourg
+M. Sels,Goalkeeper,2970.0,33.0,33.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,strasbourg
+N. Kandil,Midfielder,94.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+R. Risser,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+S. Prcić,Midfielder,1579.0,27.0,17.0,10.0,10.0,1.0,0.04,3.0,0.0,1.0,strasbourg
+T. Delaine,Defender,1030.0,16.0,12.0,4.0,10.0,0.0,0.0,3.0,0.0,0.0,strasbourg
+T. Saettel,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strasbourg
+Y. Suzuki,Midfielder,22.0,2.0,0.0,2.0,0.0,1.0,0.5,0.0,0.0,0.0,strasbourg
+A. Dari,Defender,1317.0,18.0,15.0,3.0,3.0,1.0,0.06,1.0,0.0,0.0,brest
+A. Elis,Attacker,245.0,9.0,2.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,brest
+B. Chardonnet,Defender,2038.0,25.0,22.0,3.0,0.0,0.0,0.0,5.0,0.0,0.0,brest
+B. Locko,Defender,237.0,5.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,brest
+C. Hérelle,Defender,1059.0,16.0,12.0,4.0,3.0,0.0,0.0,2.0,0.0,0.0,brest
+F. Honorat,Midfielder,2331.0,29.0,27.0,2.0,11.0,5.0,0.17,1.0,0.0,0.0,brest
+F. Lemaréchal,Midfielder,190.0,9.0,1.0,8.0,1.0,0.0,0.0,1.0,0.0,0.0,brest
+G. Coudert,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,brest
+H. Belkebla,Midfielder,2253.0,33.0,25.0,8.0,7.0,1.0,0.03,3.0,0.0,0.0,brest
+H. Magnetti,Midfielder,1490.0,29.0,16.0,13.0,10.0,0.0,0.0,1.0,0.0,0.0,brest
+J. Blázquez,Goalkeeper,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,brest
+J. Duverne,Defender,2093.0,29.0,22.0,7.0,3.0,0.0,0.0,1.0,0.0,0.0,brest
+J. Le Douaron,Attacker,1689.0,27.0,19.0,8.0,15.0,9.0,0.33,1.0,0.0,0.0,brest
+K. Dembélé,Attacker,149.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,brest
+K. Lala,Defender,969.0,12.0,11.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,brest
+L. Brassier,Defender,2644.0,31.0,30.0,1.0,2.0,0.0,0.0,4.0,0.0,0.0,brest
+L. Rémy,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,brest
+M. Bizot,Goalkeeper,2880.0,32.0,32.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,brest
+M. Camara,Midfielder,1793.0,26.0,20.0,6.0,16.0,1.0,0.04,3.0,0.0,1.0,brest
+Mathias Pereira Lage,Midfielder,1189.0,21.0,15.0,6.0,13.0,2.0,0.1,2.0,0.0,0.0,brest
+N. Fadiga,Defender,1312.0,21.0,16.0,5.0,9.0,1.0,0.05,2.0,0.0,0.0,brest
+P. Lees-Melou,Midfielder,2323.0,27.0,27.0,0.0,5.0,5.0,0.19,8.0,0.0,1.0,brest
+R. Del Castillo,Midfielder,1141.0,22.0,13.0,9.0,14.0,5.0,0.23,2.0,0.0,0.0,brest
+S. Mounié,Attacker,1218.0,18.0,15.0,3.0,9.0,5.0,0.28,1.0,0.0,0.0,brest
+T. Arconte,Attacker,126.0,4.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,brest
+A. Zedadka,Defender,1281.0,15.0,15.0,0.0,2.0,0.0,0.0,4.0,0.0,0.0,auxerre
+B. Touré,Midfielder,2955.0,33.0,33.0,0.0,3.0,2.0,0.06,3.0,0.0,0.0,auxerre
+D. Bain,Defender,124.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+D. Léon,Goalkeeper,180.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+E. Owusu,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+G. Hein,Attacker,1520.0,30.0,18.0,12.0,17.0,2.0,0.07,1.0,0.0,0.0,auxerre
+G. Mensah,Defender,1813.0,21.0,21.0,0.0,2.0,0.0,0.0,5.0,0.0,0.0,auxerre
+G. Perrin,Attacker,1258.0,32.0,14.0,18.0,14.0,3.0,0.09,1.0,0.0,0.0,auxerre
+H. Massengo,Midfielder,709.0,9.0,8.0,1.0,3.0,0.0,0.0,2.0,0.0,0.0,auxerre
+H. Sakhi,Midfielder,1604.0,24.0,18.0,6.0,10.0,1.0,0.04,1.0,0.0,0.0,auxerre
+I. Metsoko,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+I. Radu,Goalkeeper,1080.0,12.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+J. Jeanvier,Defender,1670.0,20.0,19.0,1.0,2.0,1.0,0.05,4.0,1.0,0.0,auxerre
+Jubal,Defender,2765.0,32.0,30.0,2.0,0.0,3.0,0.09,4.0,0.0,0.0,auxerre
+K. Boto,Defender,180.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+K. Danois,Midfielder,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+K. Ruiz-Atil,Midfielder,63.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,auxerre
+K. Silvestre,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+L. Sinayoko,Attacker,1370.0,28.0,14.0,14.0,11.0,0.0,0.0,1.0,1.0,0.0,auxerre
+Lamine Robert Buhanga,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+M. Abline,Attacker,728.0,15.0,8.0,7.0,7.0,2.0,0.13,0.0,0.0,0.0,auxerre
+M. Autret,Midfielder,1298.0,22.0,16.0,6.0,16.0,2.0,0.09,0.0,0.0,0.0,auxerre
+M. Niang,Attacker,1367.0,27.0,16.0,11.0,13.0,5.0,0.19,2.0,0.0,2.0,auxerre
+N. Bouekou,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+Nuno da Costa,Attacker,1658.0,28.0,18.0,10.0,16.0,5.0,0.18,4.0,1.0,0.0,auxerre
+Ousmane Camara,Attacker,22.0,3.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,auxerre
+Ousoumane Camara,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+R. Dugimont,Attacker,103.0,11.0,0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,auxerre
+R. Lipinski,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+R. Raveloson,Midfielder,1983.0,29.0,22.0,7.0,3.0,1.0,0.03,0.0,0.0,0.0,auxerre
+S. Dembélé,Midfielder,296.0,8.0,4.0,4.0,4.0,0.0,0.0,1.0,0.0,0.0,auxerre
+S. Touré,Defender,1158.0,14.0,13.0,1.0,1.0,0.0,0.0,4.0,1.0,0.0,auxerre
+T. De Percin,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+T. Pellenard,Defender,99.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,auxerre
+V. Cozzella,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,auxerre
+Y. M'Changama,Midfielder,989.0,25.0,10.0,15.0,7.0,0.0,0.0,1.0,0.0,0.0,auxerre
+A. Delort,Attacker,434.0,10.0,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,nantes
+A. Lafont,Goalkeeper,2880.0,32.0,32.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,nantes
+Andrei Girotto,Defender,2703.0,31.0,31.0,0.0,6.0,1.0,0.03,6.0,0.0,0.0,nantes
+C. Traoré,Defender,321.0,9.0,4.0,5.0,3.0,0.0,0.0,2.0,0.0,0.0,nantes
+D. Petrić,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+E. Guessand,Attacker,1228.0,29.0,15.0,14.0,13.0,3.0,0.1,2.0,0.0,0.0,nantes
+F. Centonze,Defender,1465.0,20.0,16.0,4.0,4.0,0.0,0.0,4.0,0.0,0.0,nantes
+F. Mollet,Midfielder,817.0,14.0,9.0,5.0,6.0,1.0,0.07,1.0,0.0,0.0,nantes
+G. Manvelyan,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+I. Ganago,Attacker,1290.0,25.0,13.0,12.0,9.0,4.0,0.16,0.0,0.0,0.0,nantes
+J. Castelletto,Defender,2119.0,27.0,25.0,2.0,3.0,0.0,0.0,2.0,0.0,0.0,nantes
+J. Hadjam,Defender,747.0,11.0,8.0,3.0,5.0,0.0,0.0,1.0,0.0,0.0,nantes
+João Victor,Defender,614.0,10.0,6.0,4.0,1.0,0.0,0.0,3.0,0.0,0.0,nantes
+L. Blas,Midfielder,2395.0,32.0,25.0,7.0,8.0,7.0,0.22,3.0,0.0,0.0,nantes
+L. Doucet,Midfielder,83.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+M. Acapandié,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+M. Coco,Attacker,376.0,21.0,3.0,18.0,3.0,1.0,0.05,1.0,0.0,0.0,nantes
+M. Diaz,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+M. Simon,Attacker,2151.0,29.0,26.0,3.0,17.0,5.0,0.17,3.0,0.0,0.0,nantes
+M. Sissoko,Midfielder,1855.0,26.0,22.0,4.0,13.0,2.0,0.08,3.0,0.0,0.0,nantes
+Mostafa Mohamed,Attacker,1760.0,33.0,17.0,16.0,11.0,8.0,0.24,0.0,0.0,0.0,nantes
+N. Pallois,Defender,1980.0,23.0,23.0,0.0,2.0,1.0,0.04,3.0,1.0,0.0,nantes
+N. Zeze,Defender,60.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nantes
+Pedro Chirivella,Midfielder,1903.0,24.0,23.0,1.0,13.0,0.0,0.0,1.0,0.0,0.0,nantes
+Q. Merlin,Midfielder,1429.0,19.0,17.0,2.0,9.0,0.0,0.0,1.0,0.0,0.0,nantes
+R. Descamps,Goalkeeper,90.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,nantes
+R. Voisine,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+S. Appuah,Attacker,15.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+S. Corchia,Defender,773.0,22.0,6.0,16.0,4.0,0.0,0.0,3.0,0.0,0.0,nantes
+S. Moutoussamy,Midfielder,1950.0,30.0,22.0,8.0,9.0,0.0,0.0,7.0,0.0,0.0,nantes
+S. Yépié Yépié,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nantes
+A. Khelifa,Defender,8.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+A. N'Diaye,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+B. Leroy,Goalkeeper,2619.0,30.0,30.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,ajaccio
+C. Alhadhur,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+C. Avinel,Defender,1609.0,22.0,17.0,5.0,0.0,1.0,0.05,2.0,0.0,1.0,ajaccio
+C. Bayala,Attacker,1835.0,30.0,23.0,7.0,17.0,1.0,0.03,3.0,0.0,1.0,ajaccio
+C. Vidal,Defender,1451.0,21.0,16.0,5.0,3.0,0.0,0.0,4.0,0.0,1.0,ajaccio
+F. Chabrolle,Midfielder,318.0,6.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,ajaccio
+F. Mayembo,Defender,707.0,11.0,8.0,3.0,3.0,0.0,0.0,1.0,0.0,0.0,ajaccio
+F. Sollacaro,Goalkeeper,270.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,ajaccio
+G. Quilichini,Goalkeeper,81.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+I. Chegra,Attacker,44.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+I. Diallo,Defender,2033.0,26.0,23.0,3.0,5.0,0.0,0.0,9.0,0.0,1.0,ajaccio
+J. Botué,Midfielder,225.0,8.0,2.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+K. Spadanuda,Midfielder,852.0,19.0,10.0,9.0,8.0,0.0,0.0,3.0,0.0,0.0,ajaccio
+M. Alphonse,Defender,1246.0,23.0,13.0,10.0,4.0,0.0,0.0,2.0,0.0,0.0,ajaccio
+M. Barreto,Midfielder,1000.0,16.0,11.0,5.0,4.0,1.0,0.06,1.0,0.0,0.0,ajaccio
+M. Coutadeur,Midfielder,1608.0,22.0,18.0,4.0,6.0,0.0,0.0,2.0,0.0,0.0,ajaccio
+M. Djitté,Attacker,133.0,6.0,1.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+M. El Idrissy,Attacker,2355.0,30.0,28.0,2.0,14.0,6.0,0.2,10.0,0.0,0.0,ajaccio
+M. Puch-Herrantz,Midfielder,21.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+M. Silla,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+M. Soumano,Attacker,360.0,9.0,4.0,5.0,4.0,1.0,0.11,2.0,0.0,0.0,ajaccio
+M. Youssouf,Defender,2007.0,25.0,22.0,3.0,2.0,0.0,0.0,5.0,0.0,1.0,ajaccio
+O. Gonzalez,Defender,2219.0,26.0,25.0,1.0,3.0,0.0,0.0,8.0,0.0,0.0,ajaccio
+O. Pantaloni,,,,,,,,0.0,,,,ajaccio
+Paolo Lebas,Midfielder,55.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+R. Hamouma,Attacker,1025.0,18.0,13.0,5.0,10.0,2.0,0.11,3.0,2.0,0.0,ajaccio
+R. Nouri,Midfielder,1422.0,28.0,13.0,15.0,11.0,1.0,0.04,3.0,0.0,0.0,ajaccio
+Ruan Levine,Attacker,22.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+T. Mangani,Midfielder,1164.0,23.0,12.0,11.0,6.0,1.0,0.04,3.0,0.0,0.0,ajaccio
+T. Strata,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+V. Marchetti,Midfielder,2124.0,27.0,25.0,2.0,11.0,0.0,0.0,5.0,0.0,0.0,ajaccio
+Victor Lebas,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+Y. Belaïli,Midfielder,1161.0,17.0,15.0,2.0,13.0,6.0,0.35,2.0,0.0,0.0,ajaccio
+Y. Cimignani,Midfielder,276.0,8.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,ajaccio
+Y. Koné,Defender,859.0,12.0,11.0,1.0,5.0,0.0,0.0,4.0,0.0,0.0,ajaccio
+Y. Touzghar,Attacker,447.0,11.0,5.0,6.0,5.0,0.0,0.0,0.0,0.0,1.0,ajaccio
+A. Bruus,Defender,1451.0,22.0,16.0,6.0,7.0,0.0,0.0,2.0,0.0,0.0,troyes
+A. Palaversa,Midfielder,29.0,2.0,0.0,2.0,0.0,1.0,0.5,0.0,0.0,0.0,troyes
+A. Rami,Defender,1330.0,17.0,15.0,2.0,6.0,0.0,0.0,2.0,0.0,0.0,troyes
+A. Tibidi,Midfielder,72.0,3.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,troyes
+Abdu Conté,Defender,1179.0,16.0,13.0,3.0,5.0,1.0,0.06,1.0,0.0,0.0,troyes
+C. Michel,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+D. Dongmo,Midfielder,18.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+D. Mazou-Sacko,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+E. N'jo,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+E. Palmer-Brown,Defender,2743.0,33.0,31.0,2.0,4.0,0.0,0.0,4.0,0.0,0.0,troyes
+F. Tardieu,Midfielder,1009.0,14.0,11.0,3.0,4.0,3.0,0.21,2.0,0.0,0.0,troyes
+G. Gallon,Goalkeeper,2340.0,26.0,26.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,troyes
+I. Ugbo,Attacker,545.0,21.0,5.0,16.0,5.0,2.0,0.1,0.0,0.0,0.0,troyes
+J. Moulin,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+J. Porozo,Defender,1515.0,20.0,16.0,4.0,2.0,2.0,0.1,3.0,0.0,0.0,troyes
+J. Reine-Adélaïde,Midfielder,233.0,6.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,troyes
+K. Azamoum,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+K. Dong,Midfielder,55.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+L. Agoumé,Midfielder,1030.0,14.0,13.0,1.0,5.0,0.0,0.0,6.0,0.0,0.0,troyes
+L. Lumeka,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+M. Hamdi,Defender,68.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+M. Lis,Goalkeeper,630.0,7.0,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,troyes
+Mama Baldé,Attacker,2371.0,30.0,27.0,3.0,8.0,12.0,0.4,4.0,1.0,1.0,troyes
+P. Yade,Attacker,541.0,12.0,6.0,6.0,3.0,0.0,0.0,1.0,0.0,1.0,troyes
+R. Fage,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+R. Kohon,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+R. Kouamé,Midfielder,2301.0,27.0,27.0,0.0,8.0,1.0,0.04,7.0,0.0,0.0,troyes
+R. Ripart,Midfielder,1318.0,26.0,15.0,11.0,11.0,4.0,0.15,4.0,0.0,0.0,troyes
+Rony Lopes,Midfielder,1989.0,27.0,25.0,2.0,15.0,5.0,0.19,2.0,0.0,0.0,troyes
+T. Baldé,Defender,1904.0,27.0,22.0,5.0,10.0,0.0,0.0,1.0,0.0,0.0,troyes
+T. Zoukrou,Defender,248.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,troyes
+W. Odobert,Attacker,1594.0,30.0,17.0,13.0,12.0,4.0,0.13,0.0,0.0,0.0,troyes
+X. Chavalerin,Midfielder,1971.0,29.0,20.0,9.0,2.0,2.0,0.07,3.0,0.0,0.0,troyes
+Y. Larouci,Defender,1481.0,25.0,17.0,8.0,9.0,1.0,0.04,1.0,0.0,0.0,troyes
+Y. Salmier,Defender,2475.0,30.0,29.0,1.0,4.0,1.0,0.03,5.0,0.0,1.0,troyes
+A. Bamba,Defender,906.0,16.0,7.0,9.0,0.0,0.0,0.0,2.0,0.0,0.0,angers sco
+A. Hunou,Attacker,2064.0,29.0,26.0,3.0,19.0,4.0,0.14,2.0,0.0,0.0,angers sco
+A. Kalla,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+A. Salama,Attacker,1245.0,25.0,12.0,13.0,8.0,3.0,0.12,1.0,0.0,0.0,angers sco
+A. Sima,Attacker,1427.0,29.0,15.0,14.0,10.0,3.0,0.1,0.0,0.0,0.0,angers sco
+B. Mendy,Midfielder,2497.0,30.0,30.0,0.0,9.0,0.0,0.0,7.0,1.0,0.0,angers sco
+C. Hountondji,Defender,2853.0,33.0,32.0,1.0,2.0,0.0,0.0,7.0,0.0,0.0,angers sco
+D. N'Diaye,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+F. El Melali,Midfielder,765.0,15.0,9.0,6.0,8.0,0.0,0.0,1.0,0.0,0.0,angers sco
+F. Ghoulam,Defender,482.0,7.0,6.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,angers sco
+G. Nadje,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+H. Abdelli,Midfielder,1697.0,25.0,19.0,6.0,8.0,0.0,0.0,3.0,0.0,0.0,angers sco
+H. Šabanović,Defender,396.0,10.0,5.0,5.0,2.0,1.0,0.1,1.0,0.0,1.0,angers sco
+I. Chetti,Defender,205.0,6.0,2.0,4.0,2.0,0.0,0.0,1.0,0.0,0.0,angers sco
+I. Dramé,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+I. Niane,Attacker,843.0,12.0,11.0,1.0,8.0,2.0,0.17,0.0,0.0,0.0,angers sco
+J. Bahoya,Attacker,211.0,8.0,1.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,angers sco
+J. Kalumba,Attacker,397.0,5.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,angers sco
+J. Mbock,Attacker,23.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+L. Diony,Attacker,437.0,8.0,5.0,3.0,3.0,1.0,0.12,1.0,0.0,0.0,angers sco
+L. Rao-Lisoa,Defender,110.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+M. Blažič,Defender,1773.0,21.0,20.0,1.0,2.0,2.0,0.1,4.0,0.0,0.0,angers sco
+M. Zinga,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+N. Bentaleb,Midfielder,2222.0,27.0,26.0,1.0,5.0,4.0,0.15,4.0,1.0,0.0,angers sco
+O. Camara,Defender,521.0,9.0,6.0,3.0,3.0,0.0,0.0,2.0,0.0,0.0,angers sco
+P. Bernardoni,Goalkeeper,2250.0,25.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+P. Capelle,Midfielder,1277.0,23.0,14.0,9.0,6.0,0.0,0.0,8.0,0.0,0.0,angers sco
+S. Akkal,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+S. Doumbia,Defender,1773.0,23.0,21.0,2.0,5.0,0.0,0.0,2.0,0.0,1.0,angers sco
+S. Thioub,Midfielder,667.0,22.0,6.0,16.0,6.0,1.0,0.05,3.0,0.0,0.0,angers sco
+T. Borne,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+U. Eneme-Ella,Attacker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+W. Taibi,Midfielder,180.0,11.0,1.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,angers sco
+Y. Belkdim,Midfielder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+Y. Fofana,Goalkeeper,720.0,8.0,8.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,angers sco
+Y. Gaya,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco
+Y. Valery,Defender,2054.0,25.0,25.0,0.0,8.0,0.0,0.0,2.0,0.0,0.0,angers sco
+Z. Ould Khaled,Defender,40.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,angers sco

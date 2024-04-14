@@ -1,0 +1,507 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches,club
+João Cancelo,pt POR,DF,27.0,35.9,7,0,0,34,26,2,124,59,54,0.0,0.0,0,217.0,57.0,51.0,52.8,Matches,manchester city
+Rodri,es ESP,MF,25.0,32.0,5,0,0,43,20,0,9,28,43,0.0,0.0,0,292.0,85.0,33.0,72.0,Matches,manchester city
+Bernardo Silva,pt POR,"MF,FW",26.0,31.7,6,0,0,30,33,9,58,20,29,1.0,0.0,0,156.0,7.0,15.0,31.8,Matches,manchester city
+Aymeric Laporte,es ESP,DF,27.0,31.4,5,1,0,14,10,2,5,20,15,1.0,0.0,0,182.0,52.0,32.0,61.9,Matches,manchester city
+Rúben Dias,pt POR,DF,24.0,26.7,5,0,0,27,9,2,3,23,19,0.0,0.0,0,108.0,50.0,37.0,57.5,Matches,manchester city
+Kevin De Bruyne,be BEL,MF,30.0,24.5,2,0,0,21,27,4,180,6,16,0.0,0.0,0,114.0,11.0,18.0,37.9,Matches,manchester city
+Phil Foden,eng ENG,FW,21.0,23.6,1,0,0,15,23,14,132,11,8,0.0,0.0,0,83.0,5.0,27.0,15.6,Matches,manchester city
+Raheem Sterling,eng ENG,FW,26.0,23.6,1,0,0,19,37,10,50,12,10,2.0,0.0,0,86.0,4.0,18.0,18.2,Matches,manchester city
+Jack Grealish,eng ENG,FW,25.0,21.3,3,0,0,17,55,5,32,8,17,0.0,0.0,0,63.0,14.0,28.0,33.3,Matches,manchester city
+Gabriel Jesus,br BRA,FW,24.0,20.9,1,0,0,26,26,10,24,15,12,2.0,0.0,0,76.0,21.0,36.0,36.8,Matches,manchester city
+İlkay Gündoğan,de GER,MF,30.0,20.6,1,0,0,13,10,2,67,15,9,0.0,0.0,0,110.0,11.0,12.0,47.8,Matches,manchester city
+Kyle Walker,eng ENG,DF,31.0,19.5,1,0,0,7,12,1,35,14,6,0.0,0.0,0,104.0,19.0,16.0,54.3,Matches,manchester city
+Riyad Mahrez,dz ALG,FW,30.0,16.6,0,0,0,10,15,3,97,6,3,0.0,0.0,0,70.0,8.0,14.0,36.4,Matches,manchester city
+John Stones,eng ENG,DF,27.0,12.4,0,0,0,3,6,0,3,11,3,0.0,0.0,0,52.0,47.0,10.0,82.5,Matches,manchester city
+Oleksandr Zinchenko,ua UKR,DF,24.0,11.6,0,0,0,11,2,1,31,14,14,0.0,0.0,0,65.0,15.0,16.0,48.4,Matches,manchester city
+Fernandinho,br BRA,"MF,DF",36.0,10.7,1,0,0,14,10,0,2,8,10,0.0,0.0,0,85.0,22.0,15.0,59.5,Matches,manchester city
+Nathan Aké,nl NED,DF,26.0,10.3,0,0,0,9,2,0,1,8,9,0.0,0.0,0,43.0,37.0,12.0,75.5,Matches,manchester city
+Ferrán Torres,es ESP,FW,21.0,3.4,0,0,0,1,1,1,4,0,2,0.0,0.0,0,6.0,4.0,1.0,80.0,Matches,manchester city
+Cole Palmer,eng ENG,"FW,MF",19.0,1.4,0,0,0,1,1,0,3,1,1,0.0,0.0,0,3.0,2.0,0.0,100.0,Matches,manchester city
+Zack Steffen,us USA,GK,26.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,,Matches,manchester city
+Benjamin Mendy,fr FRA,DF,27.0,0.9,0,0,0,2,0,0,9,0,2,0.0,0.0,0,5.0,0.0,3.0,0.0,Matches,manchester city
+James Mcatee,eng ENG,"MF,FW",18.0,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,1.0,0.0,100.0,Matches,manchester city
+Liam Delap,eng ENG,FW,18.0,0.1,0,0,0,1,1,0,0,0,0,1.0,0.0,0,0.0,0.0,0.0,,Matches,manchester city
+Kayky Chagas,br BRA,FW,18.0,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,manchester city
+Virgil van Dijk,nl NED,DF,30.0,34.0,3,0,0,9,8,0,0,31,10,0.0,0.0,0,204.0,117.0,34.0,77.5,Matches,liverpool
+Trent Alexander-Arnold,eng ENG,DF,22.0,31.7,2,0,0,12,7,11,273,43,23,0.0,0.0,0,235.0,15.0,13.0,53.6,Matches,liverpool
+Sadio Mané,sn SEN,FW,29.0,31.3,5,0,0,50,50,19,50,8,20,1.0,0.0,0,109.0,30.0,50.0,37.5,Matches,liverpool
+Joël Matip,cm CMR,DF,29.0,31.0,2,0,0,13,11,0,1,44,34,0.0,0.0,0,185.0,108.0,50.0,68.4,Matches,liverpool
+Mohamed Salah,eg EGY,FW,29.0,30.7,1,0,0,12,23,12,41,6,8,2.0,0.0,0,86.0,7.0,33.0,17.5,Matches,liverpool
+Jordan Henderson,eng ENG,MF,31.0,28.9,3,0,0,23,7,3,56,23,20,0.0,0.0,0,228.0,18.0,13.0,58.1,Matches,liverpool
+Andrew Robertson,sct SCO,DF,27.0,28.2,5,1,0,19,9,4,195,23,21,0.0,0.0,0,180.0,26.0,14.0,65.0,Matches,liverpool
+Diogo Jota,pt POR,FW,24.0,26.3,3,0,0,41,40,5,21,6,18,2.0,0.0,0,100.0,37.0,83.0,30.8,Matches,liverpool
+Fabinho,br BRA,MF,27.0,25.7,7,0,0,40,28,0,6,39,25,0.0,0.0,0,193.0,43.0,24.0,64.2,Matches,liverpool
+Thiago Alcántara,es ESP,MF,30.0,17.0,2,0,0,19,13,0,4,26,29,0.0,0.0,0,126.0,31.0,12.0,72.1,Matches,liverpool
+Naby Keïta,gn GUI,MF,26.0,13.0,3,0,0,21,9,0,8,14,23,0.0,0.0,0,68.0,6.0,15.0,28.6,Matches,liverpool
+Ibrahima Konaté,fr FRA,DF,22.0,11.0,2,0,0,10,3,0,0,16,10,0.0,0.0,0,64.0,34.0,19.0,64.2,Matches,liverpool
+Luis Díaz,co COL,FW,24.0,10.6,0,0,0,14,14,3,14,4,7,0.0,0.0,0,54.0,15.0,16.0,48.4,Matches,liverpool
+Roberto Firmino,br BRA,FW,29.0,11.0,3,0,0,7,6,3,8,4,14,0.0,0.0,0,53.0,14.0,27.0,34.1,Matches,liverpool
+Curtis Jones,eng ENG,MF,20.0,9.5,0,0,0,11,19,1,6,6,9,0.0,0.0,0,54.0,7.0,7.0,50.0,Matches,liverpool
+Kostas Tsimikas,gr GRE,DF,25.0,9.7,3,0,0,20,6,0,116,10,12,0.0,0.0,0,62.0,12.0,11.0,52.2,Matches,liverpool
+James Milner,eng ENG,"MF,DF",35.0,9.5,2,0,0,17,14,0,43,17,16,0.0,0.0,0,72.0,13.0,10.0,56.5,Matches,liverpool
+Alex Oxlade-Chamberlain,eng ENG,"MF,FW",27.0,8.7,0,0,0,10,3,2,26,6,11,0.0,0.0,0,33.0,5.0,12.0,29.4,Matches,liverpool
+Harvey Elliott,eng ENG,MF,18.0,3.8,0,0,0,2,6,0,10,4,0,0.0,0.0,0,31.0,2.0,2.0,50.0,Matches,liverpool
+Joe Gomez,eng ENG,DF,24.0,3.7,2,0,0,5,2,0,19,5,6,0.0,0.0,0,19.0,10.0,6.0,62.5,Matches,liverpool
+Caoimhín Kelleher,ie IRL,GK,22.0,2.0,0,0,0,0,1,0,0,0,1,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches,liverpool
+Takumi Minamino,jp JPN,"FW,MF",26.0,2.1,1,0,0,4,4,0,0,1,2,0.0,0.0,0,13.0,1.0,5.0,16.7,Matches,liverpool
+Tyler Morton,eng ENG,MF,18.0,0.7,1,0,0,1,0,0,0,3,0,0.0,0.0,0,5.0,2.0,3.0,40.0,Matches,liverpool
+Divock Origi,be BEL,FW,26.0,1.5,0,0,0,2,1,0,0,1,0,0.0,0.0,0,7.0,2.0,4.0,33.3,Matches,liverpool
+Kaide Gordon,eng ENG,FW,16.0,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0,Matches,liverpool
+Antonio Rüdiger,de GER,DF,28.0,33.7,9,0,0,35,12,0,15,28,28,2.0,0.0,0,183.0,56.0,20.0,73.7,Matches,chelsea
+Thiago Silva,br BRA,DF,36.0,29.4,2,0,0,12,12,1,2,44,21,1.0,0.0,0,214.0,56.0,31.0,64.4,Matches,chelsea
+Mason Mount,eng ENG,MF,22.0,26.3,4,0,0,30,23,5,153,13,16,0.0,0.0,0,107.0,6.0,31.0,16.2,Matches,chelsea
+Jorginho,it ITA,MF,29.0,25.3,5,0,0,30,38,0,3,36,33,0.0,0.0,0,208.0,13.0,26.0,33.3,Matches,chelsea
+Marcos Alonso,es ESP,DF,30.0,24.1,8,0,0,25,28,3,149,43,29,0.0,1.0,0,139.0,40.0,28.0,58.8,Matches,chelsea
+César Azpilicueta,es ESP,DF,31.0,23.0,3,0,0,25,5,2,47,23,28,0.0,1.0,0,110.0,46.0,29.0,61.3,Matches,chelsea
+Reece James,eng ENG,DF,21.0,20.7,4,1,0,20,31,4,108,17,25,0.0,1.0,1,99.0,17.0,21.0,44.7,Matches,chelsea
+Kai Havertz,de GER,"FW,MF",22.0,20.1,3,0,0,40,25,12,8,4,8,1.0,0.0,0,62.0,38.0,52.0,42.2,Matches,chelsea
+N'Golo Kanté,fr FRA,MF,30.0,19.7,2,0,0,22,11,0,11,31,31,0.0,0.0,0,153.0,14.0,14.0,50.0,Matches,chelsea
+Andreas Christensen,dk DEN,DF,25.0,16.6,2,0,0,11,7,0,1,29,8,0.0,0.0,0,110.0,48.0,38.0,55.8,Matches,chelsea
+Trevoh Chalobah,eng ENG,DF,22.0,16.1,2,0,0,19,14,0,4,19,27,0.0,1.0,0,74.0,32.0,28.0,53.3,Matches,chelsea
+Romelu Lukaku,be BEL,FW,28.0,17.7,1,0,0,8,12,14,7,0,1,3.0,0.0,0,33.0,51.0,47.0,52.0,Matches,chelsea
+Mateo Kovačić,hr CRO,MF,27.0,17.3,4,0,0,24,20,0,6,7,31,0.0,0.0,0,111.0,5.0,5.0,50.0,Matches,chelsea
+Timo Werner,de GER,"FW,MF",25.0,14.3,1,0,0,11,12,11,23,2,4,0.0,0.0,0,37.0,6.0,16.0,27.3,Matches,chelsea
+Hakim Ziyech,ma MAR,"MF,FW",28.0,14.7,3,0,0,24,29,5,101,10,10,0.0,0.0,0,87.0,12.0,14.0,46.2,Matches,chelsea
+Ruben Loftus-Cheek,eng ENG,"MF,DF",25.0,15.5,1,0,0,18,41,2,7,11,10,0.0,0.0,0,109.0,36.0,18.0,66.7,Matches,chelsea
+Christian Pulisic,us USA,"MF,FW",22.0,14.3,2,0,0,15,31,4,14,5,7,0.0,0.0,0,53.0,12.0,28.0,30.0,Matches,chelsea
+Callum Hudson-Odoi,eng ENG,"MF,FW",20.0,10.7,1,0,0,10,17,4,32,2,10,1.0,0.0,0,39.0,4.0,8.0,33.3,Matches,chelsea
+Malang Sarr,fr FRA,DF,22.0,6.1,2,0,0,8,1,0,4,11,7,0.0,0.0,0,36.0,13.0,7.0,65.0,Matches,chelsea
+Ben Chilwell,eng ENG,DF,24.0,6.0,0,0,0,10,15,2,32,4,3,0.0,1.0,0,32.0,7.0,10.0,41.2,Matches,chelsea
+Saúl Ñíguez,es ESP,"DF,MF",26.0,5.3,1,0,0,9,0,0,10,7,9,0.0,0.0,0,18.0,8.0,11.0,42.1,Matches,chelsea
+Kepa Arrizabalaga,es ESP,GK,26.0,4.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0,Matches,chelsea
+Ross Barkley,eng ENG,"MF,FW",27.0,2.0,0,0,0,2,4,0,7,1,0,0.0,0.0,0,17.0,6.0,2.0,75.0,Matches,chelsea
+Kenedy,br BRA,DF,25.0,0.6,0,0,0,0,0,0,1,0,2,0.0,0.0,0,8.0,0.0,1.0,0.0,Matches,chelsea
+Harry Kane,eng ENG,FW,28.0,35.9,5,0,0,42,54,16,42,3,5,0.0,0.0,0,92.0,75.0,81.0,48.1,Matches,tottenham hotspur
+Pierre Højbjerg,dk DEN,MF,25.0,35.5,3,0,0,28,39,0,18,48,45,0.0,0.0,0,281.0,23.0,19.0,54.8,Matches,tottenham hotspur
+Eric Dier,eng ENG,DF,27.0,34.1,1,0,0,12,9,0,1,27,9,0.0,0.0,1,131.0,70.0,54.0,56.5,Matches,tottenham hotspur
+Son Heung-min,kr KOR,"MF,FW",29.0,33.4,2,0,0,14,36,17,192,13,6,2.0,0.0,0,144.0,16.0,35.0,31.4,Matches,tottenham hotspur
+Ben Davies,wls WAL,DF,28.0,28.2,6,0,0,31,18,5,19,30,21,0.0,1.0,0,106.0,67.0,52.0,56.3,Matches,tottenham hotspur
+Emerson,br BRA,"DF,MF",22.0,25.4,5,0,0,28,45,2,74,22,47,0.0,0.0,0,152.0,33.0,42.0,44.0,Matches,tottenham hotspur
+Sergio Reguilón,es ESP,"DF,MF",24.0,21.3,4,0,0,22,24,1,84,31,24,0.0,0.0,0,99.0,31.0,22.0,58.5,Matches,tottenham hotspur
+Cristian Romero,ar ARG,DF,23.0,20.5,8,0,0,28,15,2,0,33,39,0.0,1.0,0,148.0,43.0,30.0,58.9,Matches,tottenham hotspur
+Lucas Moura,br BRA,"FW,MF",28.0,19.7,4,0,0,20,37,3,33,18,10,0.0,0.0,0,95.0,48.0,32.0,60.0,Matches,tottenham hotspur
+Davinson Sánchez,co COL,DF,25.0,18.1,4,0,0,16,11,1,2,30,22,0.0,0.0,0,103.0,45.0,36.0,55.6,Matches,tottenham hotspur
+Rodrigo Bentancur,uy URU,MF,24.0,15.1,5,0,0,22,13,0,9,20,18,0.0,0.0,0,88.0,21.0,18.0,53.8,Matches,tottenham hotspur
+Oliver Skipp,eng ENG,MF,20.0,15.0,6,0,0,16,16,1,6,12,19,0.0,0.0,0,77.0,12.0,10.0,54.5,Matches,tottenham hotspur
+Dejan Kulusevski,se SWE,"MF,FW",21.0,14.0,3,0,0,20,15,4,25,13,13,0.0,0.0,0,75.0,3.0,8.0,27.3,Matches,tottenham hotspur
+Ryan Sessegnon,eng ENG,"DF,MF",21.0,11.6,2,0,0,19,7,5,38,7,19,0.0,0.0,0,40.0,11.0,15.0,42.3,Matches,tottenham hotspur
+Japhet Tanganga,eng ENG,DF,22.0,8.2,4,1,1,19,8,1,11,9,8,0.0,0.0,0,24.0,15.0,9.0,62.5,Matches,tottenham hotspur
+Harry Winks,eng ENG,MF,25.0,10.1,2,0,0,11,13,0,26,16,10,0.0,0.0,0,47.0,4.0,4.0,50.0,Matches,tottenham hotspur
+Matt Doherty,ie IRL,DF,29.0,9.7,0,0,0,11,4,0,20,13,12,0.0,0.0,0,48.0,16.0,8.0,66.7,Matches,tottenham hotspur
+Dele Alli,eng ENG,MF,25.0,7.3,1,0,0,12,11,2,5,6,8,1.0,0.0,0,40.0,7.0,11.0,38.9,Matches,tottenham hotspur
+Tanguy Ndombele,fr FRA,MF,24.0,5.4,1,0,0,3,9,0,3,1,7,0.0,0.0,0,27.0,2.0,1.0,66.7,Matches,tottenham hotspur
+Steven Bergwijn,nl NED,"FW,MF",23.0,6.3,1,0,0,9,9,1,8,1,2,0.0,0.0,0,22.0,4.0,5.0,44.4,Matches,tottenham hotspur
+Giovani Lo Celso,ar ARG,"MF,FW",25.0,2.6,0,0,0,2,6,1,10,1,4,0.0,0.0,0,11.0,0.0,3.0,0.0,Matches,tottenham hotspur
+Bryan,es ESP,"FW,MF",20.0,1.0,0,0,0,1,4,0,6,0,0,0.0,0.0,0,12.0,0.0,1.0,0.0,Matches,tottenham hotspur
+Joe Rodon,wls WAL,DF,23.0,1.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,3.0,2.0,2.0,50.0,Matches,tottenham hotspur
+Gabriel Dos Santos,br BRA,DF,23.0,34.0,8,1,1,23,38,1,1,13,30,0.0,0.0,0,178.0,55.0,39.0,58.5,Matches,arsenal
+Aaron Ramsdale,eng ENG,GK,23.0,34.0,1,0,0,0,5,0,0,0,1,0.0,0.0,0,40.0,6.0,2.0,75.0,Matches,arsenal
+Ben White,eng ENG,DF,23.0,32.0,3,0,0,19,27,0,0,42,23,0.0,1.0,1,158.0,60.0,40.0,60.0,Matches,arsenal
+Martin Ødegaard,no NOR,"MF,FW",22.0,30.9,4,0,0,27,20,3,59,11,21,0.0,2.0,0,162.0,14.0,23.0,37.8,Matches,arsenal
+Granit Xhaka,ch SUI,"MF,DF",28.0,25.9,10,1,0,29,19,2,25,21,18,0.0,1.0,0,146.0,27.0,29.0,48.2,Matches,arsenal
+Thomas Partey,gh GHA,MF,28.0,22.5,6,0,0,33,17,0,3,23,29,0.0,0.0,0,153.0,23.0,25.0,47.9,Matches,arsenal
+Kieran Tierney,sct SCO,DF,24.0,21.3,0,0,0,5,16,1,79,15,14,0.0,0.0,0,85.0,12.0,23.0,34.3,Matches,arsenal
+Emile Smith Rowe,eng ENG,"MF,FW",21.0,21.3,1,0,0,5,21,2,45,15,7,0.0,0.0,0,105.0,7.0,18.0,28.0,Matches,arsenal
+Martinelli,br BRA,"FW,MF",20.0,20.7,3,1,1,24,20,10,74,20,19,0.0,0.0,0,86.0,18.0,44.0,29.0,Matches,arsenal
+Alexandre Lacazette,fr FRA,FW,30.0,19.8,0,0,0,32,29,6,7,5,10,4.0,0.0,0,52.0,21.0,47.0,30.9,Matches,arsenal
+Takehiro Tomiyasu,jp JPN,DF,22.0,18.7,2,0,0,16,13,0,31,24,17,0.0,0.0,0,89.0,48.0,39.0,55.2,Matches,arsenal
+Cédric Soares,pt POR,DF,29.0,16.5,3,0,0,15,6,3,100,16,26,0.0,1.0,0,79.0,12.0,27.0,30.8,Matches,arsenal
+Nuno Tavares,pt POR,DF,21.0,13.1,2,0,0,23,13,1,40,9,14,0.0,1.0,0,68.0,23.0,22.0,51.1,Matches,arsenal
+Albert Sambi Lokonga,be BEL,MF,21.0,12.6,5,0,0,12,15,0,2,13,18,0.0,0.0,0,72.0,15.0,20.0,42.9,Matches,arsenal
+Pierre-Emerick Aubameyang,ga GAB,FW,32.0,11.5,3,0,0,15,8,10,11,0,5,0.0,0.0,0,22.0,25.0,28.0,47.2,Matches,arsenal
+Rob Holding,eng ENG,DF,25.0,9.4,4,1,1,9,3,0,0,10,9,0.0,0.0,0,49.0,28.0,22.0,56.0,Matches,arsenal
+Eddie Nketiah,eng ENG,FW,22.0,9.3,3,0,0,17,14,5,4,4,4,0.0,0.0,0,27.0,8.0,33.0,19.5,Matches,arsenal
+Mohamed Elneny,eg EGY,MF,29.0,9.0,1,0,0,5,5,0,0,14,8,0.0,0.0,0,51.0,6.0,6.0,50.0,Matches,arsenal
+Nicolas Pépé,ci CIV,"FW,MF",26.0,7.7,0,0,0,8,3,4,37,8,5,0.0,0.0,0,43.0,18.0,31.0,36.7,Matches,arsenal
+Bernd Leno,de GER,GK,29.0,4.0,0,0,0,0,0,0,0,0,1,0.0,0.0,0,2.0,3.0,1.0,75.0,Matches,arsenal
+Ainsley Maitland-Niles,eng ENG,MF,23.0,3.0,0,0,0,4,3,0,2,4,4,0.0,0.0,0,23.0,3.0,3.0,50.0,Matches,arsenal
+Pablo Marí,es ESP,DF,27.0,2.0,1,0,0,1,1,0,0,3,3,0.0,0.0,0,10.0,5.0,3.0,62.5,Matches,arsenal
+Calum Chambers,eng ENG,DF,26.0,1.9,0,0,0,2,1,0,3,0,3,0.0,0.0,0,14.0,2.0,1.0,66.7,Matches,arsenal
+Sead Kolašinac,ba BIH,DF,28.0,1.0,1,0,0,2,0,0,0,4,0,0.0,0.0,0,2.0,0.0,0.0,,Matches,arsenal
+Folarin Balogun,eng ENG,FW,20.0,0.8,0,0,0,0,1,1,0,0,1,0.0,0.0,0,2.0,1.0,3.0,25.0,Matches,arsenal
+Bruno Fernandes,pt POR,MF,26.0,34.6,10,0,0,33,47,3,148,17,28,0.0,0.0,0,180.0,19.0,30.0,38.8,Matches,manchester united
+Harry Maguire,eng ENG,DF,28.0,27.9,9,1,1,21,19,1,2,32,21,0.0,0.0,1,148.0,75.0,28.0,72.8,Matches,manchester united
+Scott McTominay,sct SCO,MF,24.0,26.5,9,0,0,55,33,1,13,31,33,0.0,1.0,0,171.0,67.0,34.0,66.3,Matches,manchester united
+Cristiano Ronaldo,pt POR,FW,36.0,27.3,8,0,0,16,18,33,15,2,6,2.0,0.0,0,52.0,42.0,68.0,38.2,Matches,manchester united
+Victor Lindelöf,se SWE,DF,27.0,26.2,4,0,0,19,6,2,0,25,11,0.0,0.0,0,161.0,52.0,33.0,61.2,Matches,manchester united
+Fred,br BRA,MF,28.0,22.5,5,0,0,31,30,0,3,32,27,1.0,0.0,1,197.0,15.0,13.0,53.6,Matches,manchester united
+Jadon Sancho,eng ENG,"FW,MF",21.0,21.1,0,0,0,4,7,7,28,15,8,0.0,0.0,0,112.0,2.0,11.0,15.4,Matches,manchester united
+Raphaël Varane,fr FRA,DF,28.0,20.3,0,0,0,5,7,0,1,18,19,0.0,0.0,0,78.0,55.0,20.0,73.3,Matches,manchester united
+Aaron Wan-Bissaka,eng ENG,DF,23.0,19.9,2,0,0,15,13,1,35,34,36,0.0,1.0,0,126.0,19.0,32.0,37.3,Matches,manchester united
+Diogo Dalot,pt POR,DF,22.0,20.0,4,0,0,18,4,1,58,29,41,0.0,0.0,0,151.0,29.0,17.0,63.0,Matches,manchester united
+Luke Shaw,eng ENG,DF,26.0,17.8,8,0,0,32,16,3,109,9,13,0.0,1.0,0,95.0,20.0,15.0,57.1,Matches,manchester united
+Alex Telles,br BRA,DF,28.0,18.4,1,0,0,23,9,1,127,26,27,0.0,2.0,0,99.0,30.0,24.0,55.6,Matches,manchester united
+Nemanja Matić,rs SRB,MF,32.0,15.4,3,0,0,26,3,0,6,31,18,0.0,0.0,0,124.0,28.0,17.0,62.2,Matches,manchester united
+Paul Pogba,fr FRA,"MF,FW",28.0,15.0,7,1,0,39,29,0,12,13,9,0.0,0.0,0,98.0,35.0,20.0,63.6,Matches,manchester united
+Mason Greenwood,eng ENG,"FW,MF",19.0,14.1,1,0,0,15,16,3,34,1,9,0.0,0.0,0,55.0,4.0,8.0,33.3,Matches,manchester united
+Anthony Elanga,se SWE,FW,19.0,13.5,0,0,0,8,22,3,21,9,20,0.0,0.0,0,50.0,24.0,18.0,57.1,Matches,manchester united
+Marcus Rashford,eng ENG,"FW,MF",23.0,13.7,2,0,0,13,18,15,22,5,5,0.0,0.0,0,44.0,10.0,27.0,27.0,Matches,manchester united
+Edinson Cavani,uy URU,FW,34.0,8.5,0,0,0,7,5,6,2,2,1,0.0,0.0,0,22.0,7.0,17.0,29.2,Matches,manchester united
+Eric Bailly,ci CIV,DF,27.0,2.4,1,0,0,2,0,0,0,3,4,0.0,0.0,1,10.0,6.0,2.0,75.0,Matches,manchester united
+Jesse Lingard,eng ENG,"FW,MF",28.0,4.1,1,0,0,5,4,1,8,0,7,0.0,0.0,0,19.0,0.0,1.0,0.0,Matches,manchester united
+Juan Mata,es ESP,MF,33.0,2.6,0,0,0,2,4,2,6,1,4,0.0,0.0,0,22.0,0.0,0.0,,Matches,manchester united
+Anthony Martial,fr FRA,FW,25.0,2.4,0,0,0,0,4,2,4,0,0,0.0,0.0,0,5.0,4.0,4.0,50.0,Matches,manchester united
+Phil Jones,eng ENG,DF,29.0,1.8,0,0,0,0,2,0,0,3,5,0.0,0.0,0,9.0,2.0,0.0,100.0,Matches,manchester united
+Daniel James,wls WAL,FW,23.0,1.4,0,0,0,1,0,2,5,0,1,0.0,0.0,0,4.0,1.0,1.0,50.0,Matches,manchester united
+Hannibal Mejbri,tn TUN,FW,18.0,0.8,2,0,0,3,0,1,0,0,1,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches,manchester united
+Donny van de Beek,nl NED,MF,24.0,0.8,0,0,0,2,2,0,0,2,4,0.0,0.0,0,7.0,1.0,2.0,33.3,Matches,manchester united
+Shola Shoretire,eng ENG,MF,17.0,0.2,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,manchester united
+Declan Rice,eng ENG,MF,22.0,35.3,8,0,0,28,11,0,30,63,42,0.0,0.0,0,286.0,42.0,27.0,60.9,Matches,west ham united
+Tomáš Souček,cz CZE,MF,26.0,34.0,3,0,0,39,18,4,13,52,32,0.0,0.0,0,176.0,133.0,141.0,48.5,Matches,west ham united
+Jarrod Bowen,eng ENG,FW,24.0,33.1,6,0,0,25,43,14,141,21,20,2.0,0.0,0,151.0,38.0,65.0,36.9,Matches,west ham united
+Michail Antonio,jm JAM,FW,31.0,33.0,8,1,1,50,52,13,63,3,17,0.0,0.0,0,90.0,79.0,112.0,41.4,Matches,west ham united
+Pablo Fornals,es ESP,"FW,MF",25.0,31.1,4,0,0,24,28,6,87,27,28,1.0,0.0,0,182.0,23.0,30.0,43.4,Matches,west ham united
+Aaron Cresswell,eng ENG,DF,31.0,30.3,3,0,0,14,10,2,145,35,18,0.0,1.0,0,163.0,32.0,24.0,57.1,Matches,west ham united
+Craig Dawson,eng ENG,DF,31.0,30.6,5,1,0,39,12,1,1,29,17,0.0,3.0,0,113.0,93.0,55.0,62.8,Matches,west ham united
+Saïd Benrahma,dz ALG,"FW,MF",25.0,24.1,0,0,0,9,15,9,74,9,17,0.0,0.0,0,128.0,10.0,19.0,34.5,Matches,west ham united
+Vladimír Coufal,cz CZE,DF,28.0,24.5,5,1,1,29,15,2,107,22,25,0.0,1.0,1,131.0,33.0,34.0,49.3,Matches,west ham united
+Kurt Zouma,fr FRA,DF,26.0,23.1,1,0,0,11,6,0,1,34,6,0.0,0.0,1,92.0,50.0,31.0,61.7,Matches,west ham united
+Manuel Lanzini,ar ARG,"MF,FW",28.0,19.8,2,0,0,11,18,1,28,19,15,0.0,0.0,0,124.0,5.0,17.0,22.7,Matches,west ham united
+Ben Johnson,eng ENG,DF,21.0,15.5,1,0,0,10,4,0,55,22,16,0.0,0.0,0,78.0,15.0,19.0,44.1,Matches,west ham united
+Angelo Ogbonna,it ITA,DF,33.0,10.2,1,0,0,5,3,0,0,11,4,0.0,0.0,0,45.0,27.0,12.0,69.2,Matches,west ham united
+Issa Diop,fr FRA,DF,24.0,10.7,0,0,0,5,5,1,0,7,8,0.0,0.0,0,55.0,16.0,17.0,48.5,Matches,west ham united
+Arthur Masuaku,cd COD,"DF,FW",27.0,7.2,1,0,0,8,4,0,23,9,23,0.0,0.0,0,50.0,16.0,6.0,72.7,Matches,west ham united
+Nikola Vlašić,hr CRO,"FW,MF",23.0,6.2,0,0,0,8,16,3,15,2,7,0.0,0.0,0,30.0,5.0,7.0,41.7,Matches,west ham united
+Mark Noble,eng ENG,MF,34.0,3.7,0,0,0,3,4,0,2,4,2,0.0,0.0,0,38.0,1.0,1.0,50.0,Matches,west ham united
+Ryan Fredericks,eng ENG,DF,28.0,3.4,1,0,0,3,1,0,9,4,2,0.0,0.0,0,11.0,3.0,2.0,60.0,Matches,west ham united
+Andriy Yarmolenko,ua UKR,"FW,MF",31.0,3.5,1,0,0,1,4,3,8,0,2,0.0,0.0,0,5.0,5.0,8.0,38.5,Matches,west ham united
+Alphonse Areola,fr FRA,GK,28.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,west ham united
+Harrison Ashby,sct SCO,DF,19.0,0.1,0,0,0,0,0,0,0,1,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,west ham united
+Sonny Perkins,eng ENG,FW,17.0,0.0,0,0,0,0,0,0,0,0,0,,,0,,,,,Matches,west ham united
+Daniel Chesters,eng ENG,MF,19.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,west ham united
+Youri Tielemans,be BEL,MF,24.0,29.2,3,0,0,32,36,0,56,21,38,0.0,4.0,0,188.0,24.0,19.0,55.8,Matches,leicester city
+Çağlar Söyüncü,tr TUR,DF,25.0,27.7,5,0,0,24,14,1,5,32,30,0.0,2.0,0,164.0,92.0,48.0,65.7,Matches,leicester city
+James Maddison,eng ENG,"MF,FW",24.0,27.3,3,0,0,22,64,4,124,11,20,1.0,0.0,0,107.0,5.0,12.0,29.4,Matches,leicester city
+Harvey Barnes,eng ENG,"FW,MF",23.0,23.3,2,0,0,19,20,10,45,5,16,0.0,0.0,0,93.0,24.0,41.0,36.9,Matches,leicester city
+Daniel Amartey,gh GHA,DF,26.0,23.6,4,0,0,14,8,1,0,21,13,0.0,0.0,0,145.0,33.0,37.0,47.1,Matches,leicester city
+Kiernan Dewsbury-Hall,eng ENG,MF,22.0,23.4,4,0,0,20,29,0,86,21,24,0.0,0.0,0,155.0,16.0,23.0,41.0,Matches,leicester city
+Timothy Castagne,be BEL,DF,25.0,23.6,1,0,0,15,7,1,40,29,31,0.0,0.0,0,102.0,39.0,38.0,50.6,Matches,leicester city
+Luke Thomas,eng ENG,DF,20.0,21.2,2,0,0,15,16,0,33,40,31,0.0,0.0,0,97.0,24.0,32.0,42.9,Matches,leicester city
+Jamie Vardy,eng ENG,FW,34.0,20.1,2,0,0,13,12,19,12,1,5,0.0,0.0,1,25.0,24.0,50.0,32.4,Matches,leicester city
+Wilfred Ndidi,ng NGA,"MF,DF",24.0,18.0,4,0,0,30,22,1,1,42,32,0.0,2.0,0,165.0,42.0,32.0,56.8,Matches,leicester city
+Ademola Lookman,ng NGA,"FW,MF",23.0,16.1,2,0,0,27,33,6,18,10,14,0.0,0.0,0,102.0,3.0,11.0,21.4,Matches,leicester city
+Jonny Evans,nir NIR,DF,33.0,15.0,3,0,0,15,11,0,3,20,14,0.0,0.0,0,105.0,48.0,17.0,73.8,Matches,leicester city
+Kelechi Iheanacho,ng NGA,FW,24.0,14.0,1,0,0,17,11,7,6,4,7,0.0,0.0,0,42.0,16.0,38.0,29.6,Matches,leicester city
+Patson Daka,zm ZAM,FW,22.0,12.9,2,0,0,17,14,7,1,2,10,0.0,0.0,0,29.0,17.0,44.0,27.9,Matches,leicester city
+Ricardo Pereira,pt POR,DF,27.0,11.0,3,0,0,6,16,0,14,17,20,0.0,0.0,0,64.0,15.0,14.0,51.7,Matches,leicester city
+Boubakary Soumaré,fr FRA,MF,22.0,12.2,0,0,0,16,17,0,4,14,13,0.0,0.0,0,62.0,27.0,11.0,71.1,Matches,leicester city
+Nampalys Mendy,sn SEN,MF,29.0,11.5,3,0,0,17,18,0,0,11,6,0.0,0.0,0,72.0,5.0,9.0,35.7,Matches,leicester city
+Marc Albrighton,eng ENG,"FW,DF",31.0,12.6,3,0,0,6,13,2,78,14,19,0.0,0.0,0,65.0,4.0,13.0,23.5,Matches,leicester city
+James Justin,eng ENG,DF,23.0,11.1,0,0,0,7,12,1,15,17,13,0.0,0.0,0,62.0,13.0,16.0,44.8,Matches,leicester city
+Wesley Fofana,fr FRA,DF,20.0,7.0,2,0,0,7,7,0,0,12,8,0.0,0.0,0,43.0,20.0,10.0,66.7,Matches,leicester city
+Jannik Vestergaard,dk DEN,DF,28.0,6.3,2,0,0,4,1,0,0,7,10,0.0,1.0,0,32.0,13.0,10.0,56.5,Matches,leicester city
+Ayoze Pérez,es ESP,"MF,FW",28.0,4.9,0,1,0,6,7,0,3,2,2,0.0,0.0,0,21.0,6.0,13.0,31.6,Matches,leicester city
+Ryan Bertrand,eng ENG,DF,31.0,3.7,1,0,0,3,1,0,12,1,5,0.0,0.0,0,11.0,1.0,8.0,11.1,Matches,leicester city
+Hamza Choudhury,eng ENG,"DF,MF",23.0,3.2,1,0,0,4,5,0,0,12,3,0.0,0.0,0,15.0,10.0,2.0,83.3,Matches,leicester city
+Danny Ward,wls WAL,GK,28.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,leicester city
+Lewis Brunt,eng ENG,MF,20.0,0.3,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,1.0,0.0,Matches,leicester city
+Marc Cucurella,es ESP,DF,23.0,34.3,6,0,0,28,30,3,115,30,62,0.0,0.0,0,247.0,40.0,36.0,52.6,Matches,brighton and hove albion
+Joël Veltman,nl NED,DF,29.0,31.9,6,0,0,39,38,0,42,45,48,1.0,1.0,0,182.0,55.0,29.0,65.5,Matches,brighton and hove albion
+Leandro Trossard,be BEL,"FW,MF",26.0,31.2,2,0,0,24,26,13,51,15,20,1.0,1.0,0,142.0,9.0,20.0,31.0,Matches,brighton and hove albion
+Lewis Dunk,eng ENG,DF,29.0,28.6,3,1,0,9,4,0,3,27,8,0.0,0.0,0,170.0,81.0,37.0,68.6,Matches,brighton and hove albion
+Neal Maupay,fr FRA,FW,24.0,25.3,7,0,0,33,31,6,8,2,10,0.0,0.0,0,76.0,21.0,56.0,27.3,Matches,brighton and hove albion
+Yves Bissouma,ml MLI,MF,24.0,23.5,10,0,0,30,19,0,2,50,49,0.0,1.0,0,161.0,16.0,15.0,51.6,Matches,brighton and hove albion
+Pascal Groß,de GER,"MF,DF",30.0,22.6,1,0,0,15,6,4,189,18,15,0.0,0.0,0,119.0,15.0,21.0,41.7,Matches,brighton and hove albion
+Alexis Mac Allister,ar ARG,"MF,FW",22.0,23.6,4,0,0,30,39,4,66,13,40,0.0,0.0,0,149.0,24.0,23.0,51.1,Matches,brighton and hove albion
+Jakub Moder,pl POL,MF,22.0,18.9,1,0,0,19,11,0,45,10,25,0.0,0.0,0,107.0,25.0,37.0,40.3,Matches,brighton and hove albion
+Adam Lallana,eng ENG,MF,33.0,17.3,4,0,0,11,17,0,3,16,17,0.0,0.0,0,126.0,15.0,8.0,65.2,Matches,brighton and hove albion
+Solly March,eng ENG,"DF,FW",27.0,19.4,1,0,0,31,20,12,94,17,17,0.0,0.0,0,92.0,17.0,26.0,39.5,Matches,brighton and hove albion
+Tariq Lamptey,gh GHA,"DF,FW",20.0,17.3,4,0,0,27,50,3,93,21,25,0.0,0.0,0,100.0,7.0,27.0,20.6,Matches,brighton and hove albion
+Adam Webster,eng ENG,DF,26.0,15.9,5,0,0,16,4,0,6,17,8,0.0,0.0,0,89.0,56.0,15.0,78.9,Matches,brighton and hove albion
+Danny Welbeck,eng ENG,"FW,MF",30.0,16.4,0,0,0,17,13,4,1,5,7,1.0,0.0,0,29.0,47.0,51.0,48.0,Matches,brighton and hove albion
+Shane Duffy,ie IRL,DF,29.0,16.0,7,0,0,15,5,1,1,16,12,0.0,0.0,0,68.0,65.0,26.0,71.4,Matches,brighton and hove albion
+Dan Burn,eng ENG,DF,29.0,11.4,4,0,0,15,0,0,1,24,12,0.0,0.0,0,56.0,32.0,21.0,60.4,Matches,brighton and hove albion
+Enock Mwepu,zm ZAM,MF,23.0,11.1,2,0,0,18,15,2,7,12,12,1.0,1.0,0,70.0,9.0,29.0,23.7,Matches,brighton and hove albion
+Moisés Caicedo,ec ECU,MF,19.0,7.3,2,0,0,7,11,1,0,10,10,0.0,0.0,0,56.0,9.0,4.0,69.2,Matches,brighton and hove albion
+Steven Alzate,co COL,MF,22.0,4.5,0,0,0,6,4,0,0,10,4,0.0,0.0,0,39.0,4.0,8.0,33.3,Matches,brighton and hove albion
+Aaron Connolly,ie IRL,"FW,MF",21.0,1.7,0,0,0,0,6,0,0,0,0,0.0,0.0,0,7.0,2.0,5.0,28.6,Matches,brighton and hove albion
+Jason Steele,eng ENG,GK,30.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,1.0,0.0,100.0,Matches,brighton and hove albion
+Jeremy Sarmiento,ec ECU,"FW,MF",19.0,0.5,0,0,0,0,2,0,0,0,1,0.0,0.0,0,3.0,1.0,2.0,33.3,Matches,brighton and hove albion
+Taylor Richards,eng ENG,MF,20.0,0.3,0,0,0,1,1,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0,Matches,brighton and hove albion
+Evan Ferguson,ie IRL,MF,16.0,0.3,0,0,0,0,0,0,1,0,0,0.0,0.0,0,1.0,0.0,2.0,0.0,Matches,brighton and hove albion
+José Sá,pt POR,GK,28.0,36.5,3,0,0,3,12,0,0,2,1,0.0,3.0,1,57.0,12.0,0.0,100.0,Matches,wolverhampton wanderers
+João Moutinho,pt POR,MF,34.0,33.0,4,0,0,36,15,0,108,34,39,0.0,1.0,0,254.0,15.0,23.0,39.5,Matches,wolverhampton wanderers
+Romain Saïss,ma MAR,DF,31.0,30.1,6,0,0,30,15,3,9,58,27,0.0,2.0,0,157.0,72.0,50.0,59.0,Matches,wolverhampton wanderers
+Rúben Neves,pt POR,MF,24.0,29.6,9,0,0,25,12,1,44,41,37,0.0,0.0,0,243.0,19.0,26.0,42.2,Matches,wolverhampton wanderers
+Max Kilman,eng ENG,DF,24.0,29.9,3,0,0,17,11,0,2,45,26,0.0,1.0,0,155.0,66.0,39.0,62.9,Matches,wolverhampton wanderers
+Raúl Jiménez,mx MEX,FW,30.0,29.2,9,2,2,43,48,23,10,13,14,0.0,0.0,0,88.0,63.0,85.0,42.6,Matches,wolverhampton wanderers
+Nélson Semedo,pt POR,"MF,DF",27.0,23.7,1,0,0,23,24,4,32,21,39,0.0,1.0,0,155.0,15.0,27.0,35.7,Matches,wolverhampton wanderers
+Leander Dendoncker,be BEL,MF,26.0,21.7,4,0,0,13,6,0,5,9,17,0.0,0.0,0,107.0,30.0,33.0,47.6,Matches,wolverhampton wanderers
+Rayan Aït Nouri,dz ALG,"DF,MF",20.0,20.3,4,0,0,14,20,3,96,22,36,1.0,0.0,0,128.0,17.0,13.0,56.7,Matches,wolverhampton wanderers
+Hwang Hee-chan,kr KOR,"FW,MF",25.0,20.2,2,0,0,29,42,3,7,13,13,0.0,0.0,0,92.0,7.0,21.0,25.0,Matches,wolverhampton wanderers
+Fernando Marçal,br BRA,"MF,DF",32.0,16.1,3,0,0,29,9,1,60,28,22,0.0,1.0,0,94.0,26.0,18.0,59.1,Matches,wolverhampton wanderers
+Francisco Trincão,pt POR,"FW,MF",21.0,14.8,0,0,0,13,22,1,33,12,15,0.0,0.0,0,73.0,6.0,16.0,27.3,Matches,wolverhampton wanderers
+Daniel Podence,pt POR,"FW,MF",25.0,16.5,2,0,0,8,25,3,50,10,11,0.0,0.0,0,79.0,2.0,17.0,10.5,Matches,wolverhampton wanderers
+Adama Traoré,es ESP,"FW,MF",25.0,11.9,0,0,0,10,26,9,39,2,3,0.0,0.0,0,49.0,15.0,16.0,48.4,Matches,wolverhampton wanderers
+Jonny Castro,es ESP,DF,27.0,11.4,1,0,0,10,16,0,14,13,15,0.0,0.0,0,49.0,11.0,7.0,61.1,Matches,wolverhampton wanderers
+Willy Boly,ci CIV,DF,30.0,10.0,1,0,0,7,2,1,0,14,19,0.0,1.0,0,62.0,20.0,20.0,50.0,Matches,wolverhampton wanderers
+Fábio Silva,pt POR,FW,19.0,6.4,0,0,0,13,7,4,2,1,2,0.0,0.0,0,18.0,9.0,27.0,25.0,Matches,wolverhampton wanderers
+Pedro Neto,pt POR,"FW,MF",21.0,5.2,3,0,0,2,6,1,37,6,4,0.0,0.0,0,21.0,3.0,6.0,33.3,Matches,wolverhampton wanderers
+Toti Gomes,pt POR,DF,22.0,4.0,1,0,0,2,3,1,1,8,7,0.0,0.0,0,17.0,13.0,10.0,56.5,Matches,wolverhampton wanderers
+Ki-Jana Hoever,nl NED,"DF,MF",19.0,3.4,1,0,0,5,4,1,8,6,6,0.0,0.0,0,13.0,3.0,2.0,60.0,Matches,wolverhampton wanderers
+Luke Cundle,eng ENG,MF,19.0,2.0,0,0,0,3,1,0,2,1,3,0.0,0.0,0,12.0,0.0,2.0,0.0,Matches,wolverhampton wanderers
+Chiquinho,pt POR,"DF,FW",21.0,2.3,0,0,0,9,8,0,25,2,6,0.0,0.0,0,17.0,4.0,5.0,44.4,Matches,wolverhampton wanderers
+John Ruddy,eng ENG,GK,34.0,1.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0,Matches,wolverhampton wanderers
+Chem Campbell,wls WAL,MF,18.0,0.1,0,0,0,0,0,0,0,0,1,0.0,0.0,0,0.0,0.0,1.0,0.0,Matches,wolverhampton wanderers
+Joelinton,br BRA,"MF,FW",24.0,28.4,8,0,0,64,33,3,22,34,38,0.0,0.0,0,181.0,99.0,97.0,50.5,Matches,newcastle united
+Martin Dúbravka,sk SVK,GK,32.0,26.0,1,0,0,0,6,0,0,0,1,0.0,0.0,0,19.0,4.0,1.0,80.0,Matches,newcastle united
+Fabian Schär,ch SUI,DF,29.0,24.0,4,0,0,24,11,3,7,32,11,0.0,0.0,0,131.0,45.0,42.0,51.7,Matches,newcastle united
+Joe Willock,eng ENG,MF,21.0,22.6,0,0,0,34,26,0,16,21,37,0.0,0.0,0,121.0,16.0,24.0,40.0,Matches,newcastle united
+Jamaal Lascelles,eng ENG,DF,27.0,22.9,5,0,0,17,4,0,0,22,7,0.0,3.0,2,86.0,89.0,31.0,74.2,Matches,newcastle united
+Jonjo Shelvey,eng ENG,MF,29.0,22.0,7,1,1,18,8,0,43,22,17,0.0,0.0,0,160.0,10.0,10.0,50.0,Matches,newcastle united
+Miguel Almirón,py PAR,"MF,FW",27.0,19.1,2,0,0,17,25,9,20,20,29,0.0,0.0,0,96.0,5.0,14.0,26.3,Matches,newcastle united
+Emil Krafth,se SWE,DF,26.0,18.2,5,0,0,22,11,0,21,25,16,0.0,0.0,0,94.0,22.0,29.0,43.1,Matches,newcastle united
+Ryan Fraser,sct SCO,"FW,MF",27.0,16.3,3,0,0,10,24,2,88,11,3,0.0,0.0,0,61.0,5.0,22.0,18.5,Matches,newcastle united
+Dan Burn,eng ENG,DF,29.0,16.0,4,0,0,11,6,5,0,20,11,0.0,0.0,0,73.0,68.0,31.0,68.7,Matches,newcastle united
+Matt Targett,eng ENG,DF,25.0,16.0,1,0,0,9,12,1,76,25,26,0.0,0.0,0,72.0,19.0,12.0,61.3,Matches,newcastle united
+Callum Wilson,eng ENG,FW,29.0,15.4,4,0,0,27,22,17,3,3,8,0.0,0.0,0,28.0,29.0,50.0,36.7,Matches,newcastle united
+Sean Longstaff,eng ENG,MF,23.0,16.3,1,0,0,14,17,0,11,9,34,0.0,0.0,0,95.0,13.0,18.0,41.9,Matches,newcastle united
+Chris Wood,nz NZL,FW,29.0,14.7,0,0,0,19,10,10,2,2,0,1.0,0.0,0,23.0,112.0,100.0,52.8,Matches,newcastle united
+Javier Manquillo,es ESP,DF,27.0,14.0,5,0,0,9,17,1,9,10,29,0.0,0.0,0,57.0,16.0,13.0,55.2,Matches,newcastle united
+Matt Ritchie,sct SCO,DF,31.0,14.9,5,0,0,13,9,0,104,13,15,0.0,0.0,0,70.0,14.0,17.0,45.2,Matches,newcastle united
+Jacob Murphy,eng ENG,"FW,DF",26.0,16.4,4,0,0,16,14,2,54,23,26,0.0,1.0,0,98.0,14.0,33.0,29.8,Matches,newcastle united
+Ciaran Clark,ie IRL,DF,31.0,11.3,2,1,0,6,5,1,1,13,10,0.0,1.0,0,49.0,26.0,15.0,63.4,Matches,newcastle united
+Isaac Hayden,eng ENG,"MF,DF",26.0,11.1,5,0,0,14,8,0,8,14,14,0.0,0.0,0,46.0,19.0,15.0,55.9,Matches,newcastle united
+Bruno Guimarães,br BRA,MF,23.0,11.5,4,0,0,13,36,4,12,9,23,0.0,0.0,0,81.0,4.0,9.0,30.8,Matches,newcastle united
+Karl Darlow,eng ENG,GK,30.0,8.0,1,0,0,1,2,0,0,0,0,0.0,1.0,0,5.0,2.0,0.0,100.0,Matches,newcastle united
+Federico Fernández,ar ARG,DF,32.0,5.8,0,0,0,1,2,0,1,4,0,0.0,0.0,0,24.0,10.0,5.0,66.7,Matches,newcastle united
+Kieran Trippier,eng ENG,DF,30.0,4.8,0,0,0,3,3,0,28,10,10,0.0,0.0,0,31.0,10.0,5.0,66.7,Matches,newcastle united
+Freddie Woodman,eng ENG,GK,24.0,4.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,,Matches,newcastle united
+Jamal Lewis,nir NIR,DF,23.0,2.9,1,0,0,2,2,0,3,3,6,0.0,0.0,0,13.0,1.0,4.0,20.0,Matches,newcastle united
+Paul Dummett,wls WAL,DF,29.0,2.2,2,0,0,3,3,0,3,3,3,0.0,0.0,0,5.0,5.0,2.0,71.4,Matches,newcastle united
+Jeff Hendrick,ie IRL,MF,29.0,0.8,0,0,0,1,0,0,0,0,1,0.0,0.0,0,2.0,1.0,1.0,50.0,Matches,newcastle united
+Tyrick Mitchell,eng ENG,DF,21.0,34.5,1,0,0,15,14,2,62,41,57,1.0,0.0,0,237.0,29.0,32.0,47.5,Matches,crystal palace
+Conor Gallagher,eng ENG,MF,21.0,31.6,10,0,0,65,65,2,128,29,38,1.0,0.0,0,187.0,23.0,37.0,38.3,Matches,crystal palace
+Joachim Andersen,dk DEN,DF,25.0,32.4,4,0,0,19,8,1,8,37,23,0.0,0.0,1,152.0,56.0,48.0,53.8,Matches,crystal palace
+Wilfried Zaha,ci CIV,FW,28.0,30.7,6,1,1,37,101,24,48,5,20,1.0,0.0,0,166.0,12.0,35.0,25.5,Matches,crystal palace
+Vicente Guaita,es ESP,GK,34.0,29.5,2,0,0,1,2,0,0,1,0,0.0,1.0,0,22.0,8.0,1.0,88.9,Matches,crystal palace
+Joel Ward,eng ENG,DF,31.0,27.6,8,0,0,22,21,1,43,32,26,0.0,0.0,0,140.0,58.0,39.0,59.8,Matches,crystal palace
+Jordan Ayew,gh GHA,FW,29.0,22.4,2,0,0,38,66,2,74,15,30,1.0,0.0,0,132.0,32.0,58.0,35.6,Matches,crystal palace
+Cheikhou Kouyaté,sn SEN,MF,31.0,21.9,3,0,0,30,21,0,4,38,38,0.0,0.0,0,136.0,50.0,29.0,63.3,Matches,crystal palace
+Jeffrey Schlupp,gh GHA,"MF,FW",28.0,20.6,1,0,0,26,22,0,20,18,25,1.0,0.0,0,115.0,31.0,39.0,44.3,Matches,crystal palace
+Odsonne Édouard,fr FRA,FW,23.0,17.4,4,0,0,25,6,4,7,0,10,0.0,0.0,0,62.0,38.0,45.0,45.8,Matches,crystal palace
+James McArthur,sct SCO,MF,33.0,16.0,4,0,0,24,20,3,18,30,23,0.0,0.0,0,135.0,22.0,31.0,41.5,Matches,crystal palace
+Nathaniel Clyne,eng ENG,DF,30.0,15.0,1,0,0,3,5,0,17,15,10,0.0,0.0,0,73.0,10.0,7.0,58.8,Matches,crystal palace
+Jean-Philippe Mateta,fr FRA,FW,24.0,12.7,2,0,0,16,7,13,6,4,4,0.0,0.0,0,30.0,39.0,43.0,47.6,Matches,crystal palace
+Will Hughes,eng ENG,MF,26.0,11.7,6,0,0,18,17,0,35,8,14,1.0,1.0,0,84.0,11.0,20.0,35.5,Matches,crystal palace
+Michael Olise,fr FRA,"FW,MF",19.0,12.7,4,0,0,16,27,1,96,6,18,0.0,0.0,0,66.0,7.0,17.0,29.2,Matches,crystal palace
+Christian Benteke,be BEL,FW,30.0,12.7,3,0,0,16,16,10,0,2,2,0.0,0.0,0,25.0,85.0,54.0,61.2,Matches,crystal palace
+Luka Milivojević,rs SRB,MF,30.0,8.6,1,0,0,15,10,0,43,11,9,0.0,1.0,1,58.0,13.0,6.0,68.4,Matches,crystal palace
+Jack Butland,eng ENG,GK,28.0,8.5,0,0,0,0,2,0,0,0,0,0.0,0.0,0,4.0,1.0,2.0,33.3,Matches,crystal palace
+Eberechi Eze,eng ENG,"MF,FW",23.0,6.7,1,0,0,5,12,0,27,5,6,0.0,0.0,0,38.0,7.0,13.0,35.0,Matches,crystal palace
+James Tomkins,eng ENG,DF,32.0,6.1,2,0,0,7,2,0,0,4,3,0.0,0.0,0,33.0,10.0,5.0,66.7,Matches,crystal palace
+Jaïro Riedewald,nl NED,MF,24.0,1.3,0,0,0,1,0,0,2,1,1,0.0,0.0,0,10.0,0.0,2.0,0.0,Matches,crystal palace
+Jesuran Rak Sakyi,eng ENG,"FW,MF",18.0,0.9,0,0,0,1,3,0,2,1,0,0.0,0.0,0,6.0,0.0,1.0,0.0,Matches,crystal palace
+Christian Nørgaard,dk DEN,MF,27.0,33.9,8,0,0,56,33,0,13,64,60,0.0,0.0,0,270.0,50.0,68.0,42.4,Matches,brentford
+Bryan Mbeumo,cm CMR,FW,21.0,32.3,4,0,0,20,38,13,75,11,16,0.0,0.0,0,130.0,29.0,103.0,22.0,Matches,brentford
+Rico Henry,eng ENG,DF,24.0,30.8,2,0,0,20,27,1,74,26,20,0.0,1.0,0,189.0,27.0,40.0,40.3,Matches,brentford
+Ivan Toney,eng ENG,FW,25.0,32.3,8,0,0,50,80,25,28,14,21,3.0,0.0,0,105.0,147.0,114.0,56.3,Matches,brentford
+Ethan Pinnock,jm JAM,DF,28.0,29.9,1,0,0,9,14,1,21,44,35,0.0,0.0,0,141.0,142.0,71.0,66.7,Matches,brentford
+Vitaly Janelt,de GER,MF,23.0,25.5,3,0,0,26,25,3,40,28,32,0.0,0.0,0,143.0,33.0,25.0,56.9,Matches,brentford
+Sergi Canós,es ESP,"DF,FW",24.0,23.1,8,1,1,28,15,5,87,22,25,0.0,0.0,1,183.0,9.0,27.0,25.0,Matches,brentford
+David Raya,es ESP,GK,25.0,24.0,1,0,0,1,2,0,0,0,0,0.0,1.0,0,29.0,9.0,2.0,81.8,Matches,brentford
+Kristoffer Ajer,no NOR,DF,23.0,22.2,5,0,0,12,16,0,17,26,18,0.0,0.0,0,109.0,49.0,31.0,61.3,Matches,brentford
+Mathias Jensen,dk DEN,MF,25.0,17.8,0,0,0,19,6,3,79,22,18,0.0,0.0,0,100.0,7.0,16.0,30.4,Matches,brentford
+Yoane Wissa,cd COD,FW,24.0,14.3,0,0,0,8,22,7,11,8,6,0.0,0.0,0,58.0,20.0,31.0,39.2,Matches,brentford
+Mads Roerslev,dk DEN,DF,22.0,13.8,1,0,0,18,8,2,35,16,12,0.0,1.0,0,54.0,12.0,25.0,32.4,Matches,brentford
+Álvaro Fernández,es ESP,GK,23.0,12.0,0,0,0,0,3,0,0,0,0,0.0,0.0,1,18.0,2.0,2.0,50.0,Matches,brentford
+Frank Onyeka,ng NGA,MF,23.0,11.6,4,0,0,33,25,0,12,14,17,1.0,0.0,0,69.0,15.0,21.0,41.7,Matches,brentford
+Christian Eriksen,dk DEN,MF,29.0,10.4,1,0,0,5,3,0,86,9,6,0.0,0.0,0,69.0,5.0,6.0,45.5,Matches,brentford
+Shandon Baptiste,gd GRN,MF,23.0,10.1,2,1,1,6,11,1,8,11,4,0.0,0.0,0,62.0,7.0,18.0,28.0,Matches,brentford
+Mads Bech Sørensen,dk DEN,DF,22.0,9.3,3,0,0,8,4,0,10,6,7,0.0,1.0,0,41.0,9.0,4.0,69.2,Matches,brentford
+Mathias Jørgensen,dk DEN,DF,31.0,5.8,2,0,0,10,1,0,7,10,4,0.0,0.0,0,20.0,10.0,9.0,52.6,Matches,brentford
+Saman Ghoddos,ir IRN,"MF,DF",27.0,6.0,2,0,0,12,10,0,21,3,10,1.0,0.0,0,36.0,11.0,15.0,42.3,Matches,brentford
+Charlie Goode,eng ENG,DF,25.0,5.0,3,0,0,5,7,0,6,2,5,0.0,1.0,0,30.0,15.0,8.0,65.2,Matches,brentford
+Josh Dasilva,eng ENG,"MF,FW",22.0,2.9,0,1,0,4,3,0,4,1,1,0.0,0.0,0,23.0,3.0,1.0,75.0,Matches,brentford
+Jonas Lössl,dk DEN,GK,32.0,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,,Matches,brentford
+Dominic Thompson,eng ENG,DF,21.0,1.6,0,0,0,1,0,0,2,2,0,0.0,0.0,0,5.0,1.0,2.0,33.3,Matches,brentford
+Marcus Forss,fi FIN,"FW,MF",22.0,2.3,0,0,0,3,1,0,1,1,3,0.0,0.0,0,4.0,2.0,7.0,22.2,Matches,brentford
+Mads Bidstrup,dk DEN,MF,20.0,0.5,0,0,0,1,0,0,0,1,0,0.0,0.0,0,3.0,0.0,0.0,,Matches,brentford
+Tariqe Fosu,gh GHA,DF,25.0,0.2,0,0,0,0,1,0,1,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches,brentford
+Finley Stevens,wls WAL,DF,18.0,0.2,0,0,0,0,0,0,1,0,1,0.0,0.0,0,0.0,1.0,0.0,100.0,Matches,brentford
+Emiliano Martínez,ar ARG,GK,28.0,36.0,4,0,0,0,6,0,0,0,1,0.0,0.0,0,32.0,8.0,1.0,88.9,Matches,aston villa
+Tyrone Mings,eng ENG,DF,28.0,35.4,11,0,0,27,24,1,4,46,12,0.0,1.0,0,191.0,81.0,47.0,63.3,Matches,aston villa
+John McGinn,sct SCO,MF,26.0,34.3,8,0,0,57,81,0,110,35,64,0.0,0.0,0,200.0,22.0,17.0,56.4,Matches,aston villa
+Ollie Watkins,eng ENG,FW,25.0,32.8,7,0,0,33,39,16,15,12,13,1.0,0.0,0,66.0,65.0,95.0,40.6,Matches,aston villa
+Douglas Luiz,br BRA,MF,23.0,30.2,7,0,0,37,41,0,83,34,39,0.0,0.0,0,183.0,26.0,32.0,44.8,Matches,aston villa
+Ezri Konsa,eng ENG,DF,23.0,27.5,6,2,1,18,36,1,1,15,15,0.0,1.0,0,105.0,58.0,42.0,58.0,Matches,aston villa
+Jacob Ramsey,eng ENG,MF,20.0,27.4,6,0,0,32,44,1,26,24,44,0.0,0.0,0,126.0,16.0,34.0,32.0,Matches,aston villa
+Emi Buendía,ar ARG,"MF,FW",24.0,21.1,1,0,0,17,44,3,34,9,18,0.0,1.0,0,110.0,19.0,35.0,35.2,Matches,aston villa
+Danny Ings,eng ENG,FW,29.0,21.1,4,0,0,16,12,11,13,6,16,0.0,0.0,0,47.0,27.0,40.0,40.3,Matches,aston villa
+Matt Targett,eng ENG,DF,25.0,15.9,2,0,0,15,11,0,59,23,18,0.0,1.0,1,73.0,32.0,14.0,69.6,Matches,aston villa
+Philippe Coutinho,br BRA,"MF,FW",29.0,14.8,0,0,0,8,20,4,18,7,12,0.0,0.0,0,53.0,5.0,17.0,22.7,Matches,aston villa
+Lucas Digne,fr FRA,DF,28.0,14.1,2,0,0,18,16,3,101,23,10,0.0,0.0,0,77.0,23.0,20.0,53.5,Matches,aston villa
+Ashley Young,eng ENG,"DF,FW",36.0,13.9,2,0,0,16,32,1,44,13,6,0.0,0.0,1,66.0,6.0,15.0,28.6,Matches,aston villa
+Marvelous Nakamba,zw ZIM,MF,27.0,10.0,5,0,0,16,9,0,1,12,19,0.0,0.0,0,82.0,10.0,12.0,45.5,Matches,aston villa
+Calum Chambers,eng ENG,DF,26.0,9.2,1,0,0,12,2,0,2,5,8,0.0,0.0,0,49.0,26.0,25.0,51.0,Matches,aston villa
+Leon Bailey,jm JAM,"FW,MF",23.0,8.5,3,0,0,12,11,4,33,1,11,0.0,0.0,0,38.0,10.0,16.0,38.5,Matches,aston villa
+Axel Tuanzebe,eng ENG,DF,23.0,5.6,1,0,0,3,3,0,1,5,3,0.0,0.0,0,29.0,13.0,12.0,52.0,Matches,aston villa
+Kortney Hause,eng ENG,DF,26.0,4.4,0,0,0,6,2,1,0,6,3,0.0,1.0,0,41.0,20.0,8.0,71.4,Matches,aston villa
+Anwar El Ghazi,nl NED,"FW,MF",26.0,4.3,2,0,0,8,5,2,14,1,4,0.0,0.0,0,20.0,10.0,11.0,47.6,Matches,aston villa
+Morgan Sanson,fr FRA,MF,26.0,4.0,0,0,0,3,13,0,8,10,8,0.0,0.0,0,33.0,3.0,6.0,33.3,Matches,aston villa
+Carney Chukwuemeka,eng ENG,"MF,FW",17.0,3.3,0,0,0,3,9,0,0,1,1,0.0,0.0,0,16.0,7.0,9.0,43.8,Matches,aston villa
+Bertrand Traoré,bf BFA,"MF,FW",25.0,2.4,0,0,0,0,4,2,5,0,3,1.0,0.0,0,11.0,4.0,4.0,50.0,Matches,aston villa
+Tim Iroegbunam,eng ENG,MF,18.0,1.0,1,0,0,2,0,0,0,2,4,0.0,0.0,0,9.0,3.0,0.0,100.0,Matches,aston villa
+Robin Olsen,se SWE,GK,31.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,aston villa
+Jed Steer,eng ENG,GK,28.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,,Matches,aston villa
+Cameron Archer,eng ENG,"FW,MF",20.0,0.3,0,0,0,3,0,0,0,0,0,0.0,0.0,0,1.0,1.0,1.0,50.0,Matches,aston villa
+Keinan Davis,eng ENG,FW,23.0,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0,Matches,aston villa
+Trézéguet,eg EGY,FW,26.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,aston villa
+Jaden Philogene Bidace,eng ENG,FW,19.0,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,aston villa
+Oriol Romeu,es ESP,MF,29.0,32.1,9,0,0,46,24,0,13,51,39,0.0,0.0,0,259.0,67.0,47.0,58.8,Matches,southampton
+Mohammed Salisu,gh GHA,DF,22.0,33.0,10,1,1,38,7,2,13,78,47,0.0,1.0,1,244.0,101.0,60.0,62.7,Matches,southampton
+Jan Bednarek,pl POL,DF,25.0,29.2,10,0,0,30,15,1,1,72,15,0.0,1.0,1,177.0,91.0,38.0,70.5,Matches,southampton
+Kyle Walker-Peters,eng ENG,DF,24.0,29.3,5,0,0,27,47,3,50,37,33,0.0,0.0,0,187.0,27.0,28.0,49.1,Matches,southampton
+Valentino Livramento,eng ENG,DF,18.0,24.5,2,0,0,12,36,1,62,47,28,1.0,0.0,0,176.0,24.0,25.0,49.0,Matches,southampton
+Mohamed Elyounoussi,no NOR,"MF,FW",26.0,22.7,4,0,0,28,18,1,29,12,17,0.0,0.0,0,82.0,38.0,46.0,45.2,Matches,southampton
+Che Adams,sct SCO,FW,25.0,22.7,0,0,0,29,40,7,8,8,6,0.0,0.0,0,70.0,61.0,91.0,40.1,Matches,southampton
+Armando Broja,al ALB,FW,19.0,21.9,2,0,0,29,26,13,8,3,5,1.0,0.0,0,81.0,88.0,166.0,34.6,Matches,southampton
+Nathan Redmond,eng ENG,"MF,FW",27.0,20.4,0,0,0,16,15,3,60,8,14,0.0,0.0,0,102.0,13.0,32.0,28.9,Matches,southampton
+Fraser Forster,eng ENG,GK,33.0,19.0,1,0,0,0,3,0,0,0,0,0.0,0.0,0,7.0,7.0,0.0,100.0,Matches,southampton
+Romain Perraud,fr FRA,DF,23.0,18.0,3,0,0,31,16,0,69,17,22,0.0,0.0,0,77.0,16.0,24.0,40.0,Matches,southampton
+Alex McCarthy,eng ENG,GK,31.0,17.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,9.0,6.0,0.0,100.0,Matches,southampton
+Adam Armstrong,eng ENG,FW,24.0,15.7,1,0,0,13,6,2,18,3,4,1.0,0.0,0,36.0,13.0,23.0,36.1,Matches,southampton
+Stuart Armstrong,sct SCO,MF,29.0,16.4,1,0,0,11,20,1,35,8,19,1.0,0.0,0,94.0,3.0,11.0,21.4,Matches,southampton
+Ibrahima Diallo,fr FRA,MF,22.0,11.4,1,0,0,8,15,0,7,9,11,0.0,0.0,0,77.0,11.0,12.0,47.8,Matches,southampton
+Nathan Tella,eng ENG,"MF,FW",22.0,8.9,2,0,0,17,22,3,12,6,9,0.0,0.0,0,54.0,6.0,18.0,25.0,Matches,southampton
+Lyanco,br BRA,DF,24.0,10.1,2,0,0,13,7,0,4,13,15,0.0,0.0,0,73.0,19.0,14.0,57.6,Matches,southampton
+Jack Stephens,eng ENG,DF,27.0,9.0,3,0,0,8,2,0,0,19,12,0.0,0.0,0,68.0,13.0,12.0,52.0,Matches,southampton
+Moussa Djenepo,ml MLI,MF,23.0,5.1,3,0,0,9,10,0,6,2,3,0.0,0.0,0,28.0,1.0,9.0,10.0,Matches,southampton
+Theo Walcott,eng ENG,"MF,FW",32.0,4.2,0,0,0,1,6,2,5,5,2,0.0,0.0,0,12.0,4.0,4.0,50.0,Matches,southampton
+Yan Valery,tn TUN,DF,22.0,4.1,0,0,0,3,3,0,4,6,6,0.0,0.0,0,27.0,11.0,9.0,55.0,Matches,southampton
+Shane Long,ie IRL,FW,34.0,3.4,1,0,0,9,8,3,1,0,5,0.0,0.0,0,9.0,24.0,19.0,55.8,Matches,southampton
+Willy Caballero,ar ARG,GK,39.0,2.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,4.0,0.0,1.0,0.0,Matches,southampton
+Michael Keane,eng ENG,DF,28.0,31.0,4,1,1,16,7,1,1,62,25,0.0,0.0,2,149.0,96.0,59.0,61.9,Matches,everton
+Séamus Coleman,ie IRL,DF,32.0,29.5,4,0,0,14,17,2,41,32,36,1.0,0.0,1,188.0,25.0,23.0,52.1,Matches,everton
+Abdoulaye Doucouré,ml MLI,MF,28.0,28.2,6,0,0,39,16,1,11,28,43,0.0,0.0,0,213.0,35.0,37.0,48.6,Matches,everton
+Richarlison,br BRA,FW,24.0,28.0,9,0,0,36,68,21,38,12,23,1.0,0.0,0,114.0,66.0,155.0,29.9,Matches,everton
+Demarai Gray,eng ENG,"MF,FW",25.0,26.0,3,0,0,12,32,3,129,15,19,0.0,0.0,0,100.0,4.0,31.0,11.4,Matches,everton
+Anthony Gordon,eng ENG,"MF,FW",20.0,25.4,4,0,0,25,64,8,119,22,32,2.0,0.0,0,116.0,17.0,38.0,30.9,Matches,everton
+Allan,br BRA,MF,30.0,24.3,7,1,0,30,22,0,10,23,44,1.0,0.0,0,191.0,11.0,15.0,42.3,Matches,everton
+Mason Holgate,eng ENG,DF,24.0,23.7,7,1,0,26,15,0,4,26,18,0.0,0.0,1,105.0,61.0,31.0,66.3,Matches,everton
+Ben Godfrey,eng ENG,DF,23.0,22.5,6,0,0,17,12,0,12,15,32,0.0,0.0,0,94.0,36.0,43.0,45.6,Matches,everton
+Alex Iwobi,ng NGA,"MF,DF",25.0,22.6,1,0,0,16,6,3,32,20,19,0.0,1.0,0,130.0,9.0,21.0,30.0,Matches,everton
+Andros Townsend,eng ENG,"MF,FW",30.0,16.2,3,0,0,10,39,1,96,14,17,0.0,1.0,0,80.0,7.0,18.0,28.0,Matches,everton
+Dominic Calvert-Lewin,eng ENG,FW,24.0,14.3,2,0,0,17,16,4,2,3,8,1.0,0.0,0,34.0,94.0,93.0,50.3,Matches,everton
+Lucas Digne,fr FRA,DF,28.0,13.0,4,0,0,15,9,0,71,14,19,0.0,0.0,1,83.0,24.0,16.0,60.0,Matches,everton
+Vitaliy Mykolenko,ua UKR,DF,22.0,11.7,0,0,0,13,9,0,41,16,15,1.0,0.0,0,64.0,10.0,12.0,45.5,Matches,everton
+Jonjoe Kenny,eng ENG,DF,24.0,11.3,3,1,1,9,6,1,23,20,7,0.0,0.0,0,58.0,9.0,11.0,45.0,Matches,everton
+Yerry Mina,co COL,DF,26.0,9.4,3,0,0,5,9,1,3,11,10,0.0,0.0,0,45.0,30.0,16.0,65.2,Matches,everton
+Salomón Rondón,ve VEN,FW,31.0,8.8,3,1,0,12,4,5,6,0,1,0.0,0.0,0,20.0,38.0,56.0,40.4,Matches,everton
+Fabian Delph,eng ENG,MF,31.0,7.4,2,0,0,8,6,0,1,14,15,0.0,0.0,0,61.0,5.0,4.0,55.6,Matches,everton
+André Gomes,pt POR,MF,28.0,6.9,3,0,0,24,8,0,6,1,4,0.0,0.0,0,53.0,8.0,9.0,47.1,Matches,everton
+Donny van de Beek,nl NED,MF,24.0,5.4,1,0,0,7,1,0,6,6,7,0.0,0.0,0,35.0,7.0,5.0,58.3,Matches,everton
+Jarrad Branthwaite,eng ENG,DF,19.0,4.3,0,1,0,3,4,0,0,1,1,0.0,0.0,0,24.0,11.0,5.0,68.8,Matches,everton
+Asmir Begović,ba BIH,GK,34.0,3.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,5.0,0.0,100.0,Matches,everton
+Tom Davies,eng ENG,MF,23.0,2.6,1,0,0,4,3,0,0,2,1,0.0,0.0,0,9.0,3.0,2.0,60.0,Matches,everton
+Dele Alli,eng ENG,"MF,FW",25.0,3.8,3,0,0,9,7,2,1,6,2,0.0,0.0,0,24.0,9.0,8.0,52.9,Matches,everton
+Jean-Philippe Gbamin,ci CIV,MF,25.0,0.7,0,0,0,0,1,0,0,1,1,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches,everton
+Ellis Simms,eng ENG,FW,20.0,0.7,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,2.0,4.0,33.3,Matches,everton
+Lewis Dobbin,eng ENG,"FW,MF",18.0,0.4,1,0,0,1,1,0,0,0,1,0.0,0.0,0,4.0,0.0,6.0,0.0,Matches,everton
+Tyler Onyango,eng ENG,MF,18.0,0.3,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,2.0,33.3,Matches,everton
+Isaac Price,nir NIR,MF,17.0,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,everton
+Anwar El Ghazi,nl NED,"FW,MF",26.0,0.1,0,0,0,0,0,0,0,0,1,0.0,0.0,0,2.0,0.0,3.0,0.0,Matches,everton
+Cenk Tosun,tr TUR,MF,30.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches,everton
+Stuart Dallas,nir NIR,"DF,MF",30.0,32.4,5,0,0,33,30,2,101,57,55,0.0,1.0,0,219.0,32.0,34.0,48.5,Matches,leeds united
+Raphinha,br BRA,"FW,MF",24.0,32.4,7,0,0,40,47,14,162,29,29,1.0,1.0,0,166.0,22.0,31.0,41.5,Matches,leeds united
+Jack Harrison,eng ENG,"FW,MF",24.0,29.3,3,0,0,29,23,4,142,21,37,0.0,0.0,0,170.0,19.0,54.0,26.0,Matches,leeds united
+Daniel James,wls WAL,"FW,MF",23.0,26.3,7,1,0,30,38,13,60,8,14,1.0,0.0,0,82.0,13.0,53.0,19.7,Matches,leeds united
+Diego Llorente,es ESP,DF,27.0,26.0,7,0,0,23,21,0,2,40,31,0.0,0.0,0,171.0,49.0,64.0,43.4,Matches,leeds united
+Rodrigo,es ESP,"MF,FW",30.0,25.2,9,0,0,21,30,4,29,11,9,0.0,0.0,0,103.0,17.0,48.0,26.2,Matches,leeds united
+Luke Ayling,eng ENG,DF,29.0,25.2,4,1,0,22,19,2,31,28,42,0.0,1.0,0,187.0,34.0,50.0,40.5,Matches,leeds united
+Mateusz Klich,pl POL,MF,31.0,23.0,5,0,0,40,15,2,30,11,25,0.0,1.0,0,171.0,7.0,13.0,35.0,Matches,leeds united
+Pascal Struijk,nl NED,"DF,MF",21.0,22.8,6,1,0,25,8,1,0,33,39,0.0,0.0,0,161.0,40.0,39.0,50.6,Matches,leeds united
+Liam Cooper,sct SCO,DF,29.0,20.2,5,0,0,19,9,2,1,43,23,0.0,1.0,0,118.0,82.0,44.0,65.1,Matches,leeds united
+Junior Firpo,es ESP,"DF,MF",24.0,19.0,11,0,0,39,15,1,26,24,29,0.0,0.0,1,89.0,27.0,19.0,58.7,Matches,leeds united
+Kalvin Phillips,eng ENG,MF,25.0,17.7,4,0,0,33,19,0,16,24,25,0.0,0.0,0,180.0,17.0,29.0,37.0,Matches,leeds united
+Robin Koch,de GER,"MF,DF",25.0,17.5,3,0,0,22,10,0,4,20,13,0.0,0.0,0,104.0,45.0,44.0,50.6,Matches,leeds united
+Adam Forshaw,eng ENG,MF,29.0,17.0,5,0,0,26,15,2,5,19,23,0.0,0.0,0,119.0,11.0,11.0,50.0,Matches,leeds united
+Tyler Roberts,wls WAL,"MF,FW",22.0,11.0,5,0,0,14,20,3,14,5,7,0.0,0.0,0,47.0,8.0,23.0,25.8,Matches,leeds united
+Jamie Shackleton,eng ENG,"DF,MF",21.0,7.9,4,0,0,13,6,0,4,8,16,0.0,0.0,0,50.0,5.0,15.0,25.0,Matches,leeds united
+Patrick Bamford,eng ENG,FW,27.0,6.2,2,0,0,5,5,5,3,2,0,0.0,0.0,0,12.0,5.0,14.0,26.3,Matches,leeds united
+Joe Gelhardt,eng ENG,"FW,MF",19.0,8.3,4,0,0,17,24,5,3,0,3,2.0,0.0,0,30.0,11.0,21.0,34.4,Matches,leeds united
+Sam Greenwood,eng ENG,"MF,FW",19.0,2.6,0,0,0,7,2,2,6,2,5,0.0,0.0,0,14.0,2.0,3.0,40.0,Matches,leeds united
+Lewis Bate,eng ENG,MF,18.0,1.6,0,0,0,3,1,0,0,1,0,0.0,0.0,0,8.0,0.0,2.0,0.0,Matches,leeds united
+Charlie Cresswell,eng ENG,DF,18.0,1.6,1,0,0,3,0,1,1,2,2,0.0,0.0,0,6.0,6.0,3.0,66.7,Matches,leeds united
+Cody Drameh,eng ENG,"DF,MF",19.0,1.4,1,0,0,2,0,0,2,1,2,0.0,0.0,0,3.0,1.0,1.0,50.0,Matches,leeds united
+Leo Fuhr Hjelde,no NOR,"MF,DF",17.0,1.7,0,0,0,1,0,0,3,4,4,0.0,0.0,0,9.0,3.0,2.0,60.0,Matches,leeds united
+Crysencio Summerville,nl NED,"MF,FW",19.0,1.4,0,0,0,1,1,0,3,2,3,0.0,0.0,0,11.0,0.0,6.0,0.0,Matches,leeds united
+Kristoffer Klaesson,no NOR,GK,20.0,0.4,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,1.0,0.0,100.0,Matches,leeds united
+Hélder Costa,ao ANG,MF,27.0,0.2,0,0,0,1,2,0,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches,leeds united
+Liam McCarron,sct SCO,FW,20.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,leeds united
+Dwight McNeil,eng ENG,MF,21.0,34.5,1,0,0,16,36,1,199,35,49,0.0,0.0,0,223.0,13.0,16.0,44.8,Matches,burnley
+James Tarkowski,eng ENG,DF,28.0,34.5,11,0,0,30,19,2,1,48,45,0.0,0.0,1,171.0,153.0,62.0,71.2,Matches,burnley
+Josh Brownhill,eng ENG,MF,25.0,32.8,10,0,0,39,20,0,53,68,37,0.0,0.0,0,198.0,47.0,32.0,59.5,Matches,burnley
+Charlie Taylor,eng ENG,DF,27.0,30.3,3,0,0,17,43,0,104,58,26,0.0,0.0,0,183.0,58.0,30.0,65.9,Matches,burnley
+Ashley Westwood,eng ENG,MF,31.0,25.4,7,0,0,29,22,0,122,30,12,0.0,1.0,0,174.0,9.0,13.0,40.9,Matches,burnley
+Ben Mee,eng ENG,DF,31.0,20.4,3,0,0,9,7,2,4,24,12,0.0,0.0,1,132.0,68.0,41.0,62.4,Matches,burnley
+Maxwel Cornet,ci CIV,"FW,MF",24.0,19.6,2,0,0,20,20,26,55,10,9,2.0,0.0,0,81.0,24.0,45.0,34.8,Matches,burnley
+Matthew Lowton,eng ENG,DF,32.0,19.7,3,1,0,13,6,0,51,26,24,0.0,0.0,0,118.0,25.0,16.0,61.0,Matches,burnley
+Jack Cork,eng ENG,MF,32.0,18.6,4,0,0,31,10,1,8,17,6,0.0,0.0,0,96.0,26.0,21.0,55.3,Matches,burnley
+Connor Roberts,wls WAL,DF,25.0,18.8,2,0,0,7,29,1,29,22,13,0.0,0.0,0,82.0,13.0,17.0,43.3,Matches,burnley
+Nathan Collins,ie IRL,DF,20.0,18.6,2,1,0,20,12,4,3,24,15,0.0,2.0,0,128.0,57.0,31.0,64.8,Matches,burnley
+Aaron Lennon,eng ENG,"MF,FW",34.0,17.2,2,0,0,19,20,4,40,9,17,0.0,1.0,0,73.0,7.0,21.0,25.0,Matches,burnley
+Wout Weghorst,nl NED,FW,28.0,16.1,3,0,0,30,18,9,4,6,9,0.0,0.0,0,65.0,55.0,79.0,41.0,Matches,burnley
+Chris Wood,nz NZL,FW,29.0,15.2,1,0,0,14,7,16,5,0,5,0.0,0.0,0,23.0,92.0,91.0,50.3,Matches,burnley
+Jay Rodriguez,eng ENG,FW,32.0,15.4,3,0,0,31,16,17,7,4,12,0.0,0.0,0,37.0,55.0,67.0,45.1,Matches,burnley
+Jóhann Berg Guðmundsson,is ISL,MF,30.0,12.2,2,0,0,16,14,3,44,12,6,0.0,0.0,0,71.0,15.0,20.0,42.9,Matches,burnley
+Ashley Barnes,eng ENG,FW,31.0,9.0,4,0,0,21,12,9,2,2,2,0.0,1.0,0,34.0,49.0,65.0,43.0,Matches,burnley
+Erik Pieters,nl NED,DF,32.0,8.1,1,0,0,14,5,0,14,10,15,0.0,0.0,0,53.0,12.0,7.0,63.2,Matches,burnley
+Matěj Vydra,cz CZE,FW,29.0,7.5,1,0,0,9,8,5,2,0,7,0.0,0.0,0,14.0,18.0,50.0,26.5,Matches,burnley
+Kevin Long,ie IRL,DF,30.0,4.6,1,0,0,4,3,1,0,1,2,0.0,0.0,0,11.0,12.0,7.0,63.2,Matches,burnley
+Wayne Hennessey,wls WAL,GK,34.0,2.0,0,0,0,0,1,0,0,1,0,0.0,0.0,0,3.0,1.0,0.0,100.0,Matches,burnley
+Emmanuel Dennis,ng NGA,"FW,MF",23.0,28.7,9,1,1,59,40,12,39,15,35,1.0,0.0,0,125.0,45.0,78.0,36.6,Matches,watford
+Craig Cathcart,nir NIR,DF,32.0,26.6,3,0,0,13,4,0,4,28,15,0.0,0.0,0,127.0,48.0,34.0,58.5,Matches,watford
+Joshua King,no NOR,FW,29.0,25.0,5,0,0,43,21,8,13,8,15,1.0,0.0,0,83.0,100.0,119.0,45.7,Matches,watford
+Ben Foster,eng ENG,GK,38.0,26.0,0,0,0,1,4,0,0,0,0,0.0,1.0,0,54.0,5.0,3.0,62.5,Matches,watford
+Kiko Femenía,es ESP,DF,30.0,23.8,2,0,0,12,13,2,106,37,22,0.0,0.0,0,135.0,12.0,14.0,46.2,Matches,watford
+Juraj Kucka,sk SVK,MF,34.0,21.3,5,1,1,46,49,2,16,27,39,0.0,1.0,1,158.0,56.0,47.0,54.4,Matches,watford
+Ismaila Sarr,sn SEN,"FW,MF",23.0,20.7,2,0,0,17,47,12,61,9,7,0.0,0.0,0,88.0,10.0,17.0,37.0,Matches,watford
+Tom Cleverley,eng ENG,MF,31.0,18.0,2,0,0,28,19,2,54,18,20,0.0,0.0,0,81.0,14.0,29.0,32.6,Matches,watford
+Samir Santos,br BRA,DF,26.0,18.6,4,0,0,17,16,0,0,43,11,0.0,0.0,0,103.0,47.0,34.0,58.0,Matches,watford
+Hassane Kamara,ci CIV,DF,27.0,18.0,5,1,1,24,16,0,23,69,34,0.0,1.0,0,153.0,30.0,15.0,66.7,Matches,watford
+Imran Louza,ma MAR,MF,22.0,15.7,6,0,0,24,13,0,54,42,21,0.0,0.0,0,129.0,12.0,19.0,38.7,Matches,watford
+João Pedro,br BRA,"FW,MF",19.0,18.3,1,0,0,13,30,6,24,15,14,0.0,0.0,0,78.0,55.0,90.0,37.9,Matches,watford
+William Troost-Ekong,ng NGA,DF,27.0,15.4,3,0,0,13,2,1,0,7,9,0.0,1.0,0,74.0,24.0,23.0,51.1,Matches,watford
+Adam Masina,ma MAR,DF,27.0,12.0,0,0,0,14,4,0,30,18,13,0.0,1.0,0,70.0,29.0,17.0,63.0,Matches,watford
+Christian Kabasele,be BEL,DF,30.0,13.3,0,0,0,5,3,0,1,14,5,0.0,0.0,0,58.0,47.0,12.0,79.7,Matches,watford
+Daniel Bachmann,at AUT,GK,27.0,12.0,0,0,0,1,1,0,0,1,0,0.0,1.0,0,10.0,2.0,0.0,100.0,Matches,watford
+Cucho,co COL,"FW,MF",22.0,12.7,3,0,0,13,12,1,52,5,5,0.0,0.0,1,65.0,31.0,51.0,37.8,Matches,watford
+Jeremy Ngakia,eng ENG,DF,20.0,10.0,0,0,0,10,6,0,25,12,18,0.0,0.0,0,56.0,16.0,18.0,47.1,Matches,watford
+Edo Kayembe,cd COD,MF,23.0,8.9,0,0,0,4,5,1,8,9,13,0.0,0.0,0,77.0,13.0,19.0,40.6,Matches,watford
+Ken Sema,se SWE,"MF,FW",27.0,9.5,1,0,0,15,7,0,31,5,6,0.0,0.0,0,53.0,12.0,23.0,34.3,Matches,watford
+Danny Rose,eng ENG,DF,31.0,7.7,4,0,0,10,14,1,24,14,10,0.0,1.0,0,41.0,4.0,7.0,36.4,Matches,watford
+Francisco Sierralta,cl CHI,DF,24.0,4.7,0,0,0,4,3,0,0,6,3,0.0,0.0,1,17.0,15.0,1.0,93.8,Matches,watford
+Oghenekaro Etebo,ng NGA,MF,25.0,4.5,3,0,0,8,3,0,2,5,8,0.0,0.0,0,31.0,3.0,1.0,75.0,Matches,watford
+Ozan Tufan,tr TUR,MF,26.0,3.7,0,0,0,9,0,0,7,2,2,0.0,0.0,0,13.0,3.0,9.0,25.0,Matches,watford
+Samuel Kalu,ng NGA,FW,23.0,2.5,0,0,0,0,4,3,8,3,2,0.0,0.0,0,9.0,0.0,3.0,0.0,Matches,watford
+Nicolas Nkoulou,cm CMR,DF,31.0,1.9,0,0,0,1,0,0,0,2,0,0.0,0.0,0,9.0,2.0,0.0,100.0,Matches,watford
+Dan Gosling,eng ENG,MF,31.0,1.8,0,0,0,2,5,0,1,0,1,0.0,0.0,0,14.0,5.0,4.0,55.6,Matches,watford
+Ashley Fletcher,eng ENG,FW,25.0,0.3,0,0,0,1,0,0,1,0,1,0.0,0.0,0,2.0,1.0,7.0,12.5,Matches,watford
+Grant Hanley,sct SCO,DF,29.0,32.2,2,0,0,22,22,2,0,56,25,0.0,0.0,0,121.0,102.0,33.0,75.6,Matches,norwich city
+Max Aarons,eng ENG,DF,21.0,32.0,8,0,0,27,52,1,50,28,44,0.0,2.0,1,154.0,13.0,50.0,20.6,Matches,norwich city
+Kenny McLean,sct SCO,MF,29.0,30.1,3,0,0,16,38,3,37,34,22,0.0,1.0,0,149.0,68.0,72.0,48.6,Matches,norwich city
+Tim Krul,nl NED,GK,33.0,29.0,1,0,0,0,0,0,0,0,1,0.0,0.0,1,19.0,7.0,3.0,70.0,Matches,norwich city
+Ben Gibson,eng ENG,DF,28.0,27.7,5,1,1,12,9,0,1,27,16,0.0,3.0,0,108.0,52.0,39.0,57.1,Matches,norwich city
+Pierre Lees-Melou,fr FRA,MF,28.0,25.2,5,0,0,35,23,2,33,25,36,1.0,0.0,0,181.0,14.0,15.0,48.3,Matches,norwich city
+Milot Rashica,xk KVX,"FW,MF",25.0,24.8,0,0,0,23,47,13,128,15,19,0.0,0.0,0,110.0,12.0,28.0,30.0,Matches,norwich city
+Brandon Williams,eng ENG,DF,20.0,23.6,8,0,0,23,44,0,14,44,37,0.0,0.0,0,158.0,14.0,17.0,45.2,Matches,norwich city
+Billy Gilmour,sct SCO,MF,20.0,20.6,2,0,0,28,21,1,98,17,21,0.0,1.0,0,124.0,13.0,20.0,39.4,Matches,norwich city
+Mathias Normann,no NOR,MF,25.0,18.3,6,0,0,37,28,1,34,19,21,0.0,1.0,0,106.0,27.0,15.0,64.3,Matches,norwich city
+Josh Sargent,us USA,"FW,MF",21.0,17.5,1,0,0,9,23,4,11,11,14,0.0,0.0,0,70.0,40.0,48.0,45.5,Matches,norwich city
+Dimitris Giannoulis,gr GRE,DF,25.0,13.0,2,0,0,16,22,0,44,19,21,0.0,0.0,0,105.0,8.0,7.0,53.3,Matches,norwich city
+Sam Byram,eng ENG,DF,27.0,11.4,3,0,0,12,4,0,9,22,15,0.0,1.0,0,57.0,28.0,28.0,50.0,Matches,norwich city
+Ozan Kabak,tr TUR,DF,21.0,10.2,2,0,0,10,10,1,1,16,5,0.0,2.0,0,50.0,22.0,27.0,44.9,Matches,norwich city
+Kieran Dowell,eng ENG,"FW,MF",23.0,10.1,0,0,0,19,4,0,38,7,7,0.0,0.0,0,37.0,8.0,28.0,22.2,Matches,norwich city
+Angus Gunn,sct SCO,GK,25.0,9.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,9.0,2.0,1.0,66.7,Matches,norwich city
+Lukas Rupp,de GER,MF,30.0,8.5,0,0,0,7,8,0,3,9,4,0.0,0.0,0,55.0,5.0,10.0,33.3,Matches,norwich city
+Adam Idah,ie IRL,"FW,MF",20.0,6.9,0,0,0,7,10,10,13,3,6,0.0,0.0,0,29.0,16.0,27.0,37.2,Matches,norwich city
+Jakob Sørensen,dk DEN,"MF,DF",23.0,6.7,0,0,0,7,1,0,2,10,11,0.0,1.0,0,48.0,11.0,9.0,55.0,Matches,norwich city
+Przemysław Płacheta,pl POL,"FW,MF",23.0,5.6,1,0,0,1,6,0,23,2,3,0.0,0.0,0,25.0,1.0,8.0,11.1,Matches,norwich city
+Todd Cantwell,eng ENG,"FW,MF",23.0,4.9,2,0,0,4,12,2,3,3,13,0.0,0.0,0,22.0,3.0,4.0,42.9,Matches,norwich city
+Andrew Omobamidele,ie IRL,DF,19.0,4.2,1,0,0,3,5,0,0,5,6,0.0,0.0,0,29.0,5.0,10.0,33.3,Matches,norwich city
+Christos Tzolis,gr GRE,"FW,MF",19.0,3.7,0,0,0,2,4,2,7,1,3,0.0,0.0,0,13.0,3.0,11.0,21.4,Matches,norwich city
+Christoph Zimmermann,de GER,DF,28.0,1.7,0,0,0,1,2,0,0,1,3,0.0,0.0,0,11.0,2.0,0.0,100.0,Matches,norwich city
+Tony Springett,eng ENG,"MF,FW",18.0,1.6,1,0,0,1,4,0,2,0,1,0.0,0.0,0,6.0,1.0,6.0,14.3,Matches,norwich city
+Jon Rowe,eng ENG,"FW,MF",18.0,2.5,0,0,0,3,7,1,4,3,2,0.0,0.0,0,13.0,1.0,8.0,11.1,Matches,norwich city

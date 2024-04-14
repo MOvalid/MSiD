@@ -1,0 +1,559 @@
+name,position,played_minutes,appearances,first_squad,substitute_in,substitute_out,goals,avg_goals,yellow_cards,yellow_red_cards,red_cards,club
+A. Davies,Attacker,2047,26,24,2,7,1,0.04,0,0,0,bayern munich
+A. Ibrahimović,Midfielder,13,1,0,1,0,0,0.0,0,0,0,bayern munich
+B. Pavard,Defender,2071,26,23,3,3,4,0.15,5,0,0,bayern munich
+B. Sarr,Defender,0,0,0,0,0,0,0.0,0,0,0,bayern munich
+D. Blind,Defender,131,4,1,3,0,0,0.0,0,0,0,bayern munich
+D. Upamecano,Defender,2250,26,26,0,1,0,0.0,6,0,1,bayern munich
+E. Choupo-Moting,Attacker,1098,18,14,4,10,10,0.56,0,0,0,bayern munich
+G. Marušić,Defender,0,0,0,0,0,0,0.0,0,0,0,bayern munich
+J. Janitzek,Defender,0,0,0,0,0,0,0.0,0,0,0,bayern munich
+J. Kimmich,Midfielder,2473,29,28,1,3,4,0.14,5,1,0,bayern munich
+J. Musiala,Attacker,1939,29,23,6,18,11,0.38,1,0,0,bayern munich
+J. Schenk,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bayern munich
+J. Stanišić,Defender,571,14,4,10,2,0,0.0,1,0,0,bayern munich
+João Cancelo,Defender,720,11,8,3,5,1,0.09,2,0,0,bayern munich
+K. Coman,Attacker,1140,20,12,8,10,7,0.35,1,1,0,bayern munich
+L. Goretzka,Midfielder,1636,24,21,3,14,3,0.12,5,0,0,bayern munich
+L. Hernández,Defender,479,7,6,1,4,0,0.0,1,0,0,bayern munich
+L. Sané,Attacker,1781,28,18,10,9,7,0.25,4,0,0,bayern munich
+Lovro Zvonarek,Midfielder,0,0,0,0,0,0,0.0,0,0,0,bayern munich
+M. de Ligt,Defender,2049,27,23,4,4,3,0.11,4,0,0,bayern munich
+M. Neuer,Goalkeeper,1080,12,12,0,0,0,0.0,0,0,0,bayern munich
+M. Tel,Attacker,359,19,1,18,1,4,0.21,2,0,0,bayern munich
+N. Mazraoui,Defender,721,15,7,8,4,0,0.0,0,0,0,bayern munich
+P. Wanner,Midfielder,23,2,0,2,0,0,0.0,1,0,0,bayern munich
+R. Gravenberch,Midfielder,377,20,1,19,1,0,0.0,1,0,0,bayern munich
+S. Gnabry,Attacker,1622,30,18,12,11,10,0.33,0,0,0,bayern munich
+S. Mané,Attacker,1335,22,17,5,13,7,0.32,2,0,0,bayern munich
+S. Ulreich,Goalkeeper,270,3,3,0,0,0,0.0,1,0,0,bayern munich
+T. Hülsmann,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bayern munich
+T. Müller,Attacker,1404,23,18,5,12,6,0.26,0,0,0,bayern munich
+Y. Kabadayı,Attacker,0,0,0,0,0,0,0.0,0,0,0,bayern munich
+Y. Sommer,Goalkeeper,1350,15,15,0,0,0,0.0,1,0,0,bayern munich
+A. Meyer,Goalkeeper,630,7,7,0,0,0,0.0,0,0,0,borussia dortmund
+A. Modeste,Attacker,797,18,7,11,4,2,0.11,4,0,0,borussia dortmund
+A. Papadopoulos,Defender,12,1,0,1,0,0,0.0,0,0,0,borussia dortmund
+D. Malen,Attacker,1438,22,18,4,17,7,0.32,0,0,0,borussia dortmund
+E. Can,Midfielder,1536,23,16,7,3,2,0.09,7,0,0,borussia dortmund
+F. Passlack,Defender,47,2,0,2,0,0,0.0,0,0,0,borussia dortmund
+G. Kobel,Goalkeeper,2070,23,23,0,0,0,0.0,0,0,0,borussia dortmund
+G. Reyna,Midfielder,541,18,4,14,5,6,0.33,2,0,0,borussia dortmund
+J. Bellingham,Midfielder,2513,29,28,1,2,5,0.17,8,0,0,borussia dortmund
+J. Brandt,Midfielder,2101,28,25,3,15,8,0.29,2,0,0,borussia dortmund
+J. Bynoe-Gittens,Attacker,527,15,4,11,4,3,0.2,1,0,0,borussia dortmund
+J. Duranville,Attacker,0,0,0,0,0,0,0.0,0,0,0,borussia dortmund
+J. Njinmah,Attacker,21,1,0,1,0,0,0.0,0,0,0,borussia dortmund
+J. Ryerson,Defender,1112,13,13,0,4,1,0.08,2,0,0,borussia dortmund
+K. Adeyemi,Attacker,1128,20,16,4,15,4,0.2,8,0,0,borussia dortmund
+L. Unbehaun,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,borussia dortmund
+M. Dahoud,Midfielder,336,9,4,5,3,0,0.0,1,0,0,borussia dortmund
+M. Hummels,Defender,1719,26,20,6,5,1,0.04,4,0,0,borussia dortmund
+M. Lotka,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,borussia dortmund
+M. Pašalić,Midfielder,10,1,0,1,0,0,0.0,0,0,0,borussia dortmund
+M. Reus,Midfielder,1242,21,14,7,9,6,0.29,4,0,0,borussia dortmund
+M. Wolf,Midfielder,1252,21,13,8,5,1,0.05,1,0,0,borussia dortmund
+Mateu Morey,Defender,0,0,0,0,0,0,0.0,0,0,0,borussia dortmund
+N. Schlotterbeck,Defender,2254,27,27,0,4,4,0.15,3,0,0,borussia dortmund
+N. Süle,Defender,1755,25,19,6,3,1,0.04,2,0,0,borussia dortmund
+Nico Schulz,Defender,0,0,0,0,0,0,0.0,0,0,0,borussia dortmund
+Raphaël Guerreiro,Defender,2095,24,24,0,6,3,0.12,3,0,0,borussia dortmund
+S. Coulibaly,Defender,44,1,0,1,0,0,0.0,0,0,0,borussia dortmund
+S. Haller,Attacker,911,15,11,4,11,4,0.27,1,0,0,borussia dortmund
+S. Özcan,Midfielder,1497,23,17,6,7,0,0.0,6,0,0,borussia dortmund
+T. Meunier,Defender,584,10,7,3,2,0,0.0,2,0,0,borussia dortmund
+T. Rothe,Defender,24,2,0,2,0,0,0.0,0,0,0,borussia dortmund
+Y. Moukoko,Attacker,1050,23,11,12,7,7,0.3,0,0,0,borussia dortmund
+A. Bayindir,Midfielder,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+A. Diallo,Defender,473,7,5,2,1,1,0.14,2,0,0,rb leipzig
+A. Haidara,Midfielder,1189,27,11,16,8,2,0.07,5,0,0,rb leipzig
+André Silva,Attacker,1672,30,19,11,13,4,0.13,3,0,0,rb leipzig
+B. Henrichs,Defender,1981,27,21,6,5,2,0.07,7,0,0,rb leipzig
+C. Clark,Midfielder,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+C. Nkunku,Attacker,1537,21,16,5,4,13,0.62,2,0,0,rb leipzig
+C. Onuoha,Attacker,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+D. Ihendu,Defender,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+D. Raum,Defender,1657,27,19,8,10,0,0.0,5,0,0,rb leipzig
+D. Szoboszlai,Midfielder,2159,27,25,2,9,4,0.15,3,1,1,rb leipzig
+Dani Olmo,Midfielder,1028,20,12,8,9,2,0.1,2,0,0,rb leipzig
+E. Forsberg,Midfielder,1319,26,14,12,12,6,0.23,2,0,0,rb leipzig
+J. Blaswich,Goalkeeper,2070,23,23,0,0,0,0.0,0,0,0,rb leipzig
+J. Gvardiol,Defender,2063,28,23,5,4,1,0.04,1,0,0,rb leipzig
+J. Nickisch,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+K. Kampl,Midfielder,1248,26,16,10,11,1,0.04,7,0,0,rb leipzig
+K. Laimer,Midfielder,1151,17,13,4,7,1,0.06,7,0,0,rb leipzig
+L. Klostermann,Defender,650,11,7,4,1,0,0.0,0,0,0,rb leipzig
+M. Halstenberg,Defender,1374,27,15,12,12,1,0.04,2,0,0,rb leipzig
+M. Simakan,Defender,1143,20,14,6,9,1,0.05,2,0,0,rb leipzig
+M. Voigt,Defender,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+O. Köhl,Attacker,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+O. Preil,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+P. Gulácsi,Goalkeeper,540,6,6,0,0,0,0.0,0,0,0,rb leipzig
+S. Ba,Defender,0,1,0,1,0,0,0.0,0,0,0,rb leipzig
+T. Schlieck,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+T. Werner,Attacker,1718,24,20,4,13,9,0.38,2,0,0,rb leipzig
+W. Orbán,Defender,2591,29,29,0,1,3,0.1,3,0,0,rb leipzig
+X. Schlager,Midfielder,1466,19,16,3,4,1,0.05,2,0,0,rb leipzig
+Y. Eduardo,Attacker,0,0,0,0,0,0,0.0,0,0,0,rb leipzig
+Y. Poulsen,Attacker,344,16,3,13,3,1,0.06,1,0,0,rb leipzig
+Ø. Nyland,Goalkeeper,90,1,1,0,0,0,0.0,0,0,0,rb leipzig
+A. Kemlein,Midfielder,0,0,0,0,0,0,0.0,0,0,0,union berlin
+A. Laïdouni,Midfielder,683,10,9,1,8,0,0.0,2,0,0,union berlin
+A. Schäfer,Midfielder,780,14,9,5,8,0,0.0,0,0,0,union berlin
+C. Trimmel,Defender,1561,21,17,4,1,0,0.0,1,0,0,union berlin
+D. Doekhi,Defender,1858,21,21,0,2,4,0.19,0,0,0,union berlin
+Diogo Leite,Defender,2028,25,23,2,0,0,0.0,5,0,1,union berlin
+F. Rønnow,Goalkeeper,2250,25,25,0,0,0,0.0,2,0,0,union berlin
+J. Haberer,Midfielder,1941,28,26,2,26,5,0.18,0,0,0,union berlin
+J. Jensen,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,union berlin
+J. Juranović,Defender,810,9,9,0,0,2,0.22,0,0,0,union berlin
+J. Leweling,Attacker,202,13,0,13,0,1,0.08,1,0,0,union berlin
+J. Roussillon,Defender,617,12,7,5,7,0,0.0,1,0,0,union berlin
+J. Siebatcheu,Attacker,1289,27,16,11,15,4,0.15,3,0,0,union berlin
+K. Behrens,Attacker,1235,29,13,16,13,7,0.24,5,0,0,union berlin
+K. Möhwald,Midfielder,0,0,0,0,0,0,0.0,0,0,0,union berlin
+L. Grill,Goalkeeper,450,5,5,0,0,0,0.0,0,0,0,union berlin
+L. Öztunalı,Midfielder,8,2,0,2,0,0,0.0,0,0,0,union berlin
+M. Pantović,Midfielder,193,13,0,13,0,1,0.08,1,0,0,union berlin
+M. Sanogo,Attacker,0,0,0,0,0,0,0.0,0,0,0,union berlin
+M. Thorsby,Midfielder,752,22,7,15,6,1,0.05,3,0,0,union berlin
+N. Gießelmann,Defender,1292,24,14,10,7,0,0.0,4,0,0,union berlin
+P. Jaeckel,Defender,1038,14,11,3,0,1,0.07,2,1,0,union berlin
+P. Seguin,Midfielder,649,19,4,15,2,1,0.05,4,0,0,union berlin
+R. Khedira,Midfielder,2527,29,29,0,5,1,0.03,7,0,0,union berlin
+R. Knoche,Defender,2604,29,29,0,1,2,0.07,4,0,0,union berlin
+S. Becker,Attacker,2226,30,29,1,28,9,0.3,2,0,0,union berlin
+S. Michel,Attacker,438,19,2,17,1,3,0.16,2,0,0,union berlin
+T. Baumgartl,Defender,519,7,6,1,3,0,0.0,1,0,0,union berlin
+T. Maciejewski,Attacker,0,0,0,0,0,0,0.0,0,0,0,union berlin
+Y. Stein,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,union berlin
+B. Uphoff,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,freiburg
+C. Günter,Defender,2576,29,29,0,1,0,0.0,5,0,0,freiburg
+D. Kyereh,Midfielder,563,12,7,5,7,2,0.17,2,0,0,freiburg
+J. Schmid,Midfielder,31,1,0,1,0,0,0.0,0,0,0,freiburg
+Jeong Woo-Yeong,Midfielder,623,23,4,19,4,1,0.04,2,0,0,freiburg
+K. Ezekwem,Defender,0,0,0,0,0,0,0.0,0,0,0,freiburg
+K. Schmidt,Defender,64,2,1,1,1,0,0.0,0,0,0,freiburg
+K. Sildillia,Defender,1924,26,22,4,3,0,0.0,3,1,0,freiburg
+L. Höler,Attacker,1146,22,12,10,11,5,0.23,1,0,0,freiburg
+L. Kübler,Defender,1495,18,17,1,7,2,0.11,1,0,0,freiburg
+M. Eggestein,Midfielder,2193,28,24,4,9,1,0.04,5,0,0,freiburg
+M. Flekken,Goalkeeper,2700,30,30,0,0,0,0.0,0,0,0,freiburg
+M. Ginter,Defender,2700,30,30,0,0,4,0.13,3,0,0,freiburg
+M. Gregoritsch,Attacker,2044,27,26,1,24,10,0.37,5,0,0,freiburg
+M. Gulde,Defender,449,12,6,6,3,0,0.0,2,0,0,freiburg
+M. Röhl,Midfielder,23,2,0,2,0,0,0.0,0,0,0,freiburg
+N. Atubolu,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,freiburg
+N. Höfler,Midfielder,2552,29,29,0,5,0,0.0,9,0,0,freiburg
+N. Petersen,Attacker,223,25,0,25,0,0,0.0,1,0,0,freiburg
+N. Weißhaupt,Attacker,179,14,0,14,0,0,0.0,0,0,0,freiburg
+P. Lienhart,Defender,2335,27,25,2,1,1,0.04,3,0,0,freiburg
+R. Dōan,Attacker,2193,30,27,3,24,5,0.17,3,0,0,freiburg
+R. Sallai,Midfielder,763,16,8,8,7,1,0.06,5,0,0,freiburg
+R. Wagner,Midfielder,26,3,0,3,0,0,0.0,1,0,0,freiburg
+V. Grifo,Midfielder,2084,29,26,3,25,13,0.45,1,0,0,freiburg
+Y. Keitel,Midfielder,539,20,6,14,4,0,0.0,4,0,0,freiburg
+A. Adli,Attacker,1191,22,12,10,10,3,0.14,1,0,1,bayer leverkusen
+A. Azhil,Midfielder,0,1,0,1,0,0,0.0,0,0,0,bayer leverkusen
+A. Hložek,Attacker,1235,25,16,9,16,5,0.2,2,0,0,bayer leverkusen
+A. Lunev,Goalkeeper,90,1,1,0,0,0,0.0,0,0,0,bayer leverkusen
+C. Hudson-Odoi,Midfielder,607,14,7,7,7,0,0.0,0,0,0,bayer leverkusen
+D. Sinkgraven,Defender,341,12,4,8,4,0,0.0,1,0,0,bayer leverkusen
+E. Palacios,Midfielder,1352,21,16,5,8,3,0.14,2,0,0,bayer leverkusen
+E. Tapsoba,Defender,2512,29,28,1,2,1,0.03,4,0,0,bayer leverkusen
+F. Wirtz,Midfielder,808,13,8,5,5,1,0.08,2,0,0,bayer leverkusen
+J. Eze,Midfielder,0,0,0,0,0,0,0.0,0,0,0,bayer leverkusen
+J. Frimpong,Defender,2362,30,28,2,16,8,0.27,4,0,0,bayer leverkusen
+J. Tah,Defender,2134,29,24,5,3,1,0.03,6,0,0,bayer leverkusen
+K. Bellarabi,Attacker,78,7,1,6,1,0,0.0,0,0,0,bayer leverkusen
+K. Demirbay,Midfielder,1366,23,15,8,11,3,0.13,3,0,0,bayer leverkusen
+L. Hrádecký,Goalkeeper,2610,29,29,0,0,0,0.0,0,0,1,bayer leverkusen
+M. Bakker,Defender,1360,24,15,9,5,3,0.12,3,1,0,bayer leverkusen
+M. Diaby,Attacker,2362,29,29,0,15,9,0.31,3,0,0,bayer leverkusen
+M. Neutgens,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bayer leverkusen
+N. Amiri,Midfielder,812,21,7,14,5,4,0.19,5,0,0,bayer leverkusen
+N. Lomb,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bayer leverkusen
+N. Mbamba,Midfielder,0,0,0,0,0,0,0.0,0,0,0,bayer leverkusen
+O. Kossounou,Defender,1520,24,17,7,4,0,0.0,3,0,0,bayer leverkusen
+P. Hincapié,Defender,2194,27,24,3,8,1,0.04,10,2,0,bayer leverkusen
+P. Pentz,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bayer leverkusen
+P. Schick,Attacker,941,14,10,4,4,3,0.21,0,0,0,bayer leverkusen
+R. Andrich,Midfielder,2319,28,27,1,4,2,0.07,8,0,0,bayer leverkusen
+S. Azmoun,Attacker,707,19,6,13,4,4,0.21,1,0,0,bayer leverkusen
+T. Fosu-Mensah,Defender,183,11,1,10,1,0,0.0,1,0,0,bayer leverkusen
+B. Franjić,Midfielder,229,5,3,2,3,0,0.0,0,0,0,wolfsburg
+D. Odogu,Defender,0,0,0,0,0,0,0.0,0,0,0,wolfsburg
+D. Pejčinović,Attacker,0,0,0,0,0,0,0.0,0,0,0,wolfsburg
+F. Lange,Defender,0,0,0,0,0,0,0.0,0,0,0,wolfsburg
+F. Nmecha,Midfielder,1520,26,15,11,7,3,0.12,3,0,0,wolfsburg
+J. Guilavogui,Midfielder,854,19,7,12,1,1,0.05,3,0,0,wolfsburg
+J. Kamiński,Midfielder,1769,27,21,6,16,2,0.07,0,0,0,wolfsburg
+J. Wind,Attacker,1005,20,11,9,8,6,0.3,0,0,0,wolfsburg
+K. Casteels,Goalkeeper,2700,30,30,0,0,0,0.0,0,0,0,wolfsburg
+K. Fischer,Defender,454,8,5,3,3,0,0.0,1,0,0,wolfsburg
+K. Paredes,Midfielder,436,19,1,18,2,1,0.05,2,0,0,wolfsburg
+L. Ambros,Midfielder,16,1,0,1,0,0,0.0,0,0,0,wolfsburg
+L. Nmecha,Attacker,899,16,10,6,5,4,0.25,3,0,0,wolfsburg
+L. Waldschmidt,Attacker,437,15,4,11,4,3,0.2,0,0,0,wolfsburg
+M. Arnold,Midfielder,2423,28,28,0,7,5,0.18,5,0,0,wolfsburg
+M. Lacroix,Defender,1626,24,18,6,5,1,0.04,1,0,0,wolfsburg
+M. Svanberg,Midfielder,1658,28,19,9,12,4,0.14,4,0,0,wolfsburg
+M. van de Ven,Defender,2610,29,29,0,0,1,0.03,5,0,0,wolfsburg
+N. Cozza,Defender,70,3,0,3,0,0,0.0,0,0,0,wolfsburg
+N. Klinger,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,wolfsburg
+Omar Marmoush,Attacker,1401,29,15,14,15,5,0.17,2,0,0,wolfsburg
+P. Pervan,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,wolfsburg
+P. Schulze,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,wolfsburg
+P. Wimmer,Midfielder,1382,22,19,3,19,4,0.18,6,0,0,wolfsburg
+Paulo Otávio,Defender,2051,25,25,0,10,0,0.0,7,0,0,wolfsburg
+R. Baku,Midfielder,2265,29,25,4,4,5,0.17,5,0,0,wolfsburg
+S. Bornauw,Defender,1569,22,19,3,5,1,0.05,7,0,0,wolfsburg
+Y. Gerhardt,Midfielder,1645,25,20,5,9,6,0.24,2,0,0,wolfsburg
+A. Barkok,Midfielder,444,19,2,17,2,0,0.0,1,0,0,mainz 05
+A. Caci,Defender,1828,27,21,6,8,2,0.07,3,0,0,mainz 05
+A. Hack,Defender,1132,19,14,5,3,0,0.0,2,0,1,mainz 05
+A. Hanche-Olsen,Defender,1227,14,14,0,1,0,0.0,4,0,0,mainz 05
+A. Stach,Midfielder,1825,27,19,8,11,1,0.04,4,0,0,mainz 05
+Aarón Martín,Defender,1597,24,17,7,5,4,0.17,3,0,0,mainz 05
+B. Gruda,Midfielder,2,2,0,2,0,0,0.0,0,0,0,mainz 05
+D. Burgzorg,Attacker,202,11,0,11,1,0,0.0,2,0,0,mainz 05
+D. da Costa,Defender,1010,20,11,9,8,0,0.0,0,0,0,mainz 05
+D. Kohr,Midfielder,2025,27,24,3,6,3,0.11,9,0,0,mainz 05
+E. Fernandes,Midfielder,2088,28,24,4,10,0,0.0,3,0,0,mainz 05
+E. Shabani,Midfielder,0,0,0,0,0,0,0.0,0,0,0,mainz 05
+F. Dahmen,Goalkeeper,540,6,6,0,0,0,0.0,0,0,0,mainz 05
+Jonathan Michael Burkardt,Attacker,536,11,7,4,7,1,0.09,2,0,0,mainz 05
+K. Mizuta,Midfielder,0,0,0,0,0,0,0.0,0,0,0,mainz 05
+K. Onisiwo,Attacker,2188,27,24,3,9,9,0.33,4,0,0,mainz 05
+L. Ajorque,Attacker,1056,14,13,1,10,6,0.43,3,0,0,mainz 05
+L. Barreiro,Midfielder,1874,28,22,6,11,3,0.11,4,0,0,mainz 05
+L. Rieß,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,mainz 05
+Lee Jae-Sung,Midfielder,1683,30,21,9,19,7,0.23,2,0,0,mainz 05
+M. Ingvartsen,Attacker,1136,24,14,10,13,9,0.38,2,0,0,mainz 05
+M. Leitsch,Defender,662,9,7,2,1,0,0.0,0,0,0,mainz 05
+M. Mustapha,Attacker,64,5,0,5,1,0,0.0,1,0,0,mainz 05
+N. Weiper,Attacker,34,6,0,6,0,2,0.33,0,0,0,mainz 05
+R. Zentner,Goalkeeper,2160,24,24,0,0,0,0.0,1,0,0,mainz 05
+S. Bell,Defender,2039,26,22,4,3,0,0.0,7,0,0,mainz 05
+S. Widmer,Defender,1690,26,19,7,9,2,0.08,0,0,0,mainz 05
+A. Knauff,Attacker,1249,22,14,8,10,1,0.05,2,0,0,eintracht frankfurt
+A. Touré,Defender,163,3,2,1,1,0,0.0,0,0,0,eintracht frankfurt
+Aurélio Buta,Defender,993,14,11,3,4,2,0.14,1,0,0,eintracht frankfurt
+C. Lenz,Defender,1014,20,9,11,2,0,0.0,1,0,0,eintracht frankfurt
+D. Gebuhr,Defender,20,1,0,1,0,0,0.0,0,0,0,eintracht frankfurt
+D. Kamada,Midfielder,1915,28,21,7,11,7,0.25,3,0,0,eintracht frankfurt
+D. Ramaj,Goalkeeper,90,1,1,0,0,0,0.0,0,0,0,eintracht frankfurt
+D. Sow,Midfielder,2316,28,26,2,5,4,0.14,7,0,0,eintracht frankfurt
+E. Ebimbe,Midfielder,1008,15,10,5,6,2,0.13,3,0,0,eintracht frankfurt
+E. Ndicka,Defender,2333,26,26,0,1,1,0.04,4,0,0,eintracht frankfurt
+F. Alidou,Attacker,154,14,0,14,0,0,0.0,0,0,0,eintracht frankfurt
+H. Smolčić,Defender,466,9,4,5,0,0,0.0,0,0,0,eintracht frankfurt
+J. Grahl,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,eintracht frankfurt
+J. Horz,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,eintracht frankfurt
+J. Lindstrøm,Midfielder,1555,23,20,3,18,7,0.3,2,0,0,eintracht frankfurt
+J. Schröder,Midfielder,0,0,0,0,0,0,0.0,0,0,0,eintracht frankfurt
+K. Jakić,Midfielder,1457,24,17,7,5,1,0.04,4,0,0,eintracht frankfurt
+K. Trapp,Goalkeeper,2610,29,29,0,0,0,0.0,2,0,0,eintracht frankfurt
+L. Alario,Attacker,315,20,2,18,1,1,0.05,0,0,0,eintracht frankfurt
+M. Götze,Midfielder,2389,28,28,0,10,2,0.07,5,0,0,eintracht frankfurt
+M. Hasebe,Defender,1138,15,13,2,4,0,0.0,1,0,0,eintracht frankfurt
+M. Loune,Midfielder,0,0,0,0,0,0,0.0,0,0,0,eintracht frankfurt
+M. Wenig,Midfielder,3,1,0,1,0,0,0.0,0,0,0,eintracht frankfurt
+P. Aaronson,Midfielder,86,4,0,4,0,0,0.0,0,0,0,eintracht frankfurt
+P. Max,Defender,653,9,8,1,5,0,0.0,1,0,0,eintracht frankfurt
+R. Borré,Attacker,1002,29,10,19,8,2,0.07,4,0,0,eintracht frankfurt
+R. Kolo Muani,Attacker,2312,28,27,1,14,13,0.46,4,1,0,eintracht frankfurt
+S. Rode,Midfielder,1281,25,17,8,17,4,0.16,6,0,0,eintracht frankfurt
+Simon Simoni,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,eintracht frankfurt
+T. Chandler,Midfielder,76,5,0,5,0,0,0.0,0,0,0,eintracht frankfurt
+Tuta,Defender,2447,28,27,1,1,1,0.04,6,0,0,eintracht frankfurt
+A. Pléa,Attacker,1665,26,19,7,13,2,0.08,4,0,0,borussia m gladbach
+C. Kramer,Midfielder,2143,26,26,0,9,0,0.0,3,0,0,borussia m gladbach
+C. Noß,Attacker,0,0,0,0,0,0,0.0,0,0,0,borussia m gladbach
+F. Dimmer,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,borussia m gladbach
+F. Neuhaus,Midfielder,1169,20,13,7,8,1,0.05,2,0,0,borussia m gladbach
+H. Wolf,Midfielder,366,15,3,12,4,1,0.07,0,0,0,borussia m gladbach
+J. Hofmann,Midfielder,2333,27,26,1,13,9,0.33,1,0,0,borussia m gladbach
+J. Italiano,Midfielder,0,0,0,0,0,0,0.0,0,0,0,borussia m gladbach
+J. Olschowsky,Goalkeeper,180,2,2,0,0,0,0.0,0,0,0,borussia m gladbach
+J. Omlin,Goalkeeper,1111,13,13,0,1,0,0.0,0,0,0,borussia m gladbach
+J. Scally,Defender,2214,27,25,2,10,0,0.0,2,0,0,borussia m gladbach
+J. Weigl,Midfielder,1537,19,17,2,4,1,0.05,6,0,0,borussia m gladbach
+K. Itakura,Defender,1757,21,20,1,0,0,0.0,1,0,2,borussia m gladbach
+L. Netz,Defender,513,16,5,11,2,0,0.0,0,0,0,borussia m gladbach
+L. Stindl,Midfielder,1609,25,19,6,18,5,0.2,8,0,0,borussia m gladbach
+M. Brüll,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,borussia m gladbach
+M. Doucouré,Defender,0,0,0,0,0,0,0.0,0,0,0,borussia m gladbach
+M. Friedrich,Defender,968,19,10,9,0,1,0.05,1,0,0,borussia m gladbach
+M. Koné,Midfielder,2379,27,27,0,10,1,0.04,11,0,0,borussia m gladbach
+M. Thuram,Attacker,2358,28,26,2,6,13,0.46,3,0,0,borussia m gladbach
+N. Elvedi,Defender,2476,28,28,0,1,3,0.11,2,0,0,borussia m gladbach
+N. Ngoumou,Midfielder,529,17,5,12,5,1,0.06,0,0,0,borussia m gladbach
+O. Fraulo,Midfielder,6,2,0,2,0,0,0.0,0,0,0,borussia m gladbach
+P. Herrmann,Attacker,134,19,0,19,0,1,0.05,2,0,0,borussia m gladbach
+R. Bensebaïni,Defender,2217,25,25,0,5,5,0.2,5,1,0,borussia m gladbach
+S. Lainer,Defender,461,13,5,8,4,0,0.0,2,0,0,borussia m gladbach
+S. Telalovic,Attacker,6,3,0,3,0,0,0.0,0,0,0,borussia m gladbach
+S. Walde,Defender,0,0,0,0,0,0,0.0,0,0,0,borussia m gladbach
+T. Jantschke,Defender,85,6,1,5,1,0,0.0,0,0,0,borussia m gladbach
+T. Sippel,Goalkeeper,509,6,5,1,0,0,0.0,1,0,0,borussia m gladbach
+Y. Borges Sanches,Attacker,25,3,0,3,0,0,0.0,0,0,0,borussia m gladbach
+B. Schmitz,Defender,2200,28,27,1,10,1,0.04,4,0,0,koln
+D. Downs,Attacker,0,0,0,0,0,0,0.0,0,0,0,koln
+D. Huseinbašić,Midfielder,717,20,7,13,5,3,0.15,3,0,0,koln
+D. Limnios,Midfielder,9,1,0,1,0,0,0.0,0,0,0,koln
+D. Ljubičić,Midfielder,1429,23,16,7,13,4,0.17,1,0,0,koln
+D. Selke,Attacker,691,13,9,4,9,2,0.15,1,0,0,koln
+E. Bakatukanda,Defender,0,0,0,0,0,0,0.0,0,0,0,koln
+E. Martel,Midfielder,1796,26,20,6,8,1,0.04,5,0,0,koln
+E. Skhiri,Midfielder,2497,28,28,0,1,6,0.21,5,0,0,koln
+F. Dietz,Attacker,393,11,4,7,5,1,0.09,1,0,0,koln
+F. Kainz,Midfielder,2095,28,27,1,21,6,0.21,5,1,0,koln
+G. Strauch,Defender,0,0,0,0,0,0,0.0,0,0,0,koln
+J. Chabot,Defender,1446,17,17,0,3,0,0.0,2,0,0,koln
+J. Diehl,Attacker,15,2,0,2,0,0,0.0,0,0,0,koln
+J. Hector,Midfielder,2466,28,28,0,2,0,0.0,2,0,0,koln
+J. Roloff,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,koln
+J. Schwirten,Midfielder,0,0,0,0,0,0,0.0,0,0,0,koln
+J. Thielmann,Midfielder,662,19,5,14,3,2,0.11,3,0,0,koln
+K. Pedersen,Defender,266,5,3,2,1,0,0.0,1,0,0,koln
+K. Schindler,Midfielder,936,25,7,18,5,0,0.0,4,0,0,koln
+L. Kilian,Defender,1103,15,13,2,0,1,0.07,3,2,0,koln
+L. Maina,Midfielder,1945,29,23,6,22,3,0.1,0,0,0,koln
+M. Köbbing,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,koln
+M. Olesen,Midfielder,450,13,6,7,5,0,0.0,0,0,0,koln
+M. Schmid,Attacker,0,0,0,0,0,0,0.0,0,0,0,koln
+M. Schwäbe,Goalkeeper,2700,30,30,0,0,0,0.0,1,0,0,koln
+M. Uth,Attacker,43,3,0,3,0,0,0.0,2,0,0,koln
+N. Soldo,Defender,592,7,6,1,0,0,0.0,1,0,0,koln
+R. Smajić,Defender,0,0,0,0,0,0,0.0,0,0,0,koln
+S. Adamyan,Attacker,625,23,4,19,4,1,0.04,3,0,0,koln
+S. Tigges,Attacker,1450,27,16,11,13,5,0.19,1,0,0,koln
+Sebastian Andersson,Attacker,0,0,0,0,0,0,0.0,0,0,0,koln
+T. Horn,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,koln
+T. Hübers,Defender,2198,25,24,1,0,1,0.04,7,0,0,koln
+T. Lemperle,Attacker,105,10,0,10,0,0,0.0,0,0,0,koln
+A. Jung,Defender,2380,30,29,1,19,2,0.07,1,0,0,werder bremen
+A. Pieper,Defender,1901,28,21,7,6,2,0.07,8,0,0,werder bremen
+C. Groß,Defender,1780,24,22,2,18,1,0.04,4,0,0,werder bremen
+D. Salifou,Midfielder,0,1,0,1,0,0,0.0,0,0,0,werder bremen
+E. Dinkçi,Attacker,197,15,0,15,0,0,0.0,0,0,0,werder bremen
+E. Santos,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,werder bremen
+F. Agu,Defender,47,3,0,3,0,0,0.0,0,0,0,werder bremen
+F. Chiarodia,Defender,65,3,1,2,1,0,0.0,0,0,0,werder bremen
+I. Gruev,Midfielder,1364,27,15,12,11,0,0.0,2,0,0,werder bremen
+J. Mbom,Midfielder,0,1,0,1,0,0,0.0,0,0,0,werder bremen
+J. Pavlenka,Goalkeeper,2549,29,29,0,1,0,0.0,0,0,0,werder bremen
+J. Stage,Midfielder,1586,29,18,11,14,3,0.1,4,0,0,werder bremen
+L. Bittencourt,Midfielder,1349,21,18,3,15,2,0.1,7,0,0,werder bremen
+L. Buchanan,Defender,351,18,1,17,1,1,0.06,1,0,0,werder bremen
+L. Lord,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,werder bremen
+L. Opitz,Attacker,0,0,0,0,0,0,0.0,0,0,0,werder bremen
+M. Backhaus,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,werder bremen
+M. Ducksch,Attacker,2534,30,30,0,12,12,0.4,4,0,0,werder bremen
+M. Friedl,Defender,2237,26,26,0,2,0,0.0,6,0,1,werder bremen
+M. Philipp,Attacker,342,11,3,8,3,1,0.09,0,0,0,werder bremen
+M. Veljković,Defender,1960,25,22,3,2,1,0.04,2,0,0,werder bremen
+M. Weiser,Defender,2292,27,26,1,5,2,0.07,6,0,0,werder bremen
+M. Zetterer,Goalkeeper,151,2,1,1,0,0,0.0,0,0,0,werder bremen
+N. Füllkrug,Attacker,2299,26,26,0,2,16,0.62,4,0,0,werder bremen
+N. Schmidt,Midfielder,994,20,10,10,7,2,0.1,3,0,0,werder bremen
+N. Stark,Defender,1719,23,19,4,5,0,0.0,8,0,0,werder bremen
+R. Schmid,Midfielder,1208,23,12,11,9,0,0.0,3,0,0,werder bremen
+T. Berger,Midfielder,0,0,0,0,0,0,0.0,0,0,0,werder bremen
+T. Dietrich,Defender,0,0,0,0,0,0,0.0,0,0,0,werder bremen
+A. Engels,Midfielder,1190,15,15,0,5,0,0.0,4,0,0,augsburg
+A. Hahn,Midfielder,389,7,4,3,1,2,0.29,1,0,0,augsburg
+A. Maier,Midfielder,1751,26,21,5,14,4,0.15,3,0,0,augsburg
+A. Zehnter,Defender,0,1,0,1,0,0,0.0,0,0,0,augsburg
+B. Leneis,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,augsburg
+D. Beljo,Attacker,857,14,12,2,11,2,0.14,1,0,0,augsburg
+D. Caligiuri,Midfielder,281,13,2,11,1,1,0.08,1,0,0,augsburg
+D. Čolina,Defender,107,5,0,5,0,1,0.2,0,0,0,augsburg
+D. Katić,Defender,0,0,0,0,0,0,0.0,0,0,0,augsburg
+D. Klein,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,augsburg
+E. Demirović,Attacker,2028,26,26,0,12,8,0.31,6,0,1,augsburg
+E. Rexhbeçaj,Midfielder,2255,27,26,1,10,0,0.0,6,0,0,augsburg
+F. Jensen,Midfielder,920,20,8,12,7,2,0.1,1,0,0,augsburg
+F. Uduokhai,Defender,1231,16,13,3,1,0,0.0,3,0,0,augsburg
+I. Cardona,Attacker,258,8,0,8,1,1,0.12,2,0,0,augsburg
+Iago,Defender,1604,22,19,3,7,0,0.0,5,1,0,augsburg
+J. Baumgartlinger,Midfielder,543,16,3,13,1,0,0.0,1,0,0,augsburg
+J. Gouweleeuw,Defender,2437,28,28,0,2,0,0.0,10,0,0,augsburg
+J. Mbila,Attacker,0,0,0,0,0,0,0.0,0,0,0,augsburg
+K. Yeboah,Attacker,250,9,2,7,2,0,0.0,0,0,0,augsburg
+M. Bauer,Defender,1590,23,18,5,2,0,0.0,7,0,0,augsburg
+M. Berisha,Attacker,1586,20,19,1,9,9,0.45,8,1,0,augsburg
+M. Kömür,Midfielder,0,0,0,0,0,0,0.0,0,0,0,augsburg
+M. Pedersen,Defender,1523,24,16,8,7,0,0.0,5,0,0,augsburg
+N. Dorsch,Midfielder,203,7,2,5,2,0,0.0,1,0,0,augsburg
+N. Mbuku,Attacker,32,2,0,2,0,0,0.0,0,0,0,augsburg
+N. Sarenren Bazee,Midfielder,18,2,0,2,0,0,0.0,0,0,0,augsburg
+R. Gikiewicz,Goalkeeper,2070,23,23,0,0,0,0.0,3,0,0,augsburg
+R. Gumny,Defender,1937,26,22,4,5,1,0.04,4,0,0,augsburg
+R. Oxford,Defender,93,3,1,2,1,0,0.0,0,0,0,augsburg
+R. Vargas,Midfielder,1009,21,12,9,12,3,0.14,4,0,0,augsburg
+Renato Veiga,Midfielder,450,9,5,4,4,0,0.0,3,0,0,augsburg
+T. Koubek,Goalkeeper,630,7,7,0,0,0,0.0,0,0,0,augsburg
+Tobias Strobl,Midfielder,0,0,0,0,0,0,0.0,0,0,0,augsburg
+A. Kramarić,Attacker,2045,28,22,6,10,9,0.32,1,0,0,hoffenheim
+A. Stiller,Midfielder,663,19,6,13,4,1,0.05,0,0,0,hoffenheim
+Angeliño,Defender,2277,29,26,3,6,0,0.0,2,0,0,hoffenheim
+C. Baumgartner,Midfielder,2293,29,29,0,16,6,0.21,7,0,0,hoffenheim
+D. Geiger,Midfielder,1823,25,25,0,20,1,0.04,9,0,0,hoffenheim
+E. Bičakčić,Defender,165,6,0,6,0,0,0.0,0,0,0,hoffenheim
+Eduardo Quaresma,Defender,86,4,1,3,1,0,0.0,0,0,0,hoffenheim
+F. Asllani,Attacker,161,8,0,8,0,0,0.0,0,0,0,hoffenheim
+F. Becker,Midfielder,358,9,4,5,4,0,0.0,0,0,0,hoffenheim
+G. Prömel,Midfielder,1103,14,13,1,3,1,0.07,3,0,0,hoffenheim
+I. Bebou,Attacker,1067,15,13,2,10,4,0.27,1,0,0,hoffenheim
+J. Brooks,Defender,990,11,11,0,0,0,0.0,4,0,0,hoffenheim
+J. Bruun Larsen,Attacker,289,11,3,8,3,1,0.09,0,0,0,hoffenheim
+J. Che,Defender,0,0,0,0,0,0,0.0,0,0,0,hoffenheim
+J. Quarshie,Defender,0,1,0,1,0,0,0.0,0,0,0,hoffenheim
+K. Akpoguma,Defender,1789,26,19,7,6,0,0.0,10,0,0,hoffenheim
+K. Dolberg,Attacker,368,11,4,7,3,1,0.09,0,0,0,hoffenheim
+K. Vogt,Defender,1781,22,22,0,6,0,0.0,8,0,0,hoffenheim
+L. Philipp,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,hoffenheim
+M. Dabbur,Attacker,791,18,6,12,4,5,0.28,2,0,1,hoffenheim
+M. Damar,Midfielder,155,6,1,5,1,0,0.0,0,0,0,hoffenheim
+N. Noll,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,hoffenheim
+O. Baumann,Goalkeeper,2700,30,30,0,0,0,0.0,1,0,0,hoffenheim
+O. Kabak,Defender,2065,26,24,2,4,2,0.08,10,2,0,hoffenheim
+P. Kadeřábek,Defender,1662,26,17,9,5,1,0.04,1,0,0,hoffenheim
+P. Pentke,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,hoffenheim
+R. Skov,Attacker,1282,21,16,5,12,3,0.14,1,0,0,hoffenheim
+S. Nsoki,Defender,1174,17,12,5,3,1,0.06,2,0,0,hoffenheim
+S. Rudy,Midfielder,607,19,4,15,4,0,0.0,3,0,0,hoffenheim
+T. Bischof,Midfielder,305,10,3,7,3,0,0.0,0,0,0,hoffenheim
+T. Delaney,Midfielder,299,6,4,2,4,0,0.0,0,0,0,hoffenheim
+U. Tohumcu,Midfielder,240,6,2,4,1,0,0.0,0,0,0,hoffenheim
+A. Ivan,Midfielder,44,1,0,1,0,0,0.0,0,0,0,schalke 04
+A. Král,Midfielder,1997,25,22,3,3,0,0.0,3,0,0,schalke 04
+A. Schwolow,Goalkeeper,1764,20,19,1,0,0,0.0,1,0,0,schalke 04
+C. Brunner,Defender,2020,24,24,0,8,0,0.0,3,0,0,schalke 04
+D. Drexler,Midfielder,1203,23,15,8,12,4,0.17,2,0,1,schalke 04
+D. Latza,Midfielder,652,16,6,10,2,0,0.0,2,0,0,schalke 04
+É. Balanta,Midfielder,238,6,3,3,3,0,0.0,3,0,0,schalke 04
+H. Matriciani,Defender,1618,19,19,0,4,0,0.0,1,0,0,schalke 04
+I. Cissé,Defender,0,0,0,0,0,0,0.0,0,0,0,schalke 04
+J. Heekeren,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,schalke 04
+J. Müller,Defender,0,0,0,0,0,0,0.0,0,0,0,schalke 04
+J. Schell,Defender,0,0,0,0,0,0,0.0,0,0,0,schalke 04
+J. Uronen,Defender,585,9,8,1,5,0,0.0,2,0,0,schalke 04
+K. Karaman,Attacker,700,17,7,10,5,1,0.06,2,0,0,schalke 04
+K. Topp,Attacker,19,1,0,1,0,0,0.0,0,0,0,schalke 04
+L. Greiml,Defender,354,7,3,4,0,0,0.0,2,0,0,schalke 04
+M. Aydın,Midfielder,555,16,3,13,2,0,0.0,0,0,0,schalke 04
+M. Bülter,Attacker,2361,30,27,3,9,9,0.3,4,0,0,schalke 04
+M. Frey,Attacker,809,14,9,5,8,0,0.0,2,0,0,schalke 04
+M. Jenz,Defender,856,10,10,0,1,0,0.0,4,0,0,schalke 04
+M. Kamiński,Defender,361,5,4,1,0,1,0.2,0,0,0,schalke 04
+M. Langer,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,schalke 04
+M. Yoshida,Defender,2509,28,28,0,1,0,0.0,4,0,0,schalke 04
+N. Boujellab,Midfielder,0,0,0,0,0,0,0.0,0,0,0,schalke 04
+N. Tauer,Midfielder,0,0,0,0,0,0,0.0,0,0,0,schalke 04
+R. Fährmann,Goalkeeper,936,11,11,0,1,0,0.0,0,0,0,schalke 04
+R. Zalazar,Midfielder,1114,19,12,7,10,1,0.05,4,0,0,schalke 04
+S. Kozuki,Midfielder,383,5,5,0,4,1,0.2,1,0,0,schalke 04
+S. Polter,Attacker,474,15,4,11,3,1,0.07,2,0,0,schalke 04
+S. Sané,Attacker,24,1,0,1,0,0,0.0,0,0,0,schalke 04
+S. Terodde,Attacker,1674,30,19,11,11,4,0.13,4,0,0,schalke 04
+S. van den Berg,Defender,336,5,4,1,1,1,0.2,2,0,0,schalke 04
+T. Kolodziejczak,Defender,25,1,0,1,0,0,0.0,0,0,0,schalke 04
+T. Krauß,Midfielder,2311,29,28,1,13,1,0.03,6,0,0,schalke 04
+T. Mohr,Midfielder,786,16,8,8,4,0,0.0,0,0,0,schalke 04
+T. Ouwejan,Defender,876,15,10,5,5,0,0.0,1,0,0,schalke 04
+T. Skarke,Attacker,350,6,5,1,4,1,0.17,0,0,0,schalke 04
+A. Aidonis,Defender,0,0,0,0,0,0,0.0,0,0,0,stuttgart
+A. Karazor,Defender,1701,26,19,7,5,0,0.0,10,0,0,stuttgart
+A. Kuol,Attacker,5,1,0,1,0,0,0.0,0,0,0,stuttgart
+B. Sosa,Defender,1691,22,19,3,5,2,0.09,5,0,0,stuttgart
+C. Führich,Midfielder,1737,29,20,9,19,4,0.14,2,0,0,stuttgart
+D. Zagadou,Defender,1020,14,11,3,2,0,0.0,3,0,0,stuttgart
+E. Millot,Midfielder,758,20,8,12,7,0,0.0,3,0,0,stuttgart
+F. Bredlow,Goalkeeper,990,11,11,0,0,0,0.0,1,0,0,stuttgart
+F. Müller,Goalkeeper,1710,19,19,0,0,0,0.0,0,0,0,stuttgart
+F. Schock,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,stuttgart
+G. Haraguchi,Midfielder,693,9,8,1,5,0,0.0,1,0,0,stuttgart
+Gil Dias,Midfielder,402,7,6,1,6,1,0.14,0,0,0,stuttgart
+H. Ito,Defender,2202,26,25,1,2,1,0.04,5,0,0,stuttgart
+J. Perea,Attacker,389,15,3,12,3,1,0.07,0,0,0,stuttgart
+J. Vagnoman,Defender,1137,19,12,7,3,2,0.11,2,1,0,stuttgart
+K. Mavropanos,Defender,2179,26,25,1,2,2,0.08,8,1,0,stuttgart
+L. Egloff,Midfielder,234,10,2,8,2,0,0.0,1,0,0,stuttgart
+L. Pfeiffer,Attacker,680,18,6,12,5,0,0.0,1,0,1,stuttgart
+L. Reichardt,Defender,0,0,0,0,0,0,0.0,0,0,0,stuttgart
+L. Ulrich,Midfielder,5,1,0,1,0,0,0.0,0,0,0,stuttgart
+M. Hoppe,Defender,0,0,0,0,0,0,0.0,0,0,0,stuttgart
+N. Glaus,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,stuttgart
+N. Nartey,Midfielder,386,8,4,4,3,0,0.0,1,0,0,stuttgart
+Ö. Beyaz,Midfielder,0,0,0,0,0,0,0.0,0,0,0,stuttgart
+P. Stenzel,Defender,322,11,3,8,2,0,0.0,0,0,0,stuttgart
+S. Guirassy,Attacker,1297,18,16,2,7,8,0.44,3,1,0,stuttgart
+S. Katompa Mvumpa,Attacker,1730,26,20,6,14,5,0.19,4,0,0,stuttgart
+T. Coulibaly,Midfielder,297,11,0,11,0,3,0.27,2,0,0,stuttgart
+T. Kastanaras,Attacker,70,4,1,3,1,0,0.0,0,0,0,stuttgart
+Tiago Tomás,Attacker,1089,23,13,10,11,2,0.09,2,0,0,stuttgart
+W. Anton,Defender,2599,30,30,0,6,1,0.03,3,0,0,stuttgart
+W. Endo,Midfielder,2565,29,29,0,3,4,0.14,1,0,0,stuttgart
+A. Losilla,Midfielder,2374,27,27,0,3,1,0.04,5,0,1,bochum
+C. Antwi-Adjei,Attacker,1641,25,18,7,11,2,0.08,2,0,0,bochum
+C. Gamboa,Defender,1438,18,16,2,8,0,0.0,2,0,0,bochum
+D. Heintz,Defender,577,8,5,3,2,0,0.0,1,0,0,bochum
+Danilo Soares,Defender,1731,22,22,0,9,0,0.0,6,0,0,bochum
+E. Mašović,Midfielder,1843,25,19,6,0,4,0.16,3,0,0,bochum
+G. Holtmann,Attacker,900,21,8,13,6,1,0.05,0,0,0,bochum
+I. Ordets,Defender,2090,26,24,2,4,0,0.0,4,0,0,bochum
+J. Góralski,Midfielder,146,4,2,2,2,0,0.0,0,0,0,bochum
+J. Osei-Tutu,Defender,747,20,8,12,7,0,0.0,3,0,0,bochum
+K. Schlotterbeck,Defender,598,9,7,2,1,1,0.11,3,0,0,bochum
+K. Stafylidis,Defender,959,17,10,7,5,0,0.0,2,0,0,bochum
+K. Stöger,Midfielder,2375,29,27,2,10,4,0.14,2,0,0,bochum
+M. Broschinski,Attacker,177,9,0,9,0,2,0.22,1,0,0,bochum
+M. Esser,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bochum
+M. Johansson,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bochum
+M. Riemann,Goalkeeper,2700,30,30,0,0,0,0.0,2,0,0,bochum
+M. Tolba,Defender,0,0,0,0,0,0,0.0,0,0,0,bochum
+P. Förster,Midfielder,1069,21,12,9,10,2,0.1,3,0,0,bochum
+P. Grave,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,bochum
+P. Hofmann,Attacker,2291,30,27,3,14,8,0.27,3,0,0,bochum
+P. Kunde,Midfielder,350,11,3,8,3,1,0.09,0,0,0,bochum
+P. Osterhage,Midfielder,990,22,11,11,7,0,0.0,2,0,0,bochum
+S. Ganvoula,Attacker,223,15,0,15,0,0,0.0,1,0,0,bochum
+S. Janko,Defender,816,16,9,7,5,0,0.0,1,0,0,bochum
+S. Zoller,Attacker,1369,23,18,5,14,3,0.13,4,0,0,bochum
+T. Asano,Attacker,1399,21,17,4,14,2,0.1,1,0,0,bochum
+V. Lampropoulos,Defender,618,13,7,6,1,0,0.0,2,0,0,bochum
+A. Rogel,Defender,1239,17,13,4,1,0,0.0,6,0,0,hertha bsc
+C. Ejuke,Attacker,836,17,9,8,8,0,0.0,0,0,0,hertha bsc
+D. Lukébakio,Attacker,2171,29,24,5,11,11,0.38,7,0,0,hertha bsc
+D. Scherhant,Attacker,235,9,2,7,2,1,0.11,0,0,0,hertha bsc
+F. Niederlechner,Attacker,587,12,8,4,8,0,0.0,1,0,0,hertha bsc
+F. Uremović,Defender,1630,20,19,1,5,0,0.0,6,1,0,hertha bsc
+I. Maza,Attacker,25,1,0,1,0,0,0.0,0,0,0,hertha bsc
+I. Šunjić,Midfielder,993,18,12,6,6,0,0.0,4,0,0,hertha bsc
+J. Boëtius,Midfielder,930,19,9,10,7,0,0.0,2,0,0,hertha bsc
+J. Eitschberger,Defender,0,0,0,0,0,0,0.0,0,0,0,hertha bsc
+J. Kenny,Defender,1883,25,21,4,3,0,0.0,2,0,0,hertha bsc
+J. Ngankam,Attacker,722,15,7,8,6,4,0.27,4,0,0,hertha bsc
+K. Boateng,Midfielder,397,15,4,11,4,0,0.0,3,0,0,hertha bsc
+K. Nsona,Attacker,0,0,0,0,0,0,0.0,0,0,0,hertha bsc
+L. Tousart,Midfielder,2588,29,29,0,4,3,0.1,1,0,0,hertha bsc
+L. Ullrich,Defender,0,0,0,0,0,0,0.0,0,0,0,hertha bsc
+M. Dárdai,Defender,719,14,8,6,3,1,0.07,1,0,0,hertha bsc
+M. Kempf,Defender,2457,28,28,0,3,0,0.0,5,0,0,hertha bsc
+M. Mittelstädt,Defender,701,14,6,8,2,0,0.0,3,0,0,hertha bsc
+M. Plattenhardt,Defender,2189,27,26,1,5,0,0.0,2,0,0,hertha bsc
+M. Richter,Attacker,1522,25,17,8,11,5,0.2,5,0,0,hertha bsc
+O. Christensen,Goalkeeper,2700,30,30,0,0,0,0.0,1,0,0,hertha bsc
+P. Klemens,Defender,0,0,0,0,0,0,0.0,0,0,0,hertha bsc
+P. Pekarík,Defender,177,4,2,2,1,0,0.0,0,0,0,hertha bsc
+R. Jarstein,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,hertha bsc
+R. Kwasigroch,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,hertha bsc
+S. Jovetić,Attacker,616,14,5,9,3,3,0.21,0,0,0,hertha bsc
+S. Serdar,Midfielder,1858,28,22,6,17,4,0.14,5,0,0,hertha bsc
+T. Ciğerci,Midfielder,680,11,10,1,9,0,0.0,2,0,0,hertha bsc
+T. Ernst,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,hertha bsc
+V. Stange,Defender,7,1,0,1,0,0,0.0,0,0,0,hertha bsc
+W. Kanga,Attacker,1420,23,15,8,11,2,0.09,3,0,0,hertha bsc

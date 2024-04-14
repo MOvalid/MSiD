@@ -1,0 +1,565 @@
+name,position,played_minutes,appearances,first_squad,substitute_in,substitute_out,goals,avg_goals,yellow_cards,yellow_red_cards,red_cards,club
+A. Bah,Defender,1766,25,20,5,9,1,0.04,1,0,0,benfica
+A. Schjelderup,Midfielder,0,1,0,1,0,0,0.0,0,0,0,benfica
+Álex Grimaldo,Defender,2593,29,29,0,6,3,0.1,4,0,0,benfica
+André Gomes,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,benfica
+António Silva,Defender,2425,27,27,0,2,3,0.11,4,0,0,benfica
+C. Ndour,Midfielder,0,1,0,1,0,0,0.0,0,0,0,benfica
+C. Tengstedt,Attacker,20,3,0,3,0,0,0.0,0,0,0,benfica
+Chiquinho,Midfielder,1134,21,11,10,5,1,0.05,0,0,0,benfica
+David Neres,Attacker,1686,27,19,8,16,6,0.22,2,0,0,benfica
+Diego Moreira,Attacker,0,0,0,0,0,0,0.0,0,0,0,benfica
+F. Aursnes,Midfielder,1797,24,20,4,4,1,0.04,5,0,0,benfica
+Florentino,Midfielder,1999,29,24,5,12,0,0.0,5,0,0,benfica
+Gilberto,Defender,775,19,8,11,7,2,0.11,2,0,0,benfica
+Gonçalo Guedes,Attacker,369,9,4,5,4,1,0.11,1,0,0,benfica
+Gonçalo Ramos,Attacker,2011,26,26,0,20,17,0.65,3,1,0,benfica
+Hugo Félix Sequeira,Midfielder,0,0,0,0,0,0,0.0,0,0,0,benfica
+J. Draxler,Midfielder,405,10,4,6,4,1,0.1,0,0,0,benfica
+João Mário,Midfielder,2343,29,29,0,14,17,0.59,4,1,0,benfica
+João Neves,Midfielder,241,13,2,11,1,0,0.0,0,0,0,benfica
+João Tomé,Defender,0,0,0,0,0,0,0.0,0,0,0,benfica
+L. Kokubo,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,benfica
+Lucas Veríssimo,Defender,8,2,0,2,0,0,0.0,0,0,0,benfica
+M. Ristić,Defender,106,6,1,5,0,1,0.17,0,0,0,benfica
+Morato,Defender,466,7,5,2,0,1,0.14,2,0,0,benfica
+N. Otamendi,Defender,2505,28,28,0,1,1,0.04,9,1,0,benfica
+O. Vlachodimos,Goalkeeper,2700,30,30,0,0,0,0.0,2,0,0,benfica
+P. Musa,Attacker,576,26,2,24,2,5,0.19,1,0,0,benfica
+Rafa,Midfielder,1875,24,22,2,12,6,0.25,6,0,0,benfica
+Rafael Rodrigues,Defender,0,0,0,0,0,0,0.0,0,0,0,benfica
+Samuel Soares,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,benfica
+A. Marcus,Attacker,0,1,0,1,0,0,0.0,0,0,0,porto
+André Franco,Attacker,598,14,5,9,4,2,0.14,2,0,0,porto
+Bernardo Folha,Midfielder,53,4,1,3,0,0,0.0,1,1,0,porto
+Bruno Costa,Midfielder,267,6,4,2,4,0,0.0,0,0,0,porto
+Cláudio Ramos,Goalkeeper,90,1,1,0,0,0,0.0,1,0,0,porto
+D. Namaso,Attacker,417,18,5,13,5,2,0.11,1,0,0,porto
+David Carmo,Defender,631,8,7,1,0,0,0.0,1,0,0,porto
+Diogo Costa,Goalkeeper,2610,29,29,0,0,0,0.0,1,0,0,porto
+Evanilson,Attacker,1137,19,15,4,14,6,0.32,1,0,0,porto
+Fábio Cardoso,Defender,1189,16,13,3,2,2,0.12,4,0,0,porto
+Fernando Andrade,Attacker,0,0,0,0,0,0,0.0,0,0,0,porto
+Francisco Meixedo,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,porto
+Gabriel Veron,Attacker,319,13,2,11,2,0,0.0,1,0,0,porto
+Galeno,Attacker,1667,27,16,11,10,8,0.3,4,0,0,porto
+Gonçalo Borges,Attacker,104,10,0,10,0,0,0.0,0,0,0,porto
+Iván Marcano,Defender,1929,22,22,0,2,3,0.14,8,0,1,porto
+João Marcelo,Defender,0,0,0,0,0,0,0.0,0,0,0,porto
+João Mário,Defender,1195,18,15,3,9,1,0.06,3,0,1,porto
+M. Grujić,Midfielder,952,21,12,9,7,1,0.05,5,0,0,porto
+M. Taremi,Attacker,2279,29,27,2,19,16,0.55,6,0,0,porto
+M. Uribe,Midfielder,2262,28,27,1,7,4,0.14,6,1,0,porto
+Otávio,Midfielder,2014,24,22,2,5,4,0.17,4,0,0,porto
+Pepe,Defender,1632,20,18,2,0,0,0.0,4,0,0,porto
+Pepê Aquino,Attacker,2285,30,24,6,7,4,0.13,1,0,0,porto
+Rodrigo Conceição,Defender,516,14,6,8,6,0,0.0,0,0,0,porto
+S. Eustáquio,Midfielder,1333,25,15,10,10,2,0.08,3,1,0,porto
+Samuel,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,porto
+Toni Martínez,Attacker,1007,27,9,18,9,5,0.19,0,0,0,porto
+Vasco Sousa,Midfielder,2,1,0,1,0,0,0.0,0,0,0,porto
+Wendel da Silva Costa,Attacker,0,0,0,0,0,0,0.0,0,0,0,porto
+Wendell,Defender,1620,22,20,2,10,1,0.05,4,0,0,porto
+Wilson Manafá,Defender,311,7,5,2,5,0,0.0,1,0,0,porto
+Z. Sanusi,Defender,1049,18,10,8,5,0,0.0,3,0,0,porto
+Abel Ruiz,Attacker,1785,30,22,8,17,7,0.23,3,0,0,sporting braga
+Ali Musrati,Midfielder,2257,27,27,0,8,3,0.11,8,0,0,sporting braga
+Álvaro Djaló,Attacker,484,21,1,20,1,1,0.05,5,1,0,sporting braga
+André Horta,Midfielder,1887,29,24,5,23,1,0.03,4,0,0,sporting braga
+Bruma,Attacker,686,12,9,3,9,3,0.25,1,0,0,sporting braga
+C. Borja,Defender,632,13,7,6,5,0,0.0,1,0,0,sporting braga
+Castro,Midfielder,576,23,3,20,2,1,0.04,1,0,0,sporting braga
+Dinis Pinto,Defender,7,1,0,1,0,0,0.0,0,0,0,sporting braga
+Diogo Fonseca,Defender,0,0,0,0,0,0,0.0,0,0,0,sporting braga
+E. Pizzuto,Midfielder,0,0,0,0,0,0,0.0,0,0,0,sporting braga
+Eduardo Ribeiro,Attacker,0,0,0,0,0,0,0.0,0,0,0,sporting braga
+Guilherme Araújo Soares,Defender,0,0,0,0,0,0,0.0,0,0,0,sporting braga
+Iuri Medeiros,Attacker,1876,27,26,1,25,10,0.37,5,0,0,sporting braga
+J. Gorby,Midfielder,55,4,0,4,0,0,0.0,1,0,0,sporting braga
+J. Mendes,Defender,41,2,0,2,0,1,0.5,0,0,0,sporting braga
+L. Horníček,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,sporting braga
+Matheus,Goalkeeper,2604,29,29,0,0,0,0.0,4,0,1,sporting braga
+Nuno Sequeira,Defender,1935,25,23,2,10,1,0.04,3,0,0,sporting braga
+Paulo Oliveira,Defender,1205,17,12,5,0,0,0.0,3,1,0,sporting braga
+Pedro Santos,Midfielder,3,2,0,2,0,0,0.0,1,0,0,sporting braga
+Pizzi,Attacker,282,12,1,11,1,1,0.08,0,0,0,sporting braga
+Ricardo Horta,Attacker,2285,26,26,0,5,12,0.46,3,0,0,sporting braga
+Rodrigo Gomes,Attacker,296,13,1,12,1,1,0.08,2,0,0,sporting braga
+Rodrigo Macedo,Attacker,0,0,0,0,0,0,0.0,0,0,0,sporting braga
+Roger Fernandes,Attacker,0,0,0,0,0,0,0.0,0,0,0,sporting braga
+S. Banza,Attacker,1384,27,15,12,11,10,0.37,3,0,0,sporting braga
+S. Niakaté,Defender,1773,22,21,1,3,2,0.09,4,1,1,sporting braga
+S. Saatçı,Defender,180,2,2,0,0,0,0.0,0,0,0,sporting braga
+Tiago Sá,Goalkeeper,94,2,1,1,0,0,0.0,1,0,0,sporting braga
+U. Račić,Midfielder,908,21,10,11,8,1,0.05,2,0,0,sporting braga
+Víctor Gómez,Defender,1712,22,19,3,2,0,0.0,1,0,0,sporting braga
+Vítor Tormena,Defender,2255,26,25,1,1,1,0.04,6,0,1,sporting braga
+Adán,Goalkeeper,2610,29,29,0,0,0,0.0,3,0,0,sporting lisbon
+Afonso Moreira,Attacker,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+André Paulo,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+Arthur Gomes,Midfielder,719,21,5,16,1,1,0.05,0,0,0,sporting lisbon
+Chico Lamba,Defender,44,1,0,1,0,0,0.0,0,0,0,sporting lisbon
+Daniel Bragança,Midfielder,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+Dário Essugo,Midfielder,136,2,2,0,1,0,0.0,0,0,1,sporting lisbon
+Diego Callai,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+Diogo Pinto,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+Diogo Travassos,Defender,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+F. Israel,Goalkeeper,90,1,1,0,0,0,0.0,0,0,0,sporting lisbon
+Flávio Nazinho,Defender,103,3,2,1,2,0,0.0,0,0,0,sporting lisbon
+Francisco Silva,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+Gonçalo Esteves,Defender,0,0,0,0,0,0,0.0,0,0,0,sporting lisbon
+Gonçalo Inácio,Defender,2052,29,23,6,4,0,0.0,3,0,0,sporting lisbon
+H. Morita,Midfielder,1682,25,18,7,8,6,0.24,3,0,0,sporting lisbon
+Héctor Bellerín,Defender,279,6,4,2,3,1,0.17,1,0,0,sporting lisbon
+I. Fatawu,Attacker,81,5,1,4,1,0,0.0,1,0,0,sporting lisbon
+J. St. Juste,Defender,896,21,7,14,2,1,0.05,3,0,0,sporting lisbon
+Jovane Cabral,Attacker,50,4,0,4,0,0,0.0,1,0,0,sporting lisbon
+Luís Carlos,Defender,275,6,4,2,4,0,0.0,1,0,0,sporting lisbon
+M. Edwards,Attacker,2021,29,24,5,16,7,0.24,4,0,0,sporting lisbon
+M. Tanlongo,Midfielder,106,8,0,8,0,0,0.0,1,0,0,sporting lisbon
+M. Ugarte,Midfielder,2105,28,25,3,16,0,0.0,10,0,0,sporting lisbon
+Mateus Fernandes,Midfielder,88,3,1,2,1,0,0.0,0,0,0,sporting lisbon
+Matheus Reis,Defender,2130,29,24,5,9,1,0.03,4,0,0,sporting lisbon
+Nuno Santos,Midfielder,1984,27,22,5,10,7,0.26,4,0,0,sporting lisbon
+O. Diomande,Defender,643,10,8,2,4,0,0.0,1,0,0,sporting lisbon
+Paulinho,Attacker,1118,18,12,6,8,5,0.28,3,0,0,sporting lisbon
+Pote,Midfielder,2458,29,29,0,10,15,0.52,7,0,0,sporting lisbon
+Ricardo Esgaio,Defender,1135,22,13,9,7,1,0.05,5,0,0,sporting lisbon
+Rochinha,Attacker,423,16,3,13,3,1,0.06,2,0,0,sporting lisbon
+Rodrigo Ribeiro,Attacker,27,2,0,2,0,0,0.0,0,0,0,sporting lisbon
+S. Alexandropoulos,Midfielder,96,6,0,6,0,0,0.0,0,0,0,sporting lisbon
+S. Coates,Defender,2215,26,26,0,6,0,0.0,6,0,0,sporting lisbon
+Trincão,Attacker,1914,30,22,8,12,8,0.27,2,0,0,sporting lisbon
+Youssef Chermiti,Attacker,822,14,9,5,3,2,0.14,4,0,0,sporting lisbon
+Afonso de Freitas,Defender,1681,22,21,1,9,0,0.0,5,1,0,vitoria guimaraes
+Alberto Baio,Defender,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+Alisson Safira,Attacker,777,21,8,13,6,5,0.24,9,0,0,vitoria guimaraes
+Anderson Silva,Attacker,1306,27,14,13,11,3,0.11,2,1,0,vitoria guimaraes
+André Amaro,Defender,2093,24,24,0,1,1,0.04,10,1,0,vitoria guimaraes
+André André,Midfielder,1360,20,16,4,9,1,0.05,6,0,0,vitoria guimaraes
+André Silva,Attacker,1429,19,17,2,11,5,0.26,3,0,0,vitoria guimaraes
+Bruno Gaspar,Defender,126,4,0,4,0,0,0.0,0,0,1,vitoria guimaraes
+Bruno Varela,Goalkeeper,2070,23,23,0,0,0,0.0,4,0,0,vitoria guimaraes
+Celton Biai,Goalkeeper,450,5,5,0,0,0,0.0,0,0,0,vitoria guimaraes
+Dani Silva,Midfielder,1493,26,16,10,6,1,0.04,2,0,0,vitoria guimaraes
+Diogo Ferreira,Attacker,3,1,0,1,0,0,0.0,0,0,0,vitoria guimaraes
+Gonçalo José Reis Pinto,Midfielder,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+Gonçalo Nogueira,Midfielder,16,2,0,2,0,0,0.0,1,0,0,vitoria guimaraes
+Gui,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+Hélder Sá,Defender,758,9,9,0,3,0,0.0,1,0,0,vitoria guimaraes
+I. Bamba,Midfielder,2061,25,24,1,6,0,0.0,12,1,0,vitoria guimaraes
+J. Bahamboula,Attacker,8,1,0,1,0,0,0.0,0,0,0,vitoria guimaraes
+J. Mutombo,Defender,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+João Paulo dos Santos Pereira,Attacker,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+João Pedro Gomes Ricciulli,Defender,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+Jorge Fernandes,Defender,194,4,3,1,2,0,0.0,2,0,0,vitoria guimaraes
+Jota Silva,Attacker,1381,26,18,8,18,2,0.08,8,0,0,vitoria guimaraes
+M. Johnston,Attacker,1070,21,11,10,7,1,0.05,2,0,0,vitoria guimaraes
+M. Tounkara,Defender,787,11,8,3,1,0,0.0,2,0,0,vitoria guimaraes
+M. Villanueva,Defender,2284,26,26,0,2,0,0.0,1,0,0,vitoria guimaraes
+Manu,Midfielder,73,1,1,0,1,0,0.0,0,0,0,vitoria guimaraes
+Matheus Índio,Midfielder,35,7,0,7,0,0,0.0,2,1,0,vitoria guimaraes
+Maxwell Woledzi,Defender,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+Miguel Maga,Defender,1684,20,20,0,3,0,0.0,4,0,0,vitoria guimaraes
+N. Janvier,Midfielder,622,19,4,15,5,1,0.05,3,0,0,vitoria guimaraes
+Nélson Luz,Midfielder,1069,27,10,17,7,3,0.11,3,0,0,vitoria guimaraes
+R. Ogawa,Defender,207,6,2,4,1,0,0.0,0,0,0,vitoria guimaraes
+Rafa,Goalkeeper,180,2,2,0,0,0,0.0,1,0,0,vitoria guimaraes
+Rúben Lameiras,Attacker,1127,19,12,7,5,1,0.05,4,0,0,vitoria guimaraes
+Rui Correia,Defender,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+Tiago Gonçalves,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,vitoria guimaraes
+Tiago Silva,Midfielder,1830,24,23,1,13,5,0.21,11,1,1,vitoria guimaraes
+Tomás Händel,Midfielder,218,5,2,3,1,0,0.0,0,0,0,vitoria guimaraes
+Zé Carlos,Midfielder,754,11,8,3,5,0,0.0,3,0,0,vitoria guimaraes
+A. Ruiz,Midfielder,2162,27,27,0,17,2,0.07,9,0,0,arouca
+Antony,Attacker,2093,29,22,7,13,5,0.17,2,0,0,arouca
+Arsénio,Attacker,853,27,8,19,7,0,0.0,2,0,0,arouca
+B. Michel,Attacker,242,11,1,10,1,1,0.09,0,0,0,arouca
+B. Milovanov,Defender,923,14,10,4,1,0,0.0,4,0,0,arouca
+Bruno Marques,Attacker,160,13,0,13,0,1,0.08,1,0,0,arouca
+David Simão,Midfielder,2233,27,26,1,13,0,0.0,6,0,0,arouca
+I. De Arruabarrena,Goalkeeper,2340,26,26,0,0,0,0.0,5,0,0,arouca
+I. Soro,Midfielder,1456,24,21,3,17,0,0.0,7,0,1,arouca
+J. Opoku,Defender,1559,20,17,3,1,0,0.0,6,0,2,arouca
+J. Velázquez,Defender,4,1,0,1,0,0,0.0,0,0,0,arouca
+João Basso,Defender,2576,29,29,0,2,3,0.1,4,0,0,arouca
+João Valido,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,arouca
+M. Sylla,Midfielder,1916,29,19,10,6,3,0.1,2,0,0,arouca
+N. Galović,Defender,1207,18,13,5,0,0,0.0,3,0,0,arouca
+Oday Dabbagh,Attacker,921,14,11,3,11,7,0.5,0,0,0,arouca
+Oriol Busquets,Midfielder,921,21,10,11,5,0,0.0,1,0,0,arouca
+Pedro Moreira,Midfielder,67,4,0,4,0,0,0.0,1,0,0,arouca
+Quaresma,Defender,2387,28,27,1,5,1,0.04,5,0,1,arouca
+Rafa Mújica,Attacker,1331,23,18,5,17,8,0.35,1,0,0,arouca
+Rafael Tavares,Defender,134,2,1,1,0,0,0.0,1,0,0,arouca
+Thiago,Goalkeeper,90,1,1,0,0,0,0.0,0,0,0,arouca
+Tiago Esgaio,Midfielder,2021,23,22,1,1,0,0.0,9,0,0,arouca
+Vitinho,Midfielder,239,9,2,7,2,0,0.0,1,0,0,arouca
+Weverson,Defender,67,4,1,3,1,0,0.0,1,0,0,arouca
+Y. Lawal,Midfielder,58,7,0,7,0,0,0.0,0,0,0,arouca
+Y. Moses,Midfielder,299,11,2,9,0,0,0.0,0,0,0,arouca
+Bernardo Sousa,Midfielder,987,25,12,13,12,0,0.0,1,0,0,chaves
+Bruno Langa,Defender,2180,25,25,0,3,0,0.0,6,0,0,chaves
+Carlos Ponck,Defender,1440,17,16,1,0,0,0.0,5,0,0,chaves
+Eduardo Borges,Defender,30,4,0,4,0,0,0.0,0,0,0,chaves
+Euller,Defender,1013,19,12,7,11,1,0.05,5,0,0,chaves
+Gonçalo Filipe,Goalkeeper,0,1,0,1,0,0,0.0,0,0,0,chaves
+Guilherme,Defender,0,1,0,1,0,0,0.0,0,0,0,chaves
+Guima,Midfielder,1809,26,19,7,5,0,0.0,14,0,1,chaves
+H. Sylla,Defender,619,9,7,2,2,0,0.0,4,0,0,chaves
+Héctor Hernández,Attacker,1210,18,13,5,9,6,0.33,1,0,0,chaves
+I. Abass,Attacker,1108,22,12,10,10,4,0.18,6,0,0,chaves
+Jô,Attacker,274,19,2,17,1,1,0.05,3,1,0,chaves
+João Correia,Midfielder,1578,20,17,3,4,0,0.0,1,0,0,chaves
+João Mendes,Midfielder,2049,27,26,1,19,2,0.07,3,1,0,chaves
+João Pedro,Midfielder,542,11,6,5,3,0,0.0,4,0,0,chaves
+João Queirós,Defender,197,4,2,2,0,0,0.0,1,0,0,chaves
+João Teixeira,Midfielder,2413,28,28,0,15,3,0.11,7,1,0,chaves
+Jonathan Arriba,Midfielder,668,13,8,5,7,1,0.08,0,0,0,chaves
+Juninho,Attacker,1727,27,20,7,17,4,0.15,1,0,0,chaves
+L. Singh,Midfielder,612,21,5,16,5,0,0.0,4,0,0,chaves
+N. Obiora,Midfielder,415,8,4,4,2,0,0.0,1,0,0,chaves
+Nélson Monte,Defender,2268,27,25,2,3,0,0.0,7,0,0,chaves
+Paulo Vítor,Goalkeeper,2340,26,26,0,0,0,0.0,4,0,0,chaves
+Rodrigo Moura,Goalkeeper,358,4,4,0,0,0,0.0,1,1,0,chaves
+S. Sarr,Midfielder,115,5,1,4,1,0,0.0,2,0,0,chaves
+S. Vitória,Defender,2399,28,27,1,1,7,0.25,5,0,1,chaves
+Sandro Cruz,Defender,467,11,4,7,2,0,0.0,3,0,0,chaves
+A. Dobre,Attacker,864,13,9,4,9,1,0.08,0,0,1,famalicao
+Alexandre Penetra,Defender,2201,25,25,0,4,2,0.08,5,0,0,famalicao
+André Simões,Midfielder,165,7,2,5,2,0,0.0,0,0,0,famalicao
+David Tavares,Midfielder,41,5,0,5,0,0,0.0,0,0,0,famalicao
+Denilson Junior,Attacker,351,10,4,6,3,0,0.0,0,0,0,famalicao
+Diogo Queirós,Defender,9,1,0,1,0,0,0.0,0,0,0,famalicao
+E. Mihaj,Defender,2227,25,25,0,1,0,0.0,2,0,0,famalicao
+Francisco Moura,Defender,1940,26,21,5,2,2,0.08,4,0,0,famalicao
+Gustavo Assunção,Midfielder,920,20,9,11,6,1,0.05,9,0,0,famalicao
+Gustavo Sá,Midfielder,371,14,4,10,4,0,0.0,5,0,0,famalicao
+I. Zlobin,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,famalicao
+Iván Jaime,Midfielder,1532,20,17,3,12,8,0.4,3,0,0,famalicao
+Ivo Rodrigues,Attacker,2023,26,22,4,11,2,0.08,5,0,1,famalicao
+J. Cádiz,Attacker,1219,22,12,10,5,4,0.18,0,0,1,famalicao
+J. Kadile,Attacker,639,13,8,5,7,1,0.08,1,0,0,famalicao
+J. Rodríguez,Midfielder,508,7,6,1,3,1,0.14,3,0,0,famalicao
+Leandro Sanca,Attacker,365,11,4,7,3,2,0.18,2,0,0,famalicao
+Luíz Júnior,Goalkeeper,2700,30,30,0,0,0,0.0,2,0,0,famalicao
+Martín Aguirregabiria,Defender,327,14,2,12,1,0,0.0,1,0,0,famalicao
+Mauro Ribeiro,Attacker,0,0,0,0,0,0,0.0,0,0,0,famalicao
+Otávio,Defender,347,5,4,1,2,0,0.0,1,0,0,famalicao
+Pablo,Midfielder,442,11,5,6,5,1,0.09,2,0,0,famalicao
+Pedro Brazão,Attacker,306,6,4,2,4,0,0.0,0,0,0,famalicao
+Pelé,Midfielder,613,12,7,5,6,0,0.0,2,0,0,famalicao
+Riccieli,Defender,2229,26,26,0,1,0,0.0,2,0,1,famalicao
+Rúben Lima,Defender,1003,15,12,3,6,0,0.0,2,0,0,famalicao
+Rui Fonte,Attacker,383,15,3,12,3,1,0.07,2,0,0,famalicao
+S. Colombatto,Midfielder,2296,29,27,2,9,2,0.07,7,0,0,famalicao
+Théo Luis Fonseca,Attacker,112,5,1,4,2,0,0.0,1,0,0,famalicao
+Z. Youssouf,Midfielder,1861,28,21,7,16,2,0.07,6,0,0,famalicao
+Zé Henrique,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,famalicao
+A. Alvarado,Midfielder,64,5,0,5,0,0,0.0,1,0,0,vizela
+A. Méndez,Midfielder,1308,26,11,15,8,1,0.04,7,0,0,vizela
+A. Schmidt,Attacker,301,9,3,6,3,0,0.0,1,0,0,vizela
+Anderson,Defender,2309,26,26,0,1,3,0.12,7,1,0,vizela
+Bruno Wilson,Defender,1868,22,21,1,2,0,0.0,4,0,0,vizela
+Claudemir,Midfielder,1233,20,15,5,13,0,0.0,5,0,0,vizela
+F. Buntić,Goalkeeper,2700,30,30,0,0,0,0.0,3,0,0,vizela
+F. Etim,Attacker,372,16,1,15,1,2,0.12,1,0,0,vizela
+Gonçalo Cunha,Defender,0,0,0,0,0,0,0.0,0,0,0,vizela
+Hugo Oliveira,Midfielder,0,0,0,0,0,0,0.0,0,0,0,vizela
+Igor Julião,Defender,1447,18,17,1,5,1,0.06,6,0,0,vizela
+Ivanildo Fernandes,Defender,1212,17,14,3,3,0,0.0,2,0,1,vizela
+K. Zohi,Attacker,764,21,9,12,9,2,0.1,1,0,0,vizela
+Kiki Afonso,Defender,2019,25,24,1,7,1,0.04,9,0,0,vizela
+Kiko Bondoso,Defender,2521,30,30,0,15,2,0.07,2,0,0,vizela
+L. Marrugo,Midfielder,0,0,0,0,0,0,0.0,0,0,0,vizela
+Luiz Felipe,Goalkeeper,0,0,0,0,0,0,0.0,1,0,0,vizela
+M. Aidara,Defender,193,5,1,4,0,0,0.0,1,0,0,vizela
+M. Lacava,Midfielder,304,12,2,10,2,1,0.08,0,0,0,vizela
+M. Opeyemi,Midfielder,46,1,1,0,1,0,0.0,0,0,0,vizela
+M. Osmajić,Attacker,1767,27,22,5,14,7,0.26,3,0,0,vizela
+Manuel Baldé,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,vizela
+Matheus Pereira,Defender,659,15,6,9,4,1,0.07,4,0,0,vizela
+Nuno Moreira,Midfielder,1709,26,20,6,20,1,0.04,4,0,0,vizela
+Osama Rashid,Midfielder,274,16,3,13,3,1,0.06,3,0,0,vizela
+Pedro Ortiz,Midfielder,400,8,4,4,2,0,0.0,2,0,0,vizela
+Raphael Guzzo,Midfielder,2100,27,26,1,12,2,0.07,9,1,0,vizela
+Samú,Midfielder,2381,29,28,1,13,3,0.1,6,0,0,vizela
+Tiago Brito,Midfielder,0,0,0,0,0,0,0.0,0,0,0,vizela
+Tiago Silva,Defender,0,0,0,0,0,0,0.0,0,0,0,vizela
+Tomás Silva,Midfielder,964,19,10,9,4,1,0.05,3,1,0,vizela
+Afonso Taira,Midfielder,1941,29,25,4,23,0,0.0,8,0,0,casa pia
+Beni Mukendi,Midfielder,625,10,6,4,3,0,0.0,3,1,0,casa pia
+Clayton,Attacker,1124,26,11,15,7,4,0.15,6,0,1,casa pia
+Cuca,Midfielder,376,20,2,18,2,0,0.0,4,0,0,casa pia
+D. Tchamba,Defender,90,1,1,0,0,0,0.0,0,0,0,casa pia
+Derick Poloni,Defender,1181,19,14,5,8,0,0.0,0,0,0,casa pia
+Diogo Pinto,Midfielder,350,14,4,10,4,0,0.0,1,0,0,casa pia
+E. Fereira,Defender,53,2,1,1,1,0,0.0,0,0,0,casa pia
+Felippe Cardoso,Attacker,250,7,2,5,2,3,0.43,2,1,0,casa pia
+Fernando Varela,Defender,1846,24,22,2,6,1,0.04,3,0,0,casa pia
+Isaac Monteiro,Defender,0,0,0,0,0,0,0.0,0,0,0,casa pia
+João Bravim,Goalkeeper,90,1,1,0,0,0,0.0,0,0,0,casa pia
+João Nunes,Defender,1559,22,17,5,3,1,0.05,2,0,0,casa pia
+Kiki Silva,Attacker,5,1,0,1,0,0,0.0,0,0,0,casa pia
+Léo Bolgado,Defender,408,10,3,7,1,1,0.1,3,0,0,casa pia
+Leonardo Lelo,Midfielder,1928,23,21,2,0,1,0.04,2,0,0,casa pia
+Leonardo Natel Vieira,Attacker,53,4,0,4,1,0,0.0,0,0,0,casa pia
+Lucas Paes,Goalkeeper,180,2,2,0,0,0,0.0,0,0,0,casa pia
+Lucas Soares,Defender,2098,26,24,2,4,0,0.0,4,1,0,casa pia
+N. Zolotić,Defender,2114,26,24,2,4,0,0.0,3,1,0,casa pia
+Neto,Midfielder,1425,25,18,7,15,2,0.08,8,0,0,casa pia
+Rafael Martins,Attacker,1345,24,17,7,14,6,0.25,5,0,0,casa pia
+Ricardo Batista,Goalkeeper,2430,27,27,0,0,0,0.0,5,0,0,casa pia
+Romário Baró,Midfielder,936,18,11,7,10,0,0.0,3,0,0,casa pia
+S. Godwin,Attacker,2094,26,24,2,12,3,0.12,7,0,0,casa pia
+T. Kunimoto,Midfielder,1258,22,17,5,16,1,0.05,4,0,0,casa pia
+Vasco Fernandes,Defender,2110,26,23,3,2,0,0.0,5,0,0,casa pia
+Y. Soma,Attacker,879,14,9,5,7,2,0.14,4,0,0,casa pia
+A. Peñaranda,Attacker,0,0,0,0,0,0,0.0,0,0,0,boavista
+Berna,Midfielder,0,0,0,0,0,0,0.0,0,0,0,boavista
+Bruno Lourenço,Midfielder,1623,26,18,8,16,4,0.15,7,0,0,boavista
+César,Goalkeeper,450,5,5,0,0,0,0.0,0,0,0,boavista
+Filipe Ferreira,Defender,221,5,3,2,2,0,0.0,2,0,0,boavista
+G. Makouta,Midfielder,2474,29,28,1,5,1,0.03,9,0,0,boavista
+I. Camará,Midfielder,826,20,10,10,6,0,0.0,4,0,1,boavista
+I. Vukotić,Midfielder,386,12,5,7,5,0,0.0,1,0,0,boavista
+João Gonçalves,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,boavista
+Joel da Silva,Midfielder,77,6,0,6,0,0,0.0,1,0,0,boavista
+Julio Dabo,Defender,10,3,0,3,0,0,0.0,0,0,0,boavista
+K. Gorré,Attacker,1327,28,14,14,13,2,0.07,4,0,0,boavista
+Luís Santos,Attacker,279,9,2,7,2,0,0.0,1,0,0,boavista
+M. Watai,Midfielder,469,12,5,7,4,1,0.08,2,0,0,boavista
+Martim Tavares,Attacker,331,18,2,16,2,2,0.11,1,0,0,boavista
+Miguel Reisinho,Midfielder,17,3,0,3,0,0,0.0,1,0,0,boavista
+Pedro Malheiro,Attacker,2429,28,27,1,2,0,0.0,6,0,0,boavista
+R. Abascal,Defender,2031,24,24,0,5,0,0.0,7,0,1,boavista
+R. Boženík,Attacker,706,20,6,14,6,2,0.1,3,0,0,boavista
+R. Cannon,Defender,1955,26,22,4,4,0,0.0,9,2,0,boavista
+Rafael Bracali,Goalkeeper,2250,25,25,0,0,0,0.0,1,0,0,boavista
+Ricardo Mangas,Defender,1518,23,18,5,9,3,0.13,3,0,1,boavista
+Robson Reis,Defender,117,6,1,5,0,0,0.0,0,0,0,boavista
+S. Onyemaechi,Midfielder,2283,26,26,0,2,1,0.04,6,0,0,boavista
+S. Pérez,Midfielder,2142,25,25,0,14,1,0.04,8,1,0,boavista
+Salvador Agra,Attacker,1499,27,18,9,18,3,0.11,5,0,0,boavista
+V. Sasso,Defender,1884,23,22,1,3,4,0.17,6,0,0,boavista
+Y. Njie,Attacker,2025,25,22,3,10,12,0.48,5,0,0,boavista
+A. Oudrhiri,Midfielder,607,16,6,10,6,0,0.0,2,0,1,rio ave
+A. Samaris,Midfielder,1328,22,18,4,16,0,0.0,5,0,0,rio ave
+Aderllan Santos,Defender,2464,28,28,0,1,1,0.04,3,0,1,rio ave
+André Pereira,Attacker,944,18,12,6,11,1,0.06,4,0,0,rio ave
+Bruno Ventura,Midfielder,27,2,0,2,0,0,0.0,0,0,0,rio ave
+Costinha,Defender,2536,30,30,0,9,3,0.1,4,0,0,rio ave
+E. Boateng,Attacker,1692,25,20,5,12,5,0.2,5,0,0,rio ave
+Fábio Ronaldo,Attacker,1844,28,21,7,14,3,0.11,3,0,0,rio ave
+Guga,Midfielder,2552,29,29,0,7,2,0.07,4,1,0,rio ave
+Hernâni,Attacker,497,17,3,14,2,1,0.06,1,0,0,rio ave
+J. Lomboto Lompombi,Midfielder,5,1,0,1,0,0,0.0,0,0,0,rio ave
+Jhonatan,Goalkeeper,2700,30,30,0,0,0,0.0,3,0,0,rio ave
+João Graça,Midfielder,1153,19,12,7,9,1,0.05,7,0,0,rio ave
+Joca,Midfielder,422,6,6,0,6,0,0.0,1,0,0,rio ave
+Jorge Karse,Defender,0,0,0,0,0,0,0.0,0,0,0,rio ave
+Josué Sá,Defender,1355,18,17,1,10,0,0.0,5,0,0,rio ave
+L. Ruiz,Attacker,602,21,4,17,4,2,0.1,5,0,1,rio ave
+Lucas Flores,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,rio ave
+Magrão,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,rio ave
+Miguel Baeza,Midfielder,916,18,12,6,11,0,0.0,0,0,0,rio ave
+Miguel Nóbrega,Defender,496,10,5,5,1,0,0.0,0,0,0,rio ave
+Patrick William,Defender,1564,22,19,3,8,1,0.05,6,0,0,rio ave
+Paulo Vitor,Attacker,816,21,7,14,5,1,0.05,3,0,0,rio ave
+R. Pantalon,Defender,1585,19,18,1,1,1,0.05,6,0,1,rio ave
+Sávio,Defender,209,11,0,11,0,0,0.0,1,0,0,rio ave
+Ukra,Attacker,196,12,0,12,0,0,0.0,1,0,0,rio ave
+Vitor Gomes,Midfielder,664,18,6,12,4,0,0.0,3,0,0,rio ave
+Alemão,Defender,2,1,0,1,0,0,0.0,0,0,0,portimonense
+Anderson Oliveira,Midfielder,379,6,5,1,4,0,0.0,2,0,0,portimonense
+B. Róchez,Attacker,802,17,7,10,6,0,0.0,2,0,0,portimonense
+Bruno Reis,Midfielder,42,3,0,3,0,0,0.0,0,0,0,portimonense
+C. Garcés,Midfielder,0,0,0,0,0,0,0.0,0,0,0,portimonense
+Carlinhos,Midfielder,353,5,4,1,2,0,0.0,2,0,0,portimonense
+Ewerton,Midfielder,0,0,0,0,0,0,0.0,0,0,0,portimonense
+F. Moufi,Defender,2404,28,28,0,3,1,0.04,4,0,1,portimonense
+Filipe Relvas,Defender,2646,30,30,0,3,0,0.0,4,0,0,portimonense
+Gonçalo Costa,Defender,200,8,2,6,2,0,0.0,2,0,0,portimonense
+Henrique Jocú,Midfielder,451,14,6,8,5,0,0.0,1,0,0,portimonense
+João,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,portimonense
+K. Nakamura,Goalkeeper,2340,26,26,0,0,0,0.0,3,0,0,portimonense
+Kim Yong-Hak,Attacker,0,0,0,0,0,0,0.0,0,0,0,portimonense
+Klismahn,Midfielder,632,13,8,5,7,0,0.0,3,0,0,portimonense
+Lucas,Defender,529,7,6,1,2,0,0.0,1,0,0,portimonense
+Lucas Ventura,Midfielder,480,11,7,4,6,0,0.0,5,1,0,portimonense
+Luquinha,Midfielder,1173,17,11,6,8,2,0.12,2,0,0,portimonense
+M. Diaby,Midfielder,1399,24,15,9,8,1,0.04,4,0,0,portimonense
+M. Seck,Defender,2058,26,25,1,11,0,0.0,6,1,0,portimonense
+Mateus Oliveira,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,portimonense
+Matheus Nogueira,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,portimonense
+Maurício,Midfielder,752,11,8,3,5,3,0.27,2,0,0,portimonense
+Park Ji-Soo,Defender,868,10,10,0,1,0,0.0,0,0,0,portimonense
+Paulo Estrela,Midfielder,1403,23,18,5,15,2,0.09,5,0,0,portimonense
+Pedrão,Defender,2337,26,26,0,1,1,0.04,11,0,0,portimonense
+Pedro Sá,Midfielder,744,13,11,2,7,0,0.0,2,0,1,portimonense
+R. Hinojosa,Midfielder,0,0,0,0,0,0,0.0,0,0,0,portimonense
+Ricardo Matos,Attacker,176,12,0,12,0,1,0.08,1,0,0,portimonense
+Rui Gomes,Attacker,948,28,7,21,6,1,0.04,5,0,0,portimonense
+Sérgio Conceição,Defender,12,1,0,1,0,0,0.0,0,0,0,portimonense
+Welinton Júnior,Attacker,1870,21,21,0,4,6,0.29,9,0,0,portimonense
+Y. González,Attacker,655,12,7,5,6,0,0.0,0,0,0,portimonense
+Yago Cariello,Attacker,1224,22,14,8,9,3,0.14,4,0,0,portimonense
+Z. Ouattara,Defender,1141,21,12,9,7,1,0.05,4,0,0,portimonense
+A. Alipourghara,Attacker,522,15,5,10,4,2,0.13,2,0,0,gil vicente
+Adrián Marín,Defender,2370,27,27,0,2,0,0.0,4,0,1,gil vicente
+Andre Simões,Midfielder,7,1,0,1,0,0,0.0,1,0,0,gil vicente
+Andrew,Goalkeeper,1770,20,19,1,0,0,0.0,1,0,0,gil vicente
+B. Aouacheria,Attacker,562,21,6,15,6,0,0.0,4,0,0,gil vicente
+Brian Araújo,Goalkeeper,0,0,0,0,0,0,0.0,0,0,1,gil vicente
+Carraça,Defender,1661,22,18,4,3,0,0.0,3,0,0,gil vicente
+Daniel Silva,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,gil vicente
+Depú,Attacker,20,2,0,2,0,0,0.0,1,0,0,gil vicente
+E. Ayiah,Attacker,0,0,0,0,0,0,0.0,0,0,0,gil vicente
+Fran Navarro,Attacker,2678,30,30,0,5,13,0.43,4,0,0,gil vicente
+G. Aburjania,Midfielder,1440,24,16,8,6,0,0.0,5,0,0,gil vicente
+Gabriel Pereira,Defender,205,4,2,2,0,0,0.0,0,0,0,gil vicente
+Henrique Gomes,Defender,318,6,3,3,1,0,0.0,2,0,0,gil vicente
+J. Boselli,Attacker,1180,25,14,11,14,1,0.04,4,0,0,gil vicente
+João Paulo Rodrigues Barros,Defender,0,0,0,0,0,0,0.0,0,0,0,gil vicente
+K. Fujimoto,Midfielder,2340,30,29,1,19,0,0.0,1,0,0,gil vicente
+Kevin Villodres,Attacker,625,18,6,12,6,0,0.0,3,0,0,gil vicente
+Lucas Barros,Defender,0,0,0,0,0,0,0.0,0,0,0,gil vicente
+Manuel Lopes,Defender,360,4,4,0,0,0,0.0,0,0,0,gil vicente
+Marlon,Attacker,373,10,4,6,4,0,0.0,0,0,0,gil vicente
+Miguel Monteiro,Attacker,7,1,0,1,0,0,0.0,0,0,0,gil vicente
+Murilo,Attacker,1884,24,23,1,19,4,0.17,1,0,0,gil vicente
+Pedro Tiba,Midfielder,1051,23,12,11,11,1,0.04,4,0,0,gil vicente
+R. Wilson,Attacker,8,1,0,1,0,0,0.0,0,0,0,gil vicente
+Rúben Fernandes,Defender,1980,23,22,1,0,0,0.0,4,0,0,gil vicente
+S. Kritsyuk,Goalkeeper,930,11,11,0,1,0,0.0,2,0,0,gil vicente
+Tomás Araújo,Defender,1602,19,18,1,2,1,0.05,5,0,0,gil vicente
+Vitor Carvalho,Midfielder,2458,28,28,0,7,3,0.11,9,1,0,gil vicente
+Zé Carlos,Defender,221,6,2,4,1,0,0.0,4,0,0,gil vicente
+Alejandro Marqués,Attacker,436,12,4,8,4,2,0.17,0,0,0,estoril
+B. Aguilera,Midfielder,0,0,0,0,0,0,0.0,0,0,0,estoril
+B. Yusuf,Midfielder,57,3,0,3,0,0,0.0,1,0,0,estoril
+Bernardo Vital,Defender,1988,23,22,1,0,0,0.0,4,0,0,estoril
+Carlos Eduardo,Attacker,513,9,6,3,4,2,0.22,2,0,0,estoril
+Cassiano,Attacker,786,12,9,3,5,0,0.0,1,0,0,estoril
+Cauê,Attacker,0,0,0,0,0,0,0.0,0,0,0,estoril
+Daniel Figueira,Goalkeeper,2586,29,29,0,0,0,0.0,3,1,0,estoril
+Duarte Barros Mariano Carvalho,Midfielder,0,0,0,0,0,0,0.0,0,0,0,estoril
+Francisco Geraldes,Midfielder,1761,23,21,2,11,4,0.17,7,1,0,estoril
+Francisco Lemos,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,estoril
+Francisco Pereira,Midfielder,0,0,0,0,0,0,0.0,0,0,0,estoril
+J. Léa Siliki,Midfielder,795,22,7,15,5,3,0.14,9,0,0,estoril
+João Carlos,Attacker,665,21,5,16,4,2,0.1,2,0,0,estoril
+João Carvalho,Midfielder,2056,25,23,2,11,0,0.0,5,0,1,estoril
+João Gamboa,Midfielder,751,13,10,3,8,0,0.0,2,0,0,estoril
+João Marques,Midfielder,368,7,4,3,3,0,0.0,0,0,0,estoril
+João Oliveira,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,estoril
+Joãozinho,Defender,2220,26,26,0,5,0,0.0,6,0,1,estoril
+L. Rosier,Midfielder,1036,12,12,0,1,0,0.0,1,0,0,estoril
+Lucas Áfrico,Defender,263,4,3,1,1,0,0.0,0,0,0,estoril
+M. Ndiaye,Midfielder,1359,24,14,10,8,0,0.0,4,1,0,estoril
+M. Rouai,Midfielder,32,2,0,2,0,0,0.0,0,0,0,estoril
+Mexer,Defender,966,13,11,2,3,0,0.0,5,0,0,estoril
+Pedro Álvaro,Defender,2219,26,25,1,3,0,0.0,7,0,0,estoril
+Pedro Silva,Goalkeeper,112,2,1,1,0,0,0.0,1,0,0,estoril
+R. Guitane,Midfielder,456,9,5,4,4,0,0.0,0,0,0,estoril
+Rodrigo Martins,Attacker,1207,26,13,13,12,3,0.12,2,0,0,estoril
+S. Delos,Defender,316,9,3,6,2,0,0.0,1,0,0,estoril
+Tiago Araújo,Midfielder,869,25,8,17,5,1,0.04,3,0,0,estoril
+Tiago Gouveia,Attacker,2139,26,26,0,18,5,0.19,6,0,0,estoril
+Tiago Santos,Defender,2155,27,25,2,7,0,0.0,4,0,0,estoril
+André Teles,Midfielder,59,2,0,2,0,0,0.0,1,0,0,maritimo
+André Vidigal,Attacker,2294,28,25,3,9,7,0.25,5,0,1,maritimo
+B. Riascos,Attacker,764,13,9,4,6,3,0.23,4,0,0,maritimo
+Bernardo Gomes,Midfielder,0,0,0,0,0,0,0.0,0,0,0,maritimo
+Bruno Pereira,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,maritimo
+Bruno Xadas,Midfielder,2145,29,27,2,20,3,0.1,3,0,0,maritimo
+Carlos Eduardo,Attacker,0,0,0,0,0,0,0.0,0,0,0,maritimo
+Cláudio Winck,Defender,2302,30,26,4,6,4,0.13,3,0,0,maritimo
+Diogo Mendes,Midfielder,1008,16,13,3,10,0,0.0,3,0,0,maritimo
+Dylan João Raymond Collard,Defender,0,1,0,1,0,0,0.0,0,0,0,maritimo
+Edgar Costa,Attacker,389,19,2,17,2,0,0.0,6,1,1,maritimo
+Fábio China,Defender,323,8,3,5,3,0,0.0,2,0,0,maritimo
+Félix Correia,Attacker,464,9,5,4,4,1,0.11,1,0,0,maritimo
+Fernando de Lacerda,Defender,69,2,0,2,0,0,0.0,2,0,0,maritimo
+Francisco Franco,Midfielder,0,0,0,0,0,0,0.0,0,0,0,maritimo
+Francisco Gomes,Attacker,0,0,0,0,0,0,0.0,0,0,0,maritimo
+G. Makaridze,Goalkeeper,450,5,5,0,0,0,0.0,1,0,0,maritimo
+Geny Catamo,Midfielder,176,7,1,6,1,1,0.14,0,0,0,maritimo
+Gonçalo Cardoso,Defender,0,0,0,0,0,0,0.0,0,0,0,maritimo
+J. Ramírez,Attacker,484,19,4,15,4,1,0.05,1,0,0,maritimo
+João Afonso,Midfielder,1231,21,15,6,8,0,0.0,8,1,0,maritimo
+Léo Pereira,Attacker,534,10,7,3,5,0,0.0,1,0,0,maritimo
+M. Mosquera,Defender,1384,17,14,3,2,0,0.0,6,0,0,maritimo
+M. Trmal,Goalkeeper,540,6,6,0,0,0,0.0,0,0,0,maritimo
+Marcelo Carné,Goalkeeper,990,11,11,0,0,0,0.0,3,0,0,maritimo
+Matheus Costa,Defender,982,18,12,6,3,0,0.0,2,0,1,maritimo
+Nuno André Gomes Cardoso,Midfielder,0,0,0,0,0,0,0.0,0,0,0,maritimo
+P. Liza,Attacker,417,11,3,8,3,1,0.09,1,0,0,maritimo
+Pablo Moreno,Attacker,847,17,12,5,8,0,0.0,2,1,0,maritimo
+Paulinho,Defender,449,7,5,2,3,0,0.0,1,0,0,maritimo
+Pedro Teixeira,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,maritimo
+Rafael Brito,Midfielder,590,12,6,6,5,0,0.0,5,0,0,maritimo
+Renê,Defender,861,11,10,1,4,1,0.09,3,0,1,maritimo
+S. Beltrame,Midfielder,1060,20,13,7,11,0,0.0,3,0,0,maritimo
+S. Kanu,Attacker,64,5,0,5,0,0,0.0,0,0,0,maritimo
+Val,Midfielder,1055,14,13,1,7,1,0.07,6,0,0,maritimo
+Vitor Costa,Defender,2155,25,25,0,2,1,0.04,7,0,1,maritimo
+Zainadine Júnior,Defender,1810,21,20,1,1,0,0.0,2,0,0,maritimo
+Adrián Butzke,Attacker,1163,22,11,11,6,6,0.27,2,1,0,pacos ferreira
+Alexandre Guedes,Attacker,678,13,9,4,7,0,0.0,0,0,0,pacos ferreira
+Antunes,Defender,2495,29,29,0,7,1,0.03,10,1,0,pacos ferreira
+E. Ferigra,Defender,1153,16,12,4,1,0,0.0,3,0,0,pacos ferreira
+Fábio Gomes,Attacker,264,9,1,8,1,0,0.0,0,0,0,pacos ferreira
+Flávio Ramos,Defender,751,9,9,0,2,0,0.0,1,0,0,pacos ferreira
+Hernâni Infande,Attacker,295,8,4,4,4,1,0.12,0,0,0,pacos ferreira
+I. Vekič,Goalkeeper,820,10,9,1,0,0,0.0,0,0,0,pacos ferreira
+J. Delgado,Attacker,2455,28,28,0,5,0,0.0,11,0,0,pacos ferreira
+J. Holsgrove,Midfielder,1520,21,18,3,8,2,0.1,9,1,0,pacos ferreira
+João Vigário,Defender,0,0,0,0,0,0,0.0,0,0,0,pacos ferreira
+Jorge Silva,Defender,265,13,2,11,1,0,0.0,0,0,0,pacos ferreira
+José Oliveira,Goalkeeper,180,2,2,0,0,0,0.0,1,0,0,pacos ferreira
+Luís Bastos,Defender,202,6,2,4,1,0,0.0,0,0,0,pacos ferreira
+Luíz Carlos,Midfielder,1063,18,12,6,12,0,0.0,4,0,0,pacos ferreira
+Maracás,Defender,1083,13,13,0,1,0,0.0,6,1,1,pacos ferreira
+Marafona,Goalkeeper,1157,13,13,0,0,0,0.0,5,0,1,pacos ferreira
+Matchoi Djaló,Attacker,1299,22,14,8,8,1,0.05,11,0,1,pacos ferreira
+Mauro Couto,Attacker,20,2,0,2,0,0,0.0,0,0,0,pacos ferreira
+N. Gaitán,Midfielder,1523,23,20,3,16,3,0.13,3,0,0,pacos ferreira
+N. Thomas,Attacker,1774,30,20,10,18,3,0.1,3,0,0,pacos ferreira
+Nuno Lima,Defender,2085,24,23,1,0,1,0.04,6,1,0,pacos ferreira
+Paulo Bernardo,Midfielder,560,10,6,4,4,2,0.2,2,0,0,pacos ferreira
+Pedro Ganchas,Defender,245,4,2,2,0,0,0.0,0,0,0,pacos ferreira
+Rui Pires,Midfielder,2135,27,27,0,12,0,0.0,9,0,0,pacos ferreira
+Tiago Ilori,Defender,206,3,3,0,1,0,0.0,0,0,0,pacos ferreira
+Tiago Ribeiro,Defender,56,2,0,2,0,0,0.0,0,0,0,pacos ferreira
+Vasco Sousa,Defender,0,0,0,0,0,0,0.0,0,0,0,pacos ferreira
+Zé Uilton,Attacker,1282,26,13,13,8,1,0.04,4,0,1,pacos ferreira
+Adriano,Midfielder,1884,27,23,4,15,0,0.0,7,0,0,santa clara
+Allano,Attacker,1118,18,15,3,14,1,0.06,5,0,0,santa clara
+Andrézinho,Attacker,342,15,2,13,1,0,0.0,1,0,0,santa clara
+Bruno Almeida,Midfielder,1013,18,13,5,11,1,0.06,3,1,0,santa clara
+Bruno Jordão,Midfielder,503,7,5,2,2,1,0.14,4,0,0,santa clara
+Costinha,Midfielder,678,13,8,5,7,0,0.0,4,0,0,santa clara
+Diogo Calila,Defender,619,13,6,7,2,0,0.0,3,0,0,santa clara
+F. Stevanović,Attacker,144,7,0,7,0,0,0.0,1,0,0,santa clara
+Gabriel Batista,Goalkeeper,1980,22,22,0,0,0,0.0,2,0,0,santa clara
+Gabriel Silva,Attacker,1924,30,21,9,10,5,0.17,3,0,0,santa clara
+Ítalo,Defender,898,10,10,0,1,0,0.0,1,0,0,santa clara
+K. Boateng,Defender,2136,24,24,0,0,2,0.08,6,0,1,santa clara
+K. Misao,Midfielder,961,13,11,2,2,0,0.0,5,0,0,santa clara
+K. Tagawa,Attacker,1174,25,13,12,11,2,0.08,0,0,0,santa clara
+M. Díaz,Goalkeeper,0,0,0,0,0,0,0.0,0,0,0,santa clara
+Marco Pereira,Goalkeeper,720,8,8,0,0,0,0.0,1,0,0,santa clara
+Matheus Babi,Attacker,1016,22,11,11,9,2,0.09,6,0,0,santa clara
+MT,Midfielder,783,16,9,7,7,0,0.0,4,0,0,santa clara
+Nanú,Defender,524,9,5,4,1,0,0.0,0,0,0,santa clara
+P. Sagna,Defender,1485,20,19,1,14,0,0.0,6,1,0,santa clara
+Paulo,Defender,472,7,5,2,0,0,0.0,2,0,0,santa clara
+Paulo Henrique,Defender,1420,17,17,0,4,0,0.0,7,1,0,santa clara
+Ricardinho,Midfielder,1548,22,18,4,8,0,0.0,4,0,1,santa clara
+Ricardo Fernandes,Goalkeeper,0,0,0,0,0,0,0.0,1,0,0,santa clara
+Rildo,Midfielder,782,20,7,13,6,3,0.15,2,0,0,santa clara
+Victor Bobsin,Midfielder,1608,23,18,5,6,0,0.0,8,0,0,santa clara
+W. González,Attacker,397,6,4,2,0,0,0.0,2,0,0,santa clara
+Xavi Quintillà,Defender,721,13,8,5,3,1,0.08,3,0,0,santa clara
+Ygor Nogueira,Defender,662,8,8,0,1,0,0.0,2,0,1,santa clara

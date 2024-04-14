@@ -1,0 +1,488 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches,club
+Thomas Müller,de GER,MF,31.0,28.4,0,0,0,11,22,12,89,15,20,0,0,1,94,31,56,35.6,Matches,bayern munich
+Manuel Neuer,de GER,GK,35.0,27.9,0,0,0,0,1,0,0,0,1,0,0,0,85,5,2,71.4,Matches,bayern munich
+Joshua Kimmich,de GER,MF,26.0,27.5,4,0,0,20,46,1,181,52,20,0,1,0,218,16,18,47.1,Matches,bayern munich
+Dayot Upamecano,fr FRA,DF,22.0,24.6,4,0,0,28,11,1,2,32,42,0,1,0,249,62,43,59.0,Matches,bayern munich
+Serge Gnabry,de GER,"FW,DF",26.0,24.3,0,0,0,11,21,15,79,14,31,0,0,0,146,7,27,20.6,Matches,bayern munich
+Lucas Hernández,fr FRA,DF,25.0,22.6,7,0,0,22,36,0,9,28,31,0,0,0,179,40,24,62.5,Matches,bayern munich
+Benjamin Pavard,fr FRA,DF,25.0,23.1,2,1,0,17,10,2,39,36,20,0,0,0,139,45,16,73.8,Matches,bayern munich
+Leroy Sané,de GER,"FW,MF",25.0,22.0,3,0,0,25,24,7,38,12,16,0,0,0,106,2,7,22.2,Matches,bayern munich
+Alphonso Davies,ca CAN,DF,20.0,19.3,3,0,0,15,27,3,41,23,17,0,0,0,144,11,17,39.3,Matches,bayern munich
+Niklas Süle,de GER,DF,25.0,20.4,2,0,0,10,1,1,6,28,23,0,0,0,158,40,12,76.9,Matches,bayern munich
+Leon Goretzka,de GER,MF,26.0,15.5,0,0,0,15,10,1,9,17,15,0,0,0,108,31,15,67.4,Matches,bayern munich
+Kingsley Coman,fr FRA,"FW,DF",25.0,15.1,1,1,0,9,22,5,79,8,8,0,0,0,78,9,14,39.1,Matches,bayern munich
+Jamal Musiala,de GER,"MF,FW",18.0,16.3,2,0,0,17,20,2,5,19,26,0,0,0,115,5,13,27.8,Matches,bayern munich
+Marcel Sabitzer,at AUT,"MF,DF",27.0,10.1,0,0,0,16,15,0,16,9,7,0,0,0,67,11,9,55.0,Matches,bayern munich
+Corentin Tolisso,fr FRA,MF,26.0,7.8,0,0,0,13,6,3,6,9,5,0,0,0,59,12,15,44.4,Matches,bayern munich
+Josip Stanišić,hr CRO,DF,21.0,7.2,1,0,0,4,1,0,10,11,10,0,0,0,54,7,6,53.8,Matches,bayern munich
+Tanguy Nianzou,fr FRA,DF,19.0,6.5,4,0,0,13,8,0,1,7,7,0,0,0,32,21,14,60.0,Matches,bayern munich
+Sven Ulreich,de GER,GK,32.0,6.0,0,0,0,0,1,0,0,0,0,0,0,0,13,1,0,100.0,Matches,bayern munich
+Omar Richards,eng ENG,DF,23.0,4.9,1,0,0,15,22,0,8,4,12,0,0,0,28,2,5,28.6,Matches,bayern munich
+Marc Roca,es ESP,MF,24.0,4.2,0,0,0,10,4,0,5,6,7,0,0,0,31,0,5,0.0,Matches,bayern munich
+Eric Maxim Choupo-Moting,cm CMR,"FW,MF",32.0,4.2,0,0,0,7,7,2,3,5,9,0,0,0,14,8,12,40.0,Matches,bayern munich
+Malik Tillman,us USA,"FW,MF",19.0,1.2,0,0,0,4,1,0,0,2,1,0,0,0,11,3,1,75.0,Matches,bayern munich
+Bouna Sarr,sn SEN,DF,29.0,0.7,0,0,0,0,0,0,3,6,4,0,0,0,6,0,2,0.0,Matches,bayern munich
+Paul Wanner,de GER,"FW,MF",15.0,0.4,0,0,0,1,1,0,1,0,2,0,0,0,3,0,2,0.0,Matches,bayern munich
+Gabriel Vidovic,hr CRO,"FW,MF",17.0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0.0,Matches,bayern munich
+Lucas Copado,de GER,FW,17.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches,bayern munich
+Mickaël Cuisance,fr FRA,MF,21.0,0.1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,,Matches,bayern munich
+Christian Früchtl,de GER,GK,21.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,bayern munich
+Gregor Kobel,ch SUI,GK,23.0,28.5,0,0,0,1,6,0,0,1,0,0,1,0,71,3,0,100.0,Matches,dortmund
+Marco Reus,de GER,"MF,FW",32.0,27.8,2,0,0,22,44,10,40,12,30,3,0,0,112,8,24,25.0,Matches,dortmund
+Manuel Akanji,ch SUI,DF,26.0,25.1,3,0,0,19,24,1,3,35,23,0,0,1,164,51,35,59.3,Matches,dortmund
+Julian Brandt,de GER,"MF,FW",25.0,23.1,3,0,0,12,16,2,128,24,19,0,0,0,129,15,24,38.5,Matches,dortmund
+Axel Witsel,be BEL,"MF,DF",32.0,21.6,4,0,0,26,30,1,0,27,27,0,2,0,152,31,15,67.4,Matches,dortmund
+Erling Haaland,no NOR,FW,21.0,21.2,3,0,0,17,14,14,8,1,1,0,0,0,40,38,27,58.5,Matches,dortmund
+Raphaël Guerreiro,pt POR,DF,27.0,19.9,1,0,0,12,8,1,39,25,19,0,0,0,130,5,6,45.5,Matches,dortmund
+Mats Hummels,de GER,DF,32.0,19.6,4,0,0,16,12,1,1,32,22,0,2,0,128,64,34,65.3,Matches,dortmund
+Donyell Malen,nl NED,FW,22.0,18.7,2,0,0,10,31,9,27,10,10,2,0,0,62,9,18,33.3,Matches,dortmund
+Mahmoud Dahoud,de GER,MF,25.0,18.4,7,1,1,23,13,0,29,17,19,0,0,0,142,11,15,42.3,Matches,dortmund
+Emre Can,de GER,"DF,MF",27.0,18.8,5,0,0,32,21,1,7,36,22,0,0,0,166,31,15,67.4,Matches,dortmund
+Thomas Meunier,be BEL,DF,29.0,15.6,4,0,0,27,7,1,45,12,19,0,0,0,121,24,10,70.6,Matches,dortmund
+Marius Wolf,de GER,"DF,FW",26.0,14.7,4,0,0,17,17,4,25,13,10,1,0,0,64,7,14,33.3,Matches,dortmund
+Thorgan Hazard,be BEL,"FW,DF",28.0,14.9,2,0,0,22,19,11,71,6,13,0,0,0,77,23,21,52.3,Matches,dortmund
+Dan-Axel Zagadou,fr FRA,DF,22.0,10.6,2,0,0,12,5,0,1,15,7,0,1,0,84,37,13,74.0,Matches,dortmund
+Nico Schulz,de GER,DF,28.0,9.3,2,0,0,13,5,0,13,11,12,0,0,0,58,8,8,50.0,Matches,dortmund
+Marin Pongračić,hr CRO,DF,23.0,9.2,3,0,0,12,0,0,0,17,10,0,0,0,65,10,11,47.6,Matches,dortmund
+Gio Reyna,us USA,MF,18.0,4.9,0,0,0,7,11,1,20,1,4,0,0,0,27,5,7,41.7,Matches,dortmund
+Felix Passlack,de GER,DF,23.0,5.2,0,0,0,5,8,1,13,4,9,0,0,1,27,1,3,25.0,Matches,dortmund
+Marwin Hitz,ch SUI,GK,33.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0.0,Matches,dortmund
+Youssoufa Moukoko,de GER,"FW,MF",16.0,2.5,1,0,0,5,5,5,0,3,0,0,0,0,6,0,3,0.0,Matches,dortmund
+Reinier,br BRA,"FW,MF",19.0,1.8,0,0,0,2,2,0,0,0,3,0,0,0,14,1,3,25.0,Matches,dortmund
+Jamie Bynoe-Gittens,eng ENG,FW,16.0,1.5,0,0,0,2,6,0,0,1,2,0,0,0,5,2,2,50.0,Matches,dortmund
+Tom Rothe,de GER,DF,16.0,1.0,1,0,0,3,1,3,5,2,3,0,0,0,5,0,0,,Matches,dortmund
+Roman Bürki,ch SUI,GK,30.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,,Matches,dortmund
+Ansgar Knauff,de GER,"FW,MF",19.0,1.3,0,0,0,4,1,1,0,0,1,0,0,0,3,3,2,60.0,Matches,dortmund
+Steffen Tigges,de GER,"FW,MF",23.0,1.2,0,0,0,1,1,1,1,0,3,0,0,0,2,3,9,25.0,Matches,dortmund
+Thomas Delaney,dk DEN,MF,29.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,dortmund
+Antonios Papadopoulos,de GER,"DF,MF",21.0,0.2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches,dortmund
+Lennard Maloney,us USA,DF,21.0,0.1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,50.0,Matches,dortmund
+Lion Semić,de GER,DF,17.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,dortmund
+Lukáš Hrádecký,fi FIN,GK,31.0,32.0,1,0,0,0,2,0,0,0,1,0,0,0,55,8,0,100.0,Matches,bayer leverkusen
+Moussa Diaby,fr FRA,"FW,MF",22.0,30.7,10,1,1,38,25,17,82,8,11,0,0,0,119,6,20,23.1,Matches,bayer leverkusen
+Patrik Schick,cz CZE,FW,25.0,23.1,0,0,0,13,22,6,3,3,2,0,0,0,34,55,73,43.0,Matches,bayer leverkusen
+Jeremie Frimpong,nl NED,DF,20.0,22.8,6,0,0,17,45,1,58,17,18,0,1,1,120,19,18,51.4,Matches,bayer leverkusen
+Kerem Demirbay,de GER,MF,28.0,22.8,10,0,0,34,29,3,152,33,31,0,0,0,158,11,19,36.7,Matches,bayer leverkusen
+Florian Wirtz,de GER,"MF,FW",18.0,20.6,2,0,0,15,25,10,63,13,10,1,0,0,106,7,23,23.3,Matches,bayer leverkusen
+Robert Andrich,de GER,MF,26.0,20.2,5,1,0,40,15,2,6,31,17,0,0,0,126,30,24,55.6,Matches,bayer leverkusen
+Odilon Kossonou,ci CIV,DF,20.0,19.9,3,0,0,15,7,0,5,26,17,0,1,0,140,30,26,53.6,Matches,bayer leverkusen
+Piero Hincapié,ec ECU,DF,19.0,19.5,5,0,0,23,15,3,20,33,23,0,0,0,130,56,40,58.3,Matches,bayer leverkusen
+Mitchel Bakker,nl NED,DF,21.0,20.2,6,0,0,15,19,0,37,23,22,0,1,0,147,13,13,50.0,Matches,bayer leverkusen
+Edmond Tapsoba,bf BFA,DF,22.0,20.2,1,0,0,19,6,1,0,29,17,0,1,0,171,42,16,72.4,Matches,bayer leverkusen
+Charles Aránguiz,cl CHI,MF,32.0,17.5,2,0,0,26,13,0,9,33,25,0,0,0,129,7,16,30.4,Matches,bayer leverkusen
+Paulinho,br BRA,"FW,MF",21.0,13.5,1,0,0,10,17,3,20,6,13,1,0,0,58,8,12,40.0,Matches,bayer leverkusen
+Amine Adli,fr FRA,"FW,MF",21.0,14.0,3,0,0,27,28,8,21,11,14,0,0,0,62,12,29,29.3,Matches,bayer leverkusen
+Exequiel Palacios,ar ARG,MF,22.0,12.2,2,0,0,11,17,0,8,28,19,0,0,0,131,7,7,50.0,Matches,bayer leverkusen
+Karim Bellarabi,de GER,"FW,MF",31.0,7.6,2,0,0,20,7,1,25,9,4,2,0,0,38,0,1,0.0,Matches,bayer leverkusen
+Lucas Alario,ar ARG,FW,28.0,7.3,2,0,0,8,8,7,1,1,5,1,0,0,13,19,23,45.2,Matches,bayer leverkusen
+Sardar Azmoun,ir IRN,"FW,MF",26.0,4.0,0,0,0,8,4,0,2,0,1,0,0,0,9,7,10,41.2,Matches,bayer leverkusen
+Nadiem Amiri,de GER,"MF,FW",24.0,4.1,0,0,0,2,11,0,8,5,4,0,0,0,30,1,3,25.0,Matches,bayer leverkusen
+Daley Sinkgraven,nl NED,DF,26.0,3.9,0,0,0,0,3,0,7,3,2,0,0,0,22,3,7,30.0,Matches,bayer leverkusen
+Lennart Grill,de GER,GK,22.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,bayer leverkusen
+Andrey Lunyov,ru RUS,GK,29.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,bayer leverkusen
+Julian Baumgartlinger,at AUT,"MF,FW",33.0,1.0,1,0,0,2,0,0,1,2,1,0,0,0,8,1,1,50.0,Matches,bayer leverkusen
+Timothy Fosu-Mensah,nl NED,DF,23.0,1.6,0,0,0,1,0,0,4,2,3,0,0,0,14,2,3,40.0,Matches,bayer leverkusen
+Panagiotis Retsos,gr GRE,"DF,FW",22.0,0.4,0,0,0,0,1,0,0,1,0,0,0,0,2,1,0,100.0,Matches,bayer leverkusen
+Zidan Sertdemir,dk DEN,"MF,FW",16.0,0.2,0,0,0,0,0,0,3,0,2,0,0,0,1,0,0,,Matches,bayer leverkusen
+Iker Bravo,es ESP,FW,16.0,0.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Matches,bayer leverkusen
+Christopher Nkunku,fr FRA,"FW,MF",23.0,30.3,2,0,0,31,61,13,64,15,10,3,0,0,103,26,28,48.1,Matches,rb leipzig
+Willi Orban,hu HUN,DF,28.0,29.4,1,0,0,12,29,3,3,44,22,0,0,0,163,100,63,61.3,Matches,rb leipzig
+Joško Gvardiol,hr CRO,DF,19.0,26.8,7,0,0,41,34,1,8,51,31,0,0,1,230,53,35,60.2,Matches,rb leipzig
+Angeliño,es ESP,DF,24.0,25.5,3,0,0,15,35,4,187,29,21,0,0,0,155,11,21,34.4,Matches,rb leipzig
+Kevin Kampl,si SVN,MF,30.0,21.1,4,0,0,36,12,0,8,24,19,0,1,0,155,8,12,40.0,Matches,rb leipzig
+André Silva,pt POR,FW,25.0,23.1,1,0,0,20,28,16,7,2,9,0,0,0,66,37,65,36.3,Matches,rb leipzig
+Mohamed Simakan,fr FRA,DF,21.0,22.3,5,0,0,25,34,0,6,40,27,0,0,0,159,63,21,75.0,Matches,rb leipzig
+Nordi Mukiele,fr FRA,"DF,FW",23.0,20.5,3,0,0,19,25,8,34,31,22,1,1,0,125,47,23,67.1,Matches,rb leipzig
+Emil Forsberg,se SWE,MF,29.0,19.0,2,0,0,11,22,4,38,2,12,0,0,0,58,9,18,33.3,Matches,rb leipzig
+Lukas Klostermann,de GER,DF,25.0,18.3,1,0,0,9,4,0,3,26,16,0,0,0,101,23,11,67.6,Matches,rb leipzig
+Dominik Szoboszlai,hu HUN,"MF,FW",20.0,17.1,2,0,0,15,23,6,91,10,12,0,0,0,101,17,19,47.2,Matches,rb leipzig
+Amadou Haidara,ml MLI,MF,23.0,14.7,2,0,0,20,13,0,6,16,14,0,0,0,102,20,19,51.3,Matches,rb leipzig
+Konrad Laimer,at AUT,MF,24.0,13.8,2,0,0,37,8,0,14,4,24,0,0,0,96,11,11,50.0,Matches,rb leipzig
+Tyler Adams,us USA,MF,22.0,15.0,5,0,0,19,15,0,2,16,7,0,0,0,85,20,10,66.7,Matches,rb leipzig
+Benjamin Henrichs,de GER,DF,24.0,12.7,3,0,0,13,14,1,24,19,21,0,1,0,77,6,9,40.0,Matches,rb leipzig
+Yussuf Poulsen,dk DEN,"FW,MF",27.0,12.0,2,0,0,22,30,7,9,3,4,1,0,0,42,28,32,46.7,Matches,rb leipzig
+Dani Olmo,es ESP,"MF,FW",23.0,8.3,2,0,0,4,22,1,9,4,6,0,0,0,62,3,10,23.1,Matches,rb leipzig
+Marcel Halstenberg,de GER,DF,29.0,5.6,0,0,0,4,4,1,6,7,7,0,0,0,35,8,2,80.0,Matches,rb leipzig
+Hugo Novoa,es ESP,"MF,FW",18.0,1.5,0,0,0,1,4,1,2,1,4,0,0,0,5,2,3,40.0,Matches,rb leipzig
+Brian Brobbey,nl NED,"FW,MF",19.0,1.5,0,0,0,3,2,0,1,0,0,0,0,0,7,4,4,50.0,Matches,rb leipzig
+Josep Martinez,es ESP,GK,23.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,100.0,Matches,rb leipzig
+Hwang Hee-chan,kr KOR,FW,25.0,0.5,0,0,0,0,2,0,0,1,0,0,0,0,0,1,1,50.0,Matches,rb leipzig
+Marcel Sabitzer,at AUT,"MF,FW",27.0,0.5,1,0,0,1,0,0,1,1,1,0,0,0,4,0,1,0.0,Matches,rb leipzig
+Ilaix Moriba,gn GUI,MF,18.0,0.4,0,0,0,1,3,0,0,1,0,0,0,0,4,0,2,0.0,Matches,rb leipzig
+Joscha Wosz,de GER,DF,19.0,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches,rb leipzig
+Solomon Bonnah,nl NED,DF,17.0,0.1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Matches,rb leipzig
+Sidney Raebiger,de GER,MF,16.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,rb leipzig
+Rani Khedira,de GER,MF,27.0,30.6,6,0,0,55,35,0,23,50,38,0,0,0,193,39,42,48.1,Matches,union berlin
+Taiwo Awoniyi,ng NGA,FW,23.0,24.2,1,0,0,25,23,21,10,2,7,1,0,1,82,54,101,34.8,Matches,union berlin
+Grischa Prömel,de GER,MF,26.0,26.9,4,0,0,37,57,2,6,23,22,0,0,0,187,36,36,50.0,Matches,union berlin
+Andreas Luthe,de GER,GK,34.0,27.0,3,0,0,1,3,0,0,0,0,0,1,0,33,7,0,100.0,Matches,union berlin
+Timo Baumgartl,de GER,DF,25.0,24.1,5,0,0,24,13,0,10,37,28,0,0,2,127,53,43,55.2,Matches,union berlin
+Niko Gießelmann,de GER,"DF,FW",29.0,23.1,3,0,0,23,33,1,106,18,17,0,0,0,81,24,29,45.3,Matches,union berlin
+Christopher Trimmel,at AUT,"DF,FW",34.0,22.1,5,0,0,29,6,0,146,34,30,0,0,0,145,29,19,60.4,Matches,union berlin
+Genki Haraguchi,jp JPN,MF,30.0,19.5,2,0,0,27,30,1,12,26,20,0,0,0,99,15,24,38.5,Matches,union berlin
+Paul Jaeckel,de GER,DF,23.0,22.7,5,0,0,28,13,0,4,57,29,0,1,0,150,47,52,47.5,Matches,union berlin
+Sheraldo Becker,sr SUR,"FW,MF",26.0,19.5,4,0,0,26,25,10,123,2,6,0,0,0,96,11,39,22.0,Matches,union berlin
+Max Kruse,de GER,"FW,MF",33.0,14.1,1,0,0,5,6,1,48,3,1,0,0,0,46,14,25,35.9,Matches,union berlin
+Julian Ryerson,no NOR,DF,23.0,15.9,3,0,0,12,14,0,51,16,15,0,0,0,113,18,29,38.3,Matches,union berlin
+Marvin Friedrich,de GER,DF,25.0,13.0,4,1,1,12,2,0,5,23,5,0,0,1,79,39,32,54.9,Matches,union berlin
+Bastian Oczipka,de GER,DF,32.0,10.4,1,0,0,10,13,1,61,12,15,0,0,0,77,10,4,71.4,Matches,union berlin
+Frederik Rønnow,dk DEN,GK,28.0,7.0,1,0,0,0,1,0,0,0,0,0,0,0,8,4,0,100.0,Matches,union berlin
+Dominique Heintz,de GER,DF,27.0,5.2,0,0,0,6,2,1,1,7,5,0,0,0,25,7,12,36.8,Matches,union berlin
+Andreas Voglsammer,de GER,"FW,MF",29.0,9.8,1,0,0,16,16,14,21,2,9,0,0,0,27,35,47,42.7,Matches,union berlin
+Levin Öztunalı,de GER,MF,25.0,6.4,0,0,0,15,8,3,12,4,11,0,0,0,40,11,16,40.7,Matches,union berlin
+Kevin Möhwald,de GER,MF,28.0,3.9,2,0,0,6,4,2,7,3,1,0,0,0,30,3,3,50.0,Matches,union berlin
+Kevin Behrens,de GER,FW,30.0,5.5,1,0,0,15,5,1,2,3,2,1,0,0,25,45,40,52.9,Matches,union berlin
+Sven Michel,de GER,FW,31.0,3.8,2,0,0,12,4,3,8,1,6,0,0,0,16,13,21,38.2,Matches,union berlin
+Marcus Ingvartsen,dk DEN,MF,25.0,1.4,0,0,0,2,1,0,1,2,0,0,0,0,9,3,2,60.0,Matches,union berlin
+András Schäfer,hu HUN,MF,22.0,2.7,2,0,0,6,2,0,1,2,1,0,0,0,25,1,5,16.7,Matches,union berlin
+Cedric Teuchert,de GER,"MF,FW",24.0,1.2,0,0,0,1,1,1,1,0,2,0,0,0,9,2,2,50.0,Matches,union berlin
+Keita Endo,jp JPN,MF,23.0,0.6,0,0,0,0,2,1,3,0,1,0,0,0,4,0,2,0.0,Matches,union berlin
+Anthony Ujah,ng NGA,"FW,MF",30.0,0.4,0,0,0,4,1,0,1,0,0,0,0,0,1,1,1,50.0,Matches,union berlin
+Vincenzo Grifo,it ITA,"MF,FW",28.0,30.8,0,0,0,11,27,1,169,13,15,0,0,0,160,17,19,47.2,Matches,freiburg
+Mark Flekken,nl NED,GK,28.0,32.0,0,0,0,0,1,0,0,2,0,0,0,0,70,4,0,100.0,Matches,freiburg
+Philipp Lienhart,at AUT,DF,25.0,31.9,2,0,0,15,27,1,8,50,13,0,1,0,216,69,46,60.0,Matches,freiburg
+Nico Schlotterbeck,de GER,DF,21.0,30.9,5,0,0,32,35,1,9,56,43,0,0,0,238,109,36,75.2,Matches,freiburg
+Nicolas Höfler,de GER,MF,31.0,28.9,5,0,0,47,40,0,7,46,42,1,1,0,199,64,48,57.1,Matches,freiburg
+Lucas Höler,de GER,FW,27.0,28.7,2,0,0,36,61,14,23,17,25,1,0,0,106,126,107,54.1,Matches,freiburg
+Lukas Kübler,de GER,"DF,MF",28.0,25.9,2,0,0,24,20,3,49,44,35,0,0,0,145,39,42,48.1,Matches,freiburg
+Maximilian Eggestein,de GER,MF,24.0,24.4,2,0,0,32,26,1,11,30,28,0,0,0,145,46,51,47.4,Matches,freiburg
+Jeong Woo-yeong,kr KOR,"FW,MF",21.0,19.8,1,0,0,10,15,12,31,7,9,0,0,0,79,16,36,30.8,Matches,freiburg
+Roland Sallai,hu HUN,"MF,FW",24.0,17.2,1,0,0,29,42,4,58,11,16,1,0,0,74,21,28,42.9,Matches,freiburg
+Manuel Gulde,de GER,DF,30.0,13.6,2,0,0,17,9,0,3,17,10,0,0,0,60,25,15,62.5,Matches,freiburg
+Ermedin Demirović,ba BIH,FW,23.0,9.7,4,0,0,27,6,12,6,1,6,0,0,0,33,17,45,27.4,Matches,freiburg
+Kevin Schade,de GER,"MF,FW",19.0,9.2,2,0,0,22,26,4,13,3,7,0,0,0,41,40,35,53.3,Matches,freiburg
+Janik Haberer,de GER,MF,27.0,9.1,1,0,0,20,10,1,4,16,8,0,0,0,51,16,22,42.1,Matches,freiburg
+Jonathan Schmid,fr FRA,DF,31.0,6.5,0,0,0,4,3,0,16,6,6,0,0,0,36,8,9,47.1,Matches,freiburg
+Yannik Keitel,de GER,MF,21.0,5.6,1,0,0,13,5,0,2,1,4,0,0,1,27,10,9,52.6,Matches,freiburg
+Nils Petersen,de GER,FW,32.0,6.4,0,0,0,2,3,0,3,2,3,0,0,0,17,23,56,29.1,Matches,freiburg
+Keven Schlotterbeck,de GER,"DF,FW",24.0,3.5,1,0,0,9,2,0,0,11,5,0,0,0,13,9,4,69.2,Matches,freiburg
+Benjamin Uphoff,de GER,GK,27.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0,Matches,freiburg
+Kiliann Sildillia,fr FRA,"DF,MF",19.0,1.9,1,0,0,1,1,0,5,2,3,0,0,0,16,1,4,20.0,Matches,freiburg
+Noah Weißhaupt,de GER,"MF,FW",19.0,1.1,0,0,0,3,2,0,4,1,1,0,0,0,6,1,2,33.3,Matches,freiburg
+Dominique Heintz,de GER,DF,27.0,0.3,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,50.0,Matches,freiburg
+Hugo Siquet,be BEL,DF,19.0,0.2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,Matches,freiburg
+Baptiste Santamaria,fr FRA,MF,26.0,0.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Matches,freiburg
+Florian Kainz,at AUT,"MF,FW",28.0,25.8,3,1,1,36,45,1,238,32,26,0,0,0,181,10,18,35.7,Matches,koln
+Jonas Hector,de GER,DF,31.0,28.4,3,0,0,28,53,1,71,50,39,0,0,0,213,48,28,63.2,Matches,koln
+Benno Schmitz,de GER,DF,26.0,26.9,5,0,0,30,25,1,93,39,37,0,0,0,143,29,43,40.3,Matches,koln
+Salih Özcan,tr TUR,MF,23.0,25.7,5,0,0,38,53,1,18,51,30,0,0,0,225,53,43,55.2,Matches,koln
+Luca Kilian,de GER,DF,21.0,25.3,3,0,0,7,11,0,4,46,24,0,1,0,135,46,44,51.1,Matches,koln
+Mark Uth,de GER,"MF,FW",29.0,22.5,3,0,0,34,45,11,123,14,20,0,0,0,110,22,31,41.5,Matches,koln
+Dejan Ljubicic,at AUT,"MF,FW",23.0,21.9,4,0,0,29,21,3,59,15,19,0,0,0,148,12,26,31.6,Matches,koln
+Marvin Schwäbe,de GER,GK,26.0,21.0,1,0,0,0,3,0,0,0,0,0,0,0,30,4,1,80.0,Matches,koln
+Ellyes Skhiri,tn TUN,MF,26.0,20.2,3,0,0,18,21,2,6,37,33,0,0,0,157,34,23,59.6,Matches,koln
+Timo Hübers,de GER,DF,25.0,19.3,7,0,0,26,24,0,0,52,27,0,0,1,153,51,38,57.3,Matches,koln
+Ondrej Duda,sk SVK,"MF,FW",26.0,17.9,5,0,0,41,34,0,27,17,16,0,0,0,129,16,21,43.2,Matches,koln
+Rafael Czichos,de GER,DF,31.0,15.6,4,0,0,16,11,0,3,19,18,0,0,1,103,43,37,53.8,Matches,koln
+Sebastian Andersson,se SWE,FW,30.0,14.0,3,0,0,23,18,5,9,3,7,0,0,0,32,53,60,46.9,Matches,koln
+Timo Horn,de GER,GK,28.0,13.0,0,0,0,0,1,0,0,0,0,0,0,0,20,3,0,100.0,Matches,koln
+Jan Thielmann,de GER,"MF,FW",19.0,13.2,6,0,0,12,12,2,57,10,16,0,0,0,86,21,30,41.2,Matches,koln
+Kingsley Ehizibue,nl NED,DF,26.0,7.6,2,0,0,15,16,0,17,9,18,0,0,0,45,13,5,72.2,Matches,koln
+Louis Schaub,at AUT,"MF,FW",26.0,7.3,0,0,0,8,8,3,34,3,10,0,0,0,56,3,13,18.8,Matches,koln
+Jorge Meré,es ESP,DF,24.0,5.4,2,0,0,4,1,0,1,10,6,0,0,0,36,14,11,56.0,Matches,koln
+Jannes Horn,de GER,DF,24.0,5.3,2,0,0,4,8,0,28,3,4,0,0,0,33,8,7,53.3,Matches,koln
+Julian Chabot,de GER,DF,23.0,2.3,1,0,0,5,7,0,0,3,3,0,0,0,14,9,10,47.4,Matches,koln
+Kingsley Schindler,gh GHA,"DF,FW",28.0,3.9,1,0,0,2,5,1,24,5,0,0,0,0,27,7,5,58.3,Matches,koln
+Tim Lemperle,de GER,"FW,MF",19.0,1.7,0,0,0,4,3,0,1,2,1,0,0,0,7,5,10,33.3,Matches,koln
+Tomáš Ostrák,cz CZE,"MF,FW",21.0,0.3,0,0,0,1,0,0,3,1,0,0,0,0,3,0,0,,Matches,koln
+Mathias Olesen,lu LUX,"MF,FW",20.0,0.2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,,Matches,koln
+Stefan Bell,de GER,DF,29.0,31.8,9,0,0,52,7,6,16,41,23,0,1,1,205,107,58,64.8,Matches,mainz 05
+Robin Zentner,de GER,GK,26.0,32.0,1,0,0,1,4,0,0,2,2,0,1,0,68,9,2,81.8,Matches,mainz 05
+Jonathan Burkardt,de GER,"FW,MF",21.0,29.0,0,0,0,24,42,10,35,8,8,0,0,0,106,36,81,30.8,Matches,mainz 05
+Moussa Niakhate,sn SEN,DF,25.0,28.5,1,0,0,30,23,3,16,50,23,0,1,0,207,56,27,67.5,Matches,mainz 05
+Karim Onisiwo,at AUT,FW,29.0,26.2,0,0,0,44,32,27,50,7,10,0,0,0,82,58,88,39.7,Matches,mainz 05
+Aarón Martín,es ESP,DF,24.0,25.5,7,0,0,31,18,0,180,20,33,0,0,0,161,12,15,44.4,Matches,mainz 05
+Alexander Hack,de GER,DF,27.0,23.0,6,1,0,28,34,2,5,51,26,0,1,0,172,67,47,58.8,Matches,mainz 05
+Anton Stach,de GER,MF,22.0,20.7,6,0,0,35,43,0,53,51,19,0,0,0,176,52,20,72.2,Matches,mainz 05
+Leandro Barreiro Martins,lu LUX,MF,21.0,19.9,3,0,0,41,27,0,8,32,32,2,0,0,109,25,27,48.1,Matches,mainz 05
+Jean-Paul Boëtius,nl NED,MF,27.0,20.0,3,0,0,20,40,1,50,25,23,0,0,0,126,7,23,23.3,Matches,mainz 05
+Dominik Kohr,de GER,MF,27.0,17.9,10,2,2,46,20,0,2,35,20,0,0,0,149,26,18,59.1,Matches,mainz 05
+Lee Jae-sung,kr KOR,"MF,FW",28.0,16.0,3,0,0,19,13,2,28,18,12,0,0,0,92,35,35,50.0,Matches,mainz 05
+Anderson Lucoqui,ao ANG,DF,24.0,8.3,2,0,0,17,16,0,10,11,10,0,0,0,41,7,5,58.3,Matches,mainz 05
+Jerry St. Juste,nl NED,DF,24.0,6.7,0,0,0,14,8,0,6,14,9,0,0,0,41,24,15,61.5,Matches,mainz 05
+Marcus Ingvartsen,dk DEN,"FW,MF",25.0,7.6,2,0,0,16,14,4,12,6,2,1,0,0,27,17,31,35.4,Matches,mainz 05
+Niklas Tauer,de GER,"DF,MF",20.0,5.4,1,1,0,9,4,0,1,9,9,0,1,0,34,8,13,38.1,Matches,mainz 05
+Daniel Brosinski,de GER,DF,33.0,4.3,0,0,0,1,3,0,23,3,1,0,0,0,27,6,3,66.7,Matches,mainz 05
+David Nemeth,at AUT,DF,20.0,3.5,0,0,0,1,1,0,0,6,2,0,0,0,16,10,7,58.8,Matches,mainz 05
+Ádám Szalai,hu HUN,FW,33.0,2.9,1,0,0,10,4,5,0,0,2,0,0,0,11,8,11,42.1,Matches,mainz 05
+Paul Nebel,de GER,"MF,FW",18.0,2.5,3,0,0,8,3,1,10,0,3,0,0,0,18,0,9,0.0,Matches,mainz 05
+Finn Dahmen,de GER,GK,23.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches,mainz 05
+Kevin Stöger,at AUT,MF,27.0,4.7,3,0,0,9,10,0,31,5,5,0,0,0,55,2,2,50.0,Matches,mainz 05
+Matondo-Merveille Papela,de GER,MF,20.0,0.9,0,0,0,1,0,0,0,2,2,0,0,0,5,0,2,0.0,Matches,mainz 05
+Delano Burgzorg,nl NED,MF,22.0,0.3,0,0,0,1,0,1,0,0,1,0,0,0,0,0,2,0.0,Matches,mainz 05
+Stephan Fürstner,de GER,MF,33.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,mainz 05
+Luca Kilian,de GER,FW,21.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches,mainz 05
+David Raum,de GER,"DF,FW",23.0,30.6,5,0,0,27,32,7,311,27,29,0,0,1,201,28,36,43.8,Matches,hoffenheim
+Andrej Kramarić,hr CRO,"FW,MF",30.0,30.1,2,0,0,11,29,9,62,9,4,0,0,0,125,14,23,37.8,Matches,hoffenheim
+Kevin Vogt,de GER,DF,29.0,28.5,7,0,0,27,18,1,4,13,12,0,1,0,214,24,23,51.1,Matches,hoffenheim
+Stefan Posch,at AUT,DF,24.0,24.4,5,0,0,36,13,1,11,28,30,0,0,0,110,40,59,40.4,Matches,hoffenheim
+Ihlas Bebou,tg TOG,"FW,DF",27.0,23.2,0,0,0,26,21,11,49,12,14,0,0,0,78,37,77,32.5,Matches,hoffenheim
+Christoph Baumgartner,at AUT,"MF,FW",21.0,21.0,5,0,0,37,32,1,35,8,15,0,0,0,103,37,49,43.0,Matches,hoffenheim
+Diadie Samassékou,ml MLI,MF,25.0,18.4,7,0,0,30,25,0,7,28,26,0,0,0,121,32,23,58.2,Matches,hoffenheim
+Kevin Akpoguma,ng NGA,"DF,FW",26.0,17.0,5,0,0,25,23,4,31,20,19,0,1,0,100,17,20,45.9,Matches,hoffenheim
+Angelo Stiller,de GER,MF,20.0,18.8,1,0,0,25,13,1,17,9,17,0,0,0,116,26,26,50.0,Matches,hoffenheim
+Dennis Geiger,de GER,MF,23.0,15.3,6,0,0,39,19,0,42,14,23,0,1,0,102,0,6,0.0,Matches,hoffenheim
+Moanes Dabbur,il ISR,"FW,MF",29.0,14.6,5,0,0,29,19,2,4,5,10,0,0,0,65,18,25,41.9,Matches,hoffenheim
+Florian Grillitsch,at AUT,"DF,MF",25.0,16.6,7,0,0,12,24,0,11,29,19,0,1,0,125,23,26,46.9,Matches,hoffenheim
+Pavel Kadeřábek,cz CZE,"DF,MF",29.0,13.3,5,0,0,16,8,2,47,13,10,0,0,0,58,40,28,58.8,Matches,hoffenheim
+Georginio Rutter,fr FRA,"FW,MF",19.0,17.9,2,0,0,37,37,21,20,6,13,0,0,0,56,40,46,46.5,Matches,hoffenheim
+Chris Richards,us USA,DF,21.0,14.5,1,0,0,8,2,0,0,22,15,0,0,0,68,56,38,59.6,Matches,hoffenheim
+Jacob Bruun Larsen,dk DEN,"FW,MF",22.0,9.0,1,0,0,6,3,6,10,5,1,0,0,0,35,9,16,36.0,Matches,hoffenheim
+Sebastian Rudy,de GER,MF,31.0,8.6,5,0,0,12,6,0,15,11,12,0,0,0,46,6,12,33.3,Matches,hoffenheim
+Benjamin Hübner,de GER,DF,32.0,4.2,2,0,0,8,2,0,0,9,5,0,0,0,18,14,8,63.6,Matches,hoffenheim
+Robert Skov,dk DEN,"FW,DF",25.0,4.1,1,0,0,6,5,0,18,3,2,0,0,0,20,3,5,37.5,Matches,hoffenheim
+Sargis Adamyan,am ARM,"FW,MF",28.0,3.7,0,0,0,5,8,4,5,1,6,0,0,0,24,3,14,17.6,Matches,hoffenheim
+Håvard Nordtveit,no NOR,DF,31.0,3.4,1,0,0,2,4,0,1,10,6,0,0,0,24,5,7,41.7,Matches,hoffenheim
+Mijat Gaćinović,rs SRB,"FW,MF",26.0,1.2,1,0,0,4,1,0,0,1,3,0,0,0,3,3,3,50.0,Matches,hoffenheim
+Philipp Pentke,de GER,GK,36.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches,hoffenheim
+Marco John,de GER,DF,19.0,0.5,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1,0.0,Matches,hoffenheim
+Justin Che,us USA,"FW,DF",17.0,0.5,0,0,0,0,0,0,2,1,0,0,0,0,1,0,1,0.0,Matches,hoffenheim
+Nick Proschwitz,de GER,FW,34.0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,Matches,hoffenheim
+Tom Bischof,de GER,MF,16.0,0.2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,Matches,hoffenheim
+Fisnik Asllani,xk KVX,"MF,FW",18.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,hoffenheim
+Ermin Bičakčić,ba BIH,DF,31.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,hoffenheim
+Kasim Nuhu,gh GHA,DF,26.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0,Matches,hoffenheim
+Nico Elvedi,ch SUI,DF,24.0,27.0,3,1,0,21,21,0,0,34,24,0,0,0,158,72,38,65.5,Matches,monchengladbach
+Matthias Ginter,de GER,DF,27.0,26.2,2,0,0,9,29,2,20,33,22,0,0,0,136,74,44,62.7,Matches,monchengladbach
+Kouadio Koné,fr FRA,MF,20.0,24.3,10,0,0,39,60,1,2,34,37,1,0,0,147,20,20,50.0,Matches,monchengladbach
+Breel Embolo,ch SUI,FW,24.0,24.1,3,0,0,41,71,20,2,6,11,2,0,0,57,35,64,35.4,Matches,monchengladbach
+Florian Neuhaus,de GER,MF,24.0,23.6,2,0,0,18,32,0,14,31,28,0,0,0,134,10,8,55.6,Matches,monchengladbach
+Jonas Hofmann,de GER,"MF,FW",29.0,23.1,1,0,0,23,20,7,138,12,20,0,0,0,112,4,15,21.1,Matches,monchengladbach
+Alassane Pléa,fr FRA,"MF,FW",28.0,23.0,4,0,0,20,25,13,31,4,14,0,0,0,88,14,35,28.6,Matches,monchengladbach
+Ramy Bensebaini,dz ALG,DF,26.0,22.4,6,0,0,34,42,4,15,39,30,0,1,0,148,53,30,63.9,Matches,monchengladbach
+Joe Scally,us USA,DF,18.0,21.2,4,0,0,27,36,2,35,22,30,0,0,0,89,18,18,50.0,Matches,monchengladbach
+Lars Stindl,de GER,"MF,FW",32.0,18.1,10,0,0,30,16,5,14,10,15,0,0,0,104,13,32,28.9,Matches,monchengladbach
+Stefan Lainer,at AUT,DF,28.0,16.3,2,0,0,8,13,3,27,14,11,2,1,0,77,14,9,60.9,Matches,monchengladbach
+Luca Netz,de GER,"DF,FW",18.0,15.5,1,0,0,7,11,2,35,13,11,0,0,0,72,7,12,36.8,Matches,monchengladbach
+Denis Zakaria,ch SUI,"MF,DF",24.0,15.5,4,0,0,19,11,1,5,19,14,0,1,0,134,14,13,51.9,Matches,monchengladbach
+Jordan Beyer,de GER,DF,21.0,15.4,5,0,0,16,21,0,8,15,27,0,1,0,92,27,20,57.4,Matches,monchengladbach
+Marcus Thuram,fr FRA,FW,23.0,10.9,2,0,0,12,25,8,7,5,5,1,0,0,29,32,22,59.3,Matches,monchengladbach
+Christoph Kramer,de GER,MF,30.0,8.3,1,0,0,11,5,0,4,12,11,0,0,0,67,11,10,52.4,Matches,monchengladbach
+Marvin Friedrich,de GER,DF,25.0,6.7,1,0,0,4,2,1,0,5,8,0,1,0,38,19,8,70.4,Matches,monchengladbach
+Patrick Herrmann,de GER,"DF,FW",30.0,8.4,1,0,0,7,8,4,63,6,7,0,0,0,42,4,7,36.4,Matches,monchengladbach
+Tony Jantschke,de GER,DF,31.0,2.5,0,0,0,0,3,0,1,5,5,0,0,0,5,6,3,66.7,Matches,monchengladbach
+Hannes Wolf,at AUT,"FW,MF",22.0,3.4,2,0,0,10,5,0,2,2,12,0,0,0,21,2,8,20.0,Matches,monchengladbach
+László Bénes,sk SVK,MF,23.0,2.7,0,0,0,1,9,0,15,2,3,0,0,0,17,5,1,83.3,Matches,monchengladbach
+Tobias Sippel,de GER,GK,33.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches,monchengladbach
+Connor Noß,ie IRL,MF,20.0,0.6,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0.0,Matches,monchengladbach
+Keanan Bennetts,eng ENG,"FW,DF",22.0,0.6,1,0,0,2,0,0,2,0,0,0,0,0,4,2,0,100.0,Matches,monchengladbach
+Obite N'Dicka,fr FRA,DF,21.0,31.7,3,0,0,42,14,4,12,48,34,0,1,1,211,112,66,62.9,Matches,eintracht frankfurt
+Filip Kostić,rs SRB,"DF,FW",28.0,28.0,2,0,0,16,22,3,369,15,17,0,0,0,192,10,13,43.5,Matches,eintracht frankfurt
+Djibril Sow,ch SUI,MF,24.0,26.8,5,0,0,42,38,0,9,50,33,0,1,0,199,27,31,46.6,Matches,eintracht frankfurt
+Rafael Borré,co COL,FW,25.0,26.4,5,0,0,40,26,17,20,5,22,0,0,0,89,46,124,27.1,Matches,eintracht frankfurt
+Tuta,br BRA,DF,22.0,24.3,4,1,1,37,12,1,5,41,28,0,0,0,213,54,46,54.0,Matches,eintracht frankfurt
+Jesper Lindstrøm,dk DEN,"MF,FW",21.0,22.0,0,0,0,23,16,3,54,24,13,0,0,0,111,5,28,15.2,Matches,eintracht frankfurt
+Martin Hinteregger,at AUT,DF,28.0,24.7,6,0,0,28,31,0,0,42,28,0,1,0,199,60,55,52.2,Matches,eintracht frankfurt
+Daichi Kamada,jp JPN,MF,24.0,23.8,0,0,0,23,25,6,27,8,21,0,0,0,130,17,41,29.3,Matches,eintracht frankfurt
+Kristijan Jakić,hr CRO,MF,24.0,20.9,6,0,0,31,19,1,8,21,22,0,0,0,165,34,37,47.9,Matches,eintracht frankfurt
+Timothy Chandler,us USA,DF,31.0,13.5,4,0,0,17,7,4,30,19,12,0,0,0,56,14,22,38.9,Matches,eintracht frankfurt
+Makoto Hasebe,jp JPN,DF,37.0,13.2,1,0,0,13,13,0,2,22,12,0,0,0,125,20,28,41.7,Matches,eintracht frankfurt
+Sebastian Rode,de GER,MF,30.0,8.4,1,0,0,6,9,0,3,13,7,0,0,0,68,9,22,29.0,Matches,eintracht frankfurt
+Jens Petter Hauge,no NOR,"MF,FW",21.0,11.6,4,0,0,16,10,1,5,3,5,0,0,0,56,10,18,35.7,Matches,eintracht frankfurt
+Ajdin Hrustic,au AUS,MF,25.0,10.7,2,0,0,14,7,0,26,10,11,0,0,0,66,7,3,70.0,Matches,eintracht frankfurt
+Ansgar Knauff,de GER,"DF,MF",19.0,8.4,0,0,0,11,8,1,21,8,14,0,0,0,45,7,17,29.2,Matches,eintracht frankfurt
+Danny da Costa,de GER,"DF,MF",28.0,8.1,2,0,0,8,2,0,22,11,4,0,1,0,48,14,6,70.0,Matches,eintracht frankfurt
+Erik Durm,de GER,DF,29.0,5.3,1,0,0,2,7,0,14,10,7,0,0,0,25,3,8,27.3,Matches,eintracht frankfurt
+Christopher Lenz,de GER,DF,26.0,7.4,6,0,0,15,5,0,43,7,15,0,0,0,60,14,13,51.9,Matches,eintracht frankfurt
+Sam Lammers,nl NED,"FW,MF",24.0,5.7,1,0,0,7,1,1,0,2,4,0,0,0,17,21,20,51.2,Matches,eintracht frankfurt
+Almamy Touré,ml MLI,"DF,MF",25.0,5.6,2,0,0,8,2,1,12,5,9,0,0,0,42,13,15,46.4,Matches,eintracht frankfurt
+Gonçalo Paciência,pt POR,FW,26.0,5.7,3,0,0,9,12,3,7,1,2,1,0,0,18,18,17,51.4,Matches,eintracht frankfurt
+Stefan Ilsanker,at AUT,"DF,MF",32.0,3.0,1,0,0,5,1,1,0,6,8,0,0,0,28,6,1,85.7,Matches,eintracht frankfurt
+Aymen Barkok,ma MAR,"MF,DF",23.0,1.8,0,0,0,4,1,0,2,5,2,0,0,0,11,6,3,66.7,Matches,eintracht frankfurt
+Ragnar Ache,de GER,"MF,FW",23.0,2.9,0,0,0,5,8,6,6,0,0,0,0,0,7,18,10,64.3,Matches,eintracht frankfurt
+Jens Grahl,de GER,GK,32.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches,eintracht frankfurt
+John Brooks,us USA,DF,28.0,29.1,2,0,0,9,16,1,4,41,25,0,1,0,188,67,37,64.4,Matches,wolfsburg
+Maxence Lacroix,fr FRA,DF,21.0,27.7,5,3,1,36,25,1,7,60,33,0,3,1,183,75,45,62.5,Matches,wolfsburg
+Koen Casteels,be BEL,GK,29.0,28.0,1,0,0,0,2,0,0,0,0,0,0,0,41,9,0,100.0,Matches,wolfsburg
+Ridle Baku,de GER,"DF,FW",23.0,27.2,4,0,0,28,37,9,73,21,37,0,0,0,166,28,35,44.4,Matches,wolfsburg
+Sebastiaan Bornauw,be BEL,DF,22.0,22.3,4,0,0,22,5,2,0,42,19,0,1,0,107,63,47,57.3,Matches,wolfsburg
+Jérôme Roussillon,fr FRA,DF,28.0,19.7,5,0,0,10,24,5,50,14,9,0,0,0,97,13,9,59.1,Matches,wolfsburg
+Lukas Nmecha,de GER,"FW,MF",22.0,18.1,5,0,0,31,29,6,21,4,5,1,0,0,47,33,32,50.8,Matches,wolfsburg
+Yannick Gerhardt,de GER,"MF,DF",27.0,17.5,2,0,0,18,24,2,32,25,20,0,0,0,115,26,25,51.0,Matches,wolfsburg
+Wout Weghorst,nl NED,FW,28.0,17.3,2,0,0,17,31,15,2,2,7,0,0,0,57,45,43,51.1,Matches,wolfsburg
+Kevin Mbabu,ch SUI,DF,26.0,15.5,4,0,0,24,21,2,67,35,20,0,1,0,109,31,23,57.4,Matches,wolfsburg
+Jonas Wind,dk DEN,"FW,MF",22.0,13.1,0,0,0,14,31,7,5,6,6,0,0,0,45,54,55,49.5,Matches,wolfsburg
+Max Kruse,de GER,"MF,FW",33.0,12.5,0,0,0,2,12,5,27,3,3,1,0,0,56,10,16,38.5,Matches,wolfsburg
+Xaver Schlager,at AUT,MF,23.0,11.6,2,0,0,23,10,1,6,9,20,0,0,0,102,12,8,60.0,Matches,wolfsburg
+Renato Steffen,ch SUI,"FW,MF",29.0,10.7,6,0,0,19,15,0,25,13,16,0,0,0,57,17,19,47.2,Matches,wolfsburg
+Aster Vranckx,be BEL,MF,18.0,12.7,2,0,0,40,16,1,24,13,13,0,0,0,74,11,14,44.0,Matches,wolfsburg
+Maximilian Philipp,de GER,MF,27.0,10.7,2,0,0,9,17,2,35,4,11,0,0,0,47,9,23,28.1,Matches,wolfsburg
+Josuha Guilavogui,fr FRA,"MF,DF",30.0,10.5,4,0,0,20,6,2,0,25,14,0,0,0,106,41,14,74.5,Matches,wolfsburg
+Luca Waldschmidt,de GER,"MF,FW",25.0,8.0,2,0,0,10,8,0,7,8,1,1,0,0,37,2,12,14.3,Matches,wolfsburg
+Dodi Lukebakio,be BEL,"FW,MF",23.0,9.8,2,0,0,15,13,11,18,13,4,0,0,0,46,11,15,42.3,Matches,wolfsburg
+Pavao Pervan,at AUT,GK,33.0,6.0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,1,75.0,Matches,wolfsburg
+Paulo Otávio,br BRA,"DF,MF",26.0,4.0,0,0,0,3,4,1,25,4,10,0,0,0,12,5,4,55.6,Matches,wolfsburg
+Mickey van de Ven,nl NED,DF,20.0,2.1,0,0,0,0,1,0,3,2,4,0,0,0,15,6,1,85.7,Matches,wolfsburg
+Felix Nmecha,de GER,"MF,FW",20.0,3.6,2,0,0,7,9,0,3,7,1,0,0,0,12,11,8,57.9,Matches,wolfsburg
+Bartosz Bialek,pl POL,"FW,DF",19.0,2.0,1,0,0,6,2,0,0,0,0,0,0,0,4,5,8,38.5,Matches,wolfsburg
+Omar Marmoush,eg EGY,FW,22.0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches,wolfsburg
+Josip Brekalo,hr CRO,FW,23.0,0.2,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,,Matches,wolfsburg
+Kevin Paredes,us USA,"FW,DF",18.0,0.2,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,,Matches,wolfsburg
+Daniel Ginczek,de GER,"MF,FW",30.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,wolfsburg
+Manuel Riemann,de GER,GK,32.0,31.0,2,0,0,0,5,0,0,1,0,0,0,0,61,8,1,88.9,Matches,bochum
+Danilo Soares,br BRA,DF,29.0,28.5,4,0,0,34,42,0,66,62,71,0,2,0,287,47,30,61.0,Matches,bochum
+Elvis Rexhbeçaj,de GER,MF,23.0,28.2,5,0,0,34,60,2,41,27,20,0,1,0,175,27,39,40.9,Matches,bochum
+Sebastian Polter,de GER,FW,30.0,26.0,2,0,0,75,36,7,7,2,3,2,1,0,60,108,96,52.9,Matches,bochum
+Gerrit Holtmann,ph PHI,"FW,MF",26.0,20.4,0,0,0,22,13,5,59,8,9,0,0,0,74,5,32,13.5,Matches,bochum
+Armel Bella Kotchap,de GER,DF,19.0,19.6,5,0,0,26,27,3,2,42,20,0,0,2,126,35,17,67.3,Matches,bochum
+Cristian Gamboa,cr CRC,DF,31.0,19.1,6,0,0,21,11,2,32,32,36,0,0,0,153,20,9,69.0,Matches,bochum
+Takuma Asano,jp JPN,"FW,MF",26.0,17.9,1,0,0,17,27,18,34,7,6,0,0,0,86,15,42,26.3,Matches,bochum
+Miloš Pantović,rs SRB,"MF,FW",25.0,17.0,2,0,0,25,32,8,60,18,10,0,1,0,89,11,27,28.9,Matches,bochum
+Erhan Mašović,rs SRB,DF,22.0,17.2,7,0,0,16,7,0,0,34,20,0,0,1,97,24,23,51.1,Matches,bochum
+Maxim Leitsch,de GER,DF,23.0,17.1,2,0,0,9,0,1,5,31,10,0,0,0,148,31,24,56.4,Matches,bochum
+Eduard Löwen,de GER,MF,24.0,15.7,0,0,0,19,11,1,108,9,22,0,1,0,94,18,30,37.5,Matches,bochum
+Kostas Stafylidis,gr GRE,"DF,MF",27.0,15.4,3,1,0,12,19,1,65,31,27,0,0,0,83,24,24,50.0,Matches,bochum
+Vassilis Lambropoulos,gr GRE,DF,31.0,13.0,1,0,0,6,4,0,2,17,12,0,0,1,52,30,16,65.2,Matches,bochum
+Christopher Antwi-Adjei,gh GHA,"FW,MF",27.0,12.6,2,0,0,15,29,11,29,1,18,1,0,0,52,11,40,21.6,Matches,bochum
+Herbert Bockhorn,de GER,DF,26.0,9.4,1,0,0,7,21,0,27,14,14,0,0,0,66,10,15,40.0,Matches,bochum
+Patrick Osterhage,de GER,MF,21.0,6.7,2,0,0,5,7,0,9,11,6,0,0,0,48,14,13,51.9,Matches,bochum
+Simon Zoller,de GER,FW,30.0,6.6,3,0,0,12,5,3,10,4,2,0,0,0,22,6,4,60.0,Matches,bochum
+Robert Tesche,de GER,MF,34.0,3.9,2,1,0,5,1,1,2,5,4,0,2,0,23,3,6,33.3,Matches,bochum
+Jürgen Locadia,nl NED,"FW,MF",27.0,4.9,0,0,0,10,9,4,0,1,2,0,0,0,14,7,12,36.8,Matches,bochum
+Michael Esser,de GER,GK,33.0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,100.0,Matches,bochum
+Danny Blum,de GER,FW,30.0,3.8,0,0,0,3,3,0,31,2,1,0,0,0,23,14,11,56.0,Matches,bochum
+Silvère Ganvoula M'Boussy,cg CGO,FW,25.0,1.7,0,0,0,2,1,6,0,0,0,0,0,0,5,22,8,73.3,Matches,bochum
+Soma Novothny,hu HUN,"FW,MF",27.0,0.9,0,0,0,2,2,0,0,0,1,1,0,0,2,2,7,22.2,Matches,bochum
+Tarsis Bonga,de GER,"MF,FW",24.0,0.2,0,0,0,0,0,0,1,0,0,0,0,0,3,1,1,50.0,Matches,bochum
+Saulo Decarli,ch SUI,DF,29.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches,bochum
+Reece Oxford,eng ENG,DF,22.0,29.9,9,0,0,28,21,1,0,72,14,0,1,0,167,86,51,62.8,Matches,augsburg
+Jeffrey Gouweleeuw,nl NED,DF,30.0,28.6,9,0,0,32,8,0,6,49,27,0,2,0,188,43,47,47.8,Matches,augsburg
+Niklas Dorsch,de GER,MF,23.0,25.8,8,0,0,53,48,0,20,35,47,0,0,0,240,16,17,48.5,Matches,augsburg
+Robert Gumny,pl POL,DF,23.0,25.2,3,0,0,27,27,0,28,28,29,0,0,0,130,36,24,60.0,Matches,augsburg
+Iago,br BRA,DF,24.0,24.2,3,0,0,18,16,4,92,27,29,0,0,1,135,24,24,50.0,Matches,augsburg
+Ruben Vargas,ch SUI,"MF,FW",22.0,22.0,4,0,0,33,27,12,42,16,21,0,0,0,141,11,34,24.4,Matches,augsburg
+André Hahn,de GER,"MF,FW",30.0,23.3,5,0,0,56,18,17,41,15,20,1,0,0,73,58,71,45.0,Matches,augsburg
+Daniel Caligiuri,it ITA,"DF,MF",33.0,22.3,4,0,0,32,43,0,109,18,30,1,0,0,173,30,26,53.6,Matches,augsburg
+Arne Maier,de GER,MF,22.0,20.7,0,0,0,11,14,1,97,15,13,0,0,0,127,16,25,39.0,Matches,augsburg
+Michael Gregoritsch,at AUT,"FW,MF",27.0,15.5,3,0,0,17,13,5,10,6,8,0,0,0,58,79,48,62.2,Matches,augsburg
+Mads Pedersen,dk DEN,"MF,DF",24.0,15.5,5,0,0,24,30,3,48,15,21,0,1,0,87,6,13,31.6,Matches,augsburg
+Florian Niederlechner,de GER,FW,30.0,12.9,1,0,0,14,25,9,5,4,5,2,0,1,34,21,45,31.8,Matches,augsburg
+Andi Zeqiri,ch SUI,"FW,MF",22.0,11.3,2,0,0,20,15,12,7,2,7,0,0,0,38,11,36,23.4,Matches,augsburg
+Carlos Gruezo,ec ECU,MF,26.0,10.8,7,0,0,28,4,0,4,9,11,0,0,0,70,10,14,41.7,Matches,augsburg
+Raphael Framberger,de GER,DF,25.0,9.4,3,0,0,17,8,0,36,9,19,0,1,0,44,9,12,42.9,Matches,augsburg
+Ohis Felix Uduokhai,de GER,DF,23.0,8.7,1,0,0,6,7,0,4,9,6,0,0,0,42,23,12,65.7,Matches,augsburg
+Jan Morávek,cz CZE,MF,31.0,5.2,1,0,0,5,2,0,2,6,6,0,0,0,32,9,13,40.9,Matches,augsburg
+Ricardo Pepi,us USA,"FW,MF",18.0,5.3,0,0,0,1,4,3,2,3,2,0,0,0,11,8,20,28.6,Matches,augsburg
+Tobias Strobl,de GER,"MF,DF",31.0,3.6,1,0,0,6,2,0,2,7,3,0,0,0,24,7,4,63.6,Matches,augsburg
+Frederik Winther,dk DEN,DF,20.0,3.6,1,0,0,1,0,0,1,8,2,0,0,0,17,10,11,47.6,Matches,augsburg
+Alfreð Finnbogason,is ISL,FW,32.0,3.2,0,0,0,3,1,1,2,2,1,0,0,0,9,4,4,50.0,Matches,augsburg
+Fredrik Jensen,fi FIN,"MF,FW",23.0,4.6,0,0,0,2,3,0,18,2,4,0,0,0,10,7,14,33.3,Matches,augsburg
+Sergio Córdova,ve VEN,"FW,MF",23.0,3.6,2,0,0,5,11,5,3,0,3,0,0,0,11,14,22,38.9,Matches,augsburg
+Noah Joel Sarenren Bazee,ng NGA,"MF,FW",24.0,2.7,1,0,0,6,3,0,10,1,2,0,0,0,12,8,14,36.4,Matches,augsburg
+Konstantinos Mavropanos,gr GRE,DF,23.0,30.1,3,0,0,22,20,2,7,69,39,0,3,0,214,91,27,77.1,Matches,stuttgart
+Florian Müller,de GER,GK,23.0,30.0,0,0,0,0,3,0,0,0,0,0,0,0,60,7,0,100.0,Matches,stuttgart
+Waldemar Anton,de GER,DF,25.0,28.8,6,1,0,29,16,1,11,32,26,0,0,0,208,62,52,54.4,Matches,stuttgart
+Borna Sosa,hr CRO,"DF,FW",23.0,27.8,4,0,0,13,26,0,239,26,12,0,0,0,149,20,19,51.3,Matches,stuttgart
+Hiroki Ito,jp JPN,DF,22.0,26.1,2,0,0,21,9,0,21,53,31,0,0,1,170,40,37,51.9,Matches,stuttgart
+Atakan Karazor,de GER,MF,24.0,21.1,9,1,1,38,39,0,3,34,24,0,0,0,142,57,32,64.0,Matches,stuttgart
+Orel Mangala,be BEL,MF,23.0,20.6,4,0,0,26,27,0,9,12,10,0,0,0,110,10,19,34.5,Matches,stuttgart
+Chris Führich,de GER,"FW,MF",23.0,19.0,3,0,0,9,19,2,61,8,16,0,0,0,107,3,12,20.0,Matches,stuttgart
+Omar Marmoush,eg EGY,FW,22.0,17.5,3,0,0,33,57,7,44,7,17,0,0,0,81,28,31,47.5,Matches,stuttgart
+Sasa Kalajdzic,at AUT,FW,24.0,13.6,2,0,0,11,18,2,2,2,6,0,0,0,37,62,37,62.6,Matches,stuttgart
+Tiago Tomás,pt POR,FW,19.0,11.9,2,0,0,6,25,7,18,4,4,1,0,0,42,6,20,23.1,Matches,stuttgart
+Tanguy Coulibaly,fr FRA,"FW,MF",20.0,12.0,8,0,0,24,14,6,14,4,15,0,0,0,57,8,14,36.4,Matches,stuttgart
+Philipp Förster,de GER,"MF,FW",26.0,10.7,4,0,0,15,9,2,8,3,13,0,0,0,58,10,11,47.6,Matches,stuttgart
+Roberto Massimo,de GER,"DF,FW",20.0,9.7,0,0,0,8,4,4,17,3,5,0,0,0,44,4,9,30.8,Matches,stuttgart
+Marc-Oliver Kempf,de GER,DF,26.0,9.3,2,0,0,13,8,0,2,16,8,0,1,0,62,29,18,61.7,Matches,stuttgart
+Pascal Stenzel,de GER,DF,25.0,10.0,1,0,0,13,4,0,18,11,11,0,0,0,84,13,12,52.0,Matches,stuttgart
+Mateo Klimowicz,de GER,"MF,FW",21.0,6.7,2,0,0,9,9,1,2,4,6,0,0,0,21,2,4,33.3,Matches,stuttgart
+Hamadi Al Ghaddioui,ma MAR,FW,30.0,5.5,2,0,0,13,6,3,1,0,4,0,0,0,10,16,19,45.7,Matches,stuttgart
+Nikolas Nartey,dk DEN,"MF,DF",21.0,4.5,1,0,0,11,5,1,6,7,3,0,0,0,23,10,2,83.3,Matches,stuttgart
+Fabian Bredlow,de GER,GK,26.0,4.0,0,0,0,0,2,0,0,0,0,0,0,0,5,1,1,50.0,Matches,stuttgart
+Philipp Klement,de GER,MF,28.0,3.8,0,0,0,2,1,1,12,1,3,0,0,0,26,1,6,14.3,Matches,stuttgart
+Silas Katompa,cd COD,"FW,MF",22.0,3.1,0,0,0,3,7,3,7,2,4,0,0,0,20,2,4,33.3,Matches,stuttgart
+Alexis Tibidi,fr FRA,"MF,FW",17.0,4.3,1,0,0,11,12,4,3,3,3,0,0,0,16,7,6,53.8,Matches,stuttgart
+Daniel Didavi,de GER,"MF,FW",31.0,3.1,1,0,0,3,7,2,9,1,2,0,0,0,15,4,2,66.7,Matches,stuttgart
+Erik Thommy,de GER,"FW,MF",26.0,3.0,0,0,0,2,6,2,23,4,0,0,0,0,12,2,4,33.3,Matches,stuttgart
+Clinton Mola,eng ENG,DF,20.0,1.3,0,0,0,0,0,0,1,3,1,0,0,0,4,5,4,55.6,Matches,stuttgart
+Wahidullah Faghir,dk DEN,FW,18.0,1.4,0,0,0,0,3,2,0,0,0,0,0,0,2,4,4,50.0,Matches,stuttgart
+Ömer Faruk Beyaz,tr TUR,"DF,MF",17.0,0.8,0,0,0,0,0,0,2,2,3,0,0,0,5,0,1,0.0,Matches,stuttgart
+Naouirou Ahamada,fr FRA,"MF,DF",19.0,0.7,0,0,0,2,1,0,0,0,0,0,0,0,4,1,3,25.0,Matches,stuttgart
+Enzo Millot,fr FRA,MF,19.0,0.6,0,0,0,2,1,0,3,1,0,0,0,0,4,4,1,80.0,Matches,stuttgart
+Lilian Egloff,de GER,"MF,DF",18.0,0.3,0,0,0,2,0,0,0,0,0,0,0,0,2,1,2,33.3,Matches,stuttgart
+Matej Maglica,hr CRO,MF,22.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches,stuttgart
+Suat Serdar,de GER,"MF,FW",24.0,24.6,6,0,0,37,47,2,6,20,30,0,0,0,153,19,24,44.2,Matches,hertha bsc
+Peter Pekarík,sk SVK,DF,34.0,24.8,1,0,0,25,18,1,59,29,29,0,0,0,133,28,20,58.3,Matches,hertha bsc
+Alexander Schwolow,de GER,GK,29.0,24.2,1,0,0,2,1,0,0,2,0,0,1,0,25,6,0,100.0,Matches,hertha bsc
+Vladimír Darida,cz CZE,MF,30.0,19.8,6,0,0,22,33,4,64,20,18,0,0,0,137,15,31,32.6,Matches,hertha bsc
+Niklas Stark,de GER,DF,26.0,22.6,3,0,0,19,20,1,0,36,16,0,1,0,115,49,33,59.8,Matches,hertha bsc
+Lucas Tousart,fr FRA,MF,24.0,21.8,3,0,0,32,24,1,16,35,25,0,0,0,132,39,45,46.4,Matches,hertha bsc
+Dedryck Boyata,be BEL,DF,30.0,21.1,1,1,0,11,6,3,0,17,13,1,0,0,93,52,32,61.9,Matches,hertha bsc
+Marco Richter,de GER,"FW,MF",23.0,18.9,6,0,0,30,45,5,57,16,16,0,0,0,95,9,33,21.4,Matches,hertha bsc
+Marvin Plattenhardt,de GER,DF,29.0,18.2,3,0,0,14,21,0,123,17,11,0,1,0,102,16,14,53.3,Matches,hertha bsc
+Ishak Belfodil,dz ALG,FW,29.0,18.2,1,0,0,19,11,27,12,5,6,1,0,0,43,38,43,46.9,Matches,hertha bsc
+Maximilian Mittelstädt,de GER,"DF,FW",24.0,16.6,3,0,0,20,36,1,85,46,33,0,1,0,112,23,27,46.0,Matches,hertha bsc
+Stevan Jovetić,me MNE,"FW,MF",31.0,11.3,3,0,0,8,17,7,9,1,2,0,0,0,38,20,20,50.0,Matches,hertha bsc
+Marc-Oliver Kempf,de GER,DF,26.0,11.7,1,1,0,15,12,0,2,25,9,0,2,0,56,36,22,62.1,Matches,hertha bsc
+Davie Selke,de GER,FW,26.0,11.2,2,0,0,31,21,5,6,1,4,0,0,0,21,58,60,49.2,Matches,hertha bsc
+Marcel Lotka,pl POL,GK,20.0,9.8,1,0,0,0,5,0,0,1,0,0,0,0,13,6,1,85.7,Matches,hertha bsc
+Myziane Maolida,fr FRA,"FW,MF",22.0,8.6,0,0,0,10,6,3,7,1,4,0,0,0,43,8,12,40.0,Matches,hertha bsc
+Márton Dárdai,de GER,DF,19.0,8.4,2,0,0,10,6,0,8,20,4,0,0,0,33,12,11,52.2,Matches,hertha bsc
+Kevin-Prince Boateng,gh GHA,"MF,FW",34.0,7.7,8,0,0,21,21,1,5,6,5,0,0,0,44,26,17,60.5,Matches,hertha bsc
+Jurgen Ekkelenkamp,nl NED,"MF,FW",21.0,8.0,1,0,0,11,5,0,3,4,3,0,0,0,48,9,17,34.6,Matches,hertha bsc
+Linus Gechter,de GER,DF,17.0,8.0,0,0,0,6,0,0,2,11,8,0,1,0,44,8,14,36.4,Matches,hertha bsc
+Deyovaisio Zeefuik,nl NED,DF,23.0,6.3,1,0,0,4,8,1,11,11,10,0,1,0,37,9,11,45.0,Matches,hertha bsc
+Jordan Torunarigha,de GER,DF,23.0,5.4,1,0,0,4,4,1,1,17,1,0,0,0,27,15,5,75.0,Matches,hertha bsc
+Krzysztof Piątek,pl POL,FW,26.0,3.9,0,0,0,10,6,6,3,0,2,0,0,0,5,12,23,34.3,Matches,hertha bsc
+Fredrik André Bjørkan,no NOR,DF,22.0,3.9,1,0,0,3,3,0,5,6,10,0,0,0,29,1,5,16.7,Matches,hertha bsc
+Lukas Klünter,de GER,DF,25.0,2.2,1,0,0,5,2,0,4,2,1,0,0,0,12,2,2,50.0,Matches,hertha bsc
+Dodi Lukebakio,be BEL,FW,23.0,2.0,0,0,0,4,5,1,1,2,1,1,0,0,7,1,3,25.0,Matches,hertha bsc
+Dennis Jastrzembski,pl POL,"DF,FW",21.0,2.5,1,0,0,3,3,0,8,5,1,0,0,0,15,4,1,80.0,Matches,hertha bsc
+Javairô Dilrosun,nl NED,FW,23.0,1.5,0,0,0,3,2,0,1,0,1,0,0,0,14,0,2,0.0,Matches,hertha bsc
+Lee Dongjun,kr KOR,"MF,FW",24.0,1.3,0,0,0,3,3,1,2,2,1,0,0,0,3,0,2,0.0,Matches,hertha bsc
+Matheus Cunha,br BRA,FW,22.0,0.7,0,0,0,1,3,0,0,0,0,0,0,0,1,0,1,0.0,Matches,hertha bsc
+Julian Eitschberger,de GER,DF,17.0,0.5,0,0,0,0,2,0,0,2,0,0,0,0,4,0,1,0.0,Matches,hertha bsc
+Anton Kade,de GER,"FW,MF",17.0,0.9,0,0,0,2,2,0,2,3,2,0,0,0,4,2,1,66.7,Matches,hertha bsc
+Marten Winkler,de GER,MF,18.0,0.3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,,Matches,hertha bsc
+Cimo Röcker,de GER,DF,27.0,0.2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0.0,Matches,hertha bsc
+Joakim Nilsson,se SWE,DF,27.0,30.4,5,0,0,32,16,2,3,56,19,0,0,0,148,79,63,55.6,Matches,arminia
+Masaya Okugawa,jp JPN,"MF,FW",25.0,28.1,0,0,0,24,22,12,14,20,25,0,0,0,114,22,56,28.2,Matches,arminia
+Alessandro Schöpf,at AUT,MF,27.0,26.6,3,1,1,27,41,1,58,30,22,1,0,0,209,22,32,40.7,Matches,arminia
+Amos Pieper,de GER,DF,23.0,26.4,2,0,0,12,15,0,3,50,29,0,0,0,131,57,50,53.3,Matches,arminia
+Patrick Wimmer,at AUT,"FW,MF",20.0,22.8,7,0,0,49,38,5,96,27,31,1,1,0,167,40,51,44.0,Matches,arminia
+Cédric Brunner,ch SUI,DF,27.0,24.3,6,0,0,35,24,0,70,43,35,0,1,0,157,45,37,54.9,Matches,arminia
+Manuel Prietl,at AUT,MF,29.0,23.6,3,0,0,39,10,0,7,39,26,0,3,0,142,25,27,48.1,Matches,arminia
+Jacob Barrett Laursen,dk DEN,DF,26.0,18.1,1,0,0,12,6,1,54,28,12,0,0,1,99,18,26,40.9,Matches,arminia
+Sebastian Vasiliadis,gr GRE,MF,23.0,13.3,3,0,0,14,5,2,5,25,17,0,0,0,84,17,15,53.1,Matches,arminia
+Janni Serra,de GER,FW,23.0,12.4,1,0,0,16,14,5,1,5,2,0,0,0,36,52,91,36.4,Matches,arminia
+Fabian Klos,de GER,FW,33.0,15.8,2,1,0,30,18,3,11,0,5,0,0,0,38,114,107,51.6,Matches,arminia
+Robin Hack,de GER,"FW,MF",22.0,15.2,2,0,0,17,21,4,34,5,8,0,0,0,73,8,20,28.6,Matches,arminia
+Fabian Kunze,de GER,MF,23.0,14.0,9,0,0,38,21,0,10,19,21,0,0,0,106,37,32,53.6,Matches,arminia
+Florian Krüger,de GER,"FW,MF",22.0,12.5,0,0,0,8,9,4,20,2,1,0,1,0,47,11,18,37.9,Matches,arminia
+Andrés Andrade Cedeño,pa PAN,DF,22.0,11.6,4,0,0,14,2,1,21,19,16,0,1,0,80,28,27,50.9,Matches,arminia
+Guilherme Ramos,pt POR,DF,23.0,10.1,1,0,0,16,5,1,5,27,15,0,0,0,48,31,17,64.6,Matches,arminia
+Bryan Lasme,fr FRA,FW,22.0,9.7,2,0,0,15,12,9,16,1,6,0,0,0,34,33,34,49.3,Matches,arminia
+Nathan de Medina,be BEL,DF,23.0,8.6,2,0,0,14,9,0,5,10,10,0,0,0,43,8,14,36.4,Matches,arminia
+Gonzalo Castro,de GER,"MF,FW",34.0,4.8,0,0,0,7,4,2,21,3,3,0,0,0,26,3,2,60.0,Matches,arminia
+George Bello,us USA,DF,19.0,4.8,0,0,0,4,6,1,11,6,7,0,0,1,26,0,8,0.0,Matches,arminia
+Edimilson Fernandes,ch SUI,"MF,FW",25.0,3.1,0,0,0,3,1,0,14,2,0,0,0,0,23,5,3,62.5,Matches,arminia
+Burak İnce,tr TUR,FW,17.0,1.5,0,0,0,2,4,1,3,0,1,0,0,0,6,0,1,0.0,Matches,arminia
+Lennart-Marten Czyborra,de GER,DF,22.0,1.5,1,0,0,5,0,0,5,3,0,0,0,0,5,0,1,0.0,Matches,arminia
+Stefanos Kapino,gr GRE,GK,27.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0.0,Matches,arminia
+Sebastian Griesbeck,de GER,"DF,MF",30.0,27.1,7,0,0,32,16,0,1,43,31,0,1,2,148,56,43,56.6,Matches,greuther furth
+Marco Meyerhöfer,de GER,DF,25.0,25.3,0,0,0,16,25,1,43,47,35,0,1,1,141,23,24,48.9,Matches,greuther furth
+Nick Viergever,nl NED,DF,31.0,23.7,2,0,0,14,6,0,1,37,23,0,0,0,133,24,36,40.0,Matches,greuther furth
+Paul Seguin,de GER,MF,26.0,23.4,9,0,0,42,26,0,41,19,31,0,0,0,170,30,27,52.6,Matches,greuther furth
+Timothy Tillman,de GER,MF,22.0,22.3,3,0,0,37,42,1,67,12,26,0,1,0,136,10,28,26.3,Matches,greuther furth
+Max Christiansen,de GER,MF,24.0,22.8,5,0,0,20,19,1,3,68,25,0,0,0,179,41,39,51.3,Matches,greuther furth
+Jamie Leweling,de GER,"FW,MF",20.0,21.8,3,0,0,17,49,17,40,13,8,1,0,0,77,14,50,21.9,Matches,greuther furth
+Jetro Willems,nl NED,DF,27.0,17.8,5,0,0,14,11,0,40,14,15,0,0,0,119,19,16,54.3,Matches,greuther furth
+Maximilian Bauer,de GER,DF,21.0,18.8,5,0,0,26,10,1,1,29,15,0,1,1,90,49,36,57.6,Matches,greuther furth
+Gian-Luca Itter,de GER,DF,22.0,16.2,3,0,0,18,5,0,49,13,26,0,0,0,92,17,21,44.7,Matches,greuther furth
+Jeremy Dudziak,tn TUN,"MF,FW",25.0,12.6,1,0,0,11,24,3,34,10,6,2,0,0,55,9,19,32.1,Matches,greuther furth
+Håvard Nielsen,no NOR,"MF,FW",28.0,15.2,2,0,0,27,24,10,3,7,12,0,0,0,50,58,57,50.4,Matches,greuther furth
+Sascha Burchert,de GER,GK,31.0,14.0,0,0,0,0,2,0,0,0,1,0,0,0,13,2,0,100.0,Matches,greuther furth
+Andreas Linde,se SWE,GK,28.0,12.0,0,0,0,0,1,0,0,1,0,0,0,0,19,4,0,100.0,Matches,greuther furth
+Julian Green,us USA,MF,26.0,11.7,2,0,0,13,38,0,57,7,5,0,0,0,64,5,18,21.7,Matches,greuther furth
+Simon Asta,de GER,DF,20.0,8.7,1,0,0,13,9,2,16,8,6,0,0,1,50,4,5,44.4,Matches,greuther furth
+Marius Funk,de GER,GK,25.0,8.0,0,0,0,1,1,0,0,0,0,0,1,0,19,3,0,100.0,Matches,greuther furth
+Hans Nunoo Sarpei,gh GHA,"DF,MF",22.0,7.1,2,0,0,7,16,0,0,14,11,0,0,0,43,10,11,47.6,Matches,greuther furth
+Cedric Itten,ch SUI,FW,24.0,7.1,1,0,0,19,6,3,5,2,2,0,0,0,10,31,48,39.2,Matches,greuther furth
+Tobias Raschl,de GER,MF,21.0,6.6,0,0,0,7,8,1,1,3,9,0,1,0,47,1,4,20.0,Matches,greuther furth
+Dickson Abiama,ng NGA,FW,22.0,8.1,3,0,0,17,11,15,3,4,7,0,0,0,28,19,30,38.8,Matches,greuther furth
+Jessic Ngankam,de GER,FW,21.0,3.8,0,0,0,12,5,1,0,0,1,0,0,0,10,7,10,41.2,Matches,greuther furth
+Justin Hoogma,nl NED,DF,23.0,3.0,1,0,0,4,0,0,0,4,5,0,0,0,11,10,3,76.9,Matches,greuther furth
+Abdourahmane Barry,fr FRA,DF,21.0,2.3,2,0,0,9,3,0,7,4,4,0,0,0,18,4,1,80.0,Matches,greuther furth
+Gideon Jung,de GER,DF,26.0,1.6,0,0,0,0,4,0,0,2,1,0,0,0,6,0,4,0.0,Matches,greuther furth
+Nils Seufert,de GER,MF,24.0,1.1,0,0,0,0,1,0,0,0,2,0,0,0,9,0,0,,Matches,greuther furth
+Afimico Pululu,fr FRA,"FW,MF",22.0,0.8,0,0,0,4,8,1,1,0,0,0,0,0,2,2,6,25.0,Matches,greuther furth

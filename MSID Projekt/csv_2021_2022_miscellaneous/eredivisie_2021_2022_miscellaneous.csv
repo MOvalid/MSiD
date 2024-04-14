@@ -1,0 +1,498 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches,club
+Daley Blind,nl NED,DF,31.0,31.2,2,0,0,14,20,2,73,44,25,0.0,0.0,0,220.0,51.0,37.0,58.0,Matches,ajax
+Sébastien Haller,ci CIV,FW,27.0,28.5,4,0,0,29,33,11,6,2,7,1.0,0.0,0,91.0,114.0,65.0,63.7,Matches,ajax
+Jurriën Timber,nl NED,DF,20.0,28.3,0,0,0,26,33,0,4,50,42,1.0,0.0,0,259.0,46.0,30.0,60.5,Matches,ajax
+Steven Berghuis,nl NED,"MF,FW",29.0,26.5,0,0,0,14,24,4,144,9,18,1.0,0.0,0,150.0,10.0,10.0,50.0,Matches,ajax
+Edson Álvarez,mx MEX,MF,23.0,25.9,5,0,0,28,15,2,3,43,40,0.0,0.0,0,209.0,102.0,51.0,66.7,Matches,ajax
+Ryan Gravenberch,nl NED,MF,19.0,24.5,4,0,0,26,24,1,40,19,25,0.0,0.0,0,144.0,35.0,19.0,64.8,Matches,ajax
+Noussair Mazraoui,ma MAR,DF,23.0,21.7,2,0,0,21,23,4,59,19,33,0.0,0.0,0,147.0,44.0,26.0,62.9,Matches,ajax
+Lisandro Martínez,ar ARG,DF,23.0,21.2,4,0,0,18,12,0,6,46,29,0.0,0.0,0,198.0,80.0,32.0,71.4,Matches,ajax
+Antony,br BRA,FW,21.0,19.2,5,1,1,20,29,6,101,12,11,1.0,0.0,0,101.0,18.0,11.0,62.1,Matches,ajax
+Remko Pasveer,nl NED,GK,37.0,20.0,0,0,0,0,0,0,0,0,1,0.0,0.0,0,30.0,0.0,0.0,,Matches,ajax
+Davy Klaassen,nl NED,MF,28.0,20.0,4,0,0,17,8,7,4,14,17,0.0,0.0,0,100.0,19.0,16.0,54.3,Matches,ajax
+Perr Schuurs,nl NED,DF,21.0,11.6,0,0,0,3,8,1,1,12,9,0.0,0.0,0,100.0,25.0,25.0,50.0,Matches,ajax
+Nicolás Tagliafico,ar ARG,DF,28.0,10.4,0,0,0,10,12,0,31,10,17,0.0,0.0,0,71.0,17.0,13.0,56.7,Matches,ajax
+Devyne Rensch,nl NED,DF,18.0,8.9,1,0,0,7,5,2,5,18,17,1.0,0.0,0,66.0,7.0,8.0,46.7,Matches,ajax
+Maarten Stekelenburg,nl NED,GK,38.0,7.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,7.0,1.0,0.0,100.0,Matches,ajax
+André Onana,cm CMR,GK,25.0,6.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,8.0,0.0,0.0,,Matches,ajax
+Kenneth Taylor,nl NED,MF,19.0,6.5,0,0,0,14,11,0,7,4,8,1.0,0.0,0,48.0,6.0,5.0,54.5,Matches,ajax
+Kudus Mohammed,gh GHA,MF,20.0,4.7,0,0,0,3,11,3,1,2,7,0.0,0.0,0,51.0,4.0,7.0,36.4,Matches,ajax
+Brian Brobbey,nl NED,FW,19.0,4.4,1,0,0,7,10,6,0,2,7,0.0,0.0,0,13.0,8.0,10.0,44.4,Matches,ajax
+David Neres,br BRA,FW,24.0,5.3,1,0,0,2,5,7,21,1,7,0.0,0.0,0,33.0,1.0,5.0,16.7,Matches,ajax
+Youri Regeer,nl NED,DF,17.0,1.7,0,0,0,0,2,0,1,4,2,0.0,0.0,0,6.0,1.0,0.0,100.0,Matches,ajax
+Danilo,br BRA,"FW,MF",22.0,3.1,0,0,0,1,2,0,1,2,1,1.0,0.0,0,17.0,5.0,12.0,29.4,Matches,ajax
+Jay Gorter,nl NED,GK,21.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,,Matches,ajax
+Mohammed Daramy,dk DEN,"FW,MF",19.0,2.3,0,0,0,0,3,0,9,0,1,0.0,0.0,0,10.0,0.0,1.0,0.0,Matches,ajax
+Liam van Gelderen,nl NED,DF,20.0,0.6,0,0,0,1,1,0,1,2,1,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches,ajax
+Zakaria Labyad,ma MAR,MF,28.0,0.3,0,0,0,0,1,0,0,1,0,0.0,0.0,0,4.0,0.0,0.0,,Matches,ajax
+Anass Salah-Eddine,nl NED,DF,19.0,0.3,0,0,0,0,0,0,1,0,1,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches,ajax
+Victor Jensen,dk DEN,MF,21.0,0.2,0,0,0,1,0,0,0,0,1,0.0,0.0,0,2.0,0.0,0.0,,Matches,ajax
+Olivier Boscagli,fr FRA,"DF,MF",23.0,26.2,2,0,0,16,17,0,10,69,25,0.0,0.0,0,272.0,48.0,32.0,60.0,Matches,psv eindhoven
+Joel Drommel,nl NED,GK,24.0,26.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,32.0,6.0,1.0,85.7,Matches,psv eindhoven
+Mario Götze,de GER,MF,29.0,24.6,4,0,0,23,29,4,35,7,21,0.0,0.0,0,127.0,7.0,11.0,38.9,Matches,psv eindhoven
+Mauro Júnior,br BRA,DF,22.0,23.5,3,0,0,20,17,2,77,30,47,0.0,1.0,0,186.0,26.0,21.0,55.3,Matches,psv eindhoven
+Jordan Teze,nl NED,DF,21.0,22.7,4,0,0,11,7,0,24,22,12,0.0,0.0,0,166.0,28.0,11.0,71.8,Matches,psv eindhoven
+Cody Gakpo,nl NED,FW,22.0,21.2,1,0,0,15,32,10,140,16,9,0.0,0.0,0,97.0,24.0,34.0,41.4,Matches,psv eindhoven
+Philipp Max,de GER,DF,27.0,20.0,4,0,0,14,11,3,92,19,29,0.0,0.0,0,135.0,20.0,20.0,50.0,Matches,psv eindhoven
+Eran Zahavi,il ISR,FW,34.0,16.8,0,0,0,11,6,9,3,0,3,0.0,0.0,1,46.0,13.0,27.0,32.5,Matches,psv eindhoven
+Erick Gutiérrez,mx MEX,"MF,DF",26.0,19.3,3,0,0,24,17,2,1,37,31,0.0,0.0,0,132.0,38.0,26.0,59.4,Matches,psv eindhoven
+André Ramalho,br BRA,DF,29.0,18.8,4,0,0,14,9,0,7,27,15,0.0,0.0,1,158.0,47.0,37.0,56.0,Matches,psv eindhoven
+Ritsu Doan,jp JPN,"FW,MF",23.0,16.8,0,0,0,19,36,4,29,8,30,0.0,0.0,0,77.0,6.0,11.0,35.3,Matches,psv eindhoven
+Phillipp Mwene,at AUT,DF,27.0,15.7,0,0,0,17,14,0,49,29,25,1.0,0.0,0,99.0,13.0,17.0,43.3,Matches,psv eindhoven
+Marco van Ginkel,nl NED,MF,28.0,11.0,3,0,0,18,17,0,3,11,14,0.0,0.0,0,65.0,38.0,12.0,76.0,Matches,psv eindhoven
+Bruma,pt POR,"FW,MF",26.0,14.1,1,0,0,4,12,5,19,5,6,0.0,0.0,0,70.0,6.0,12.0,33.3,Matches,psv eindhoven
+Joey Veerman,nl NED,"MF,FW",22.0,11.5,0,0,0,4,6,0,52,16,17,0.0,0.0,0,85.0,9.0,8.0,52.9,Matches,psv eindhoven
+Noni Madueke,eng ENG,FW,19.0,9.1,0,0,0,8,10,0,17,5,10,0.0,0.0,0,49.0,5.0,1.0,83.3,Matches,psv eindhoven
+Carlos Vinícius,br BRA,FW,26.0,12.3,5,0,0,13,10,10,4,2,4,0.0,0.0,0,28.0,20.0,31.0,39.2,Matches,psv eindhoven
+Armando Obispo,nl NED,DF,22.0,11.8,4,0,0,7,6,0,1,24,9,0.0,0.0,0,57.0,39.0,10.0,79.6,Matches,psv eindhoven
+Yvon Mvogo,ch SUI,GK,27.0,8.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,10.0,2.0,0.0,100.0,Matches,psv eindhoven
+Yorbe Vertessen,be BEL,"FW,MF",20.0,8.9,0,0,0,4,16,1,6,8,8,0.0,0.0,0,44.0,15.0,16.0,48.4,Matches,psv eindhoven
+Davy Pröpper,nl NED,MF,29.0,3.2,0,0,0,4,0,0,2,7,5,0.0,0.0,0,26.0,7.0,5.0,58.3,Matches,psv eindhoven
+Ryan Thomas,nz NZL,"MF,FW",26.0,2.2,0,0,0,2,1,0,13,8,5,0.0,0.0,0,14.0,3.0,1.0,75.0,Matches,psv eindhoven
+Maximiliano Romero,ar ARG,FW,22.0,1.9,0,0,0,1,2,1,4,0,0,0.0,0.0,0,10.0,3.0,7.0,30.0,Matches,psv eindhoven
+Dennis Vos,nl NED,DF,19.0,0.5,0,0,0,0,0,0,0,0,2,0.0,0.0,0,5.0,0.0,0.0,,Matches,psv eindhoven
+Richy Ledezma,us USA,"MF,FW",20.0,0.4,0,0,0,1,3,0,0,1,0,0.0,0.0,0,6.0,0.0,0.0,,Matches,psv eindhoven
+Johan Bakayoko,be BEL,FW,18.0,0.4,0,0,0,0,1,0,1,0,0,0.0,0.0,0,1.0,1.0,0.0,100.0,Matches,psv eindhoven
+Jenson Seelt,nl NED,DF,18.0,0.2,0,0,0,0,0,0,0,0,1,0.0,0.0,0,1.0,0.0,0.0,,Matches,psv eindhoven
+Fredrik Oppegard,no NOR,DF,18.0,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches,psv eindhoven
+Orkun Kökçü,tr TUR,MF,20.0,29.2,5,0,0,23,38,1,181,15,28,0.0,0.0,0,219.0,16.0,33.0,32.7,Matches,feyenoord
+Guus Til,nl NED,MF,23.0,28.6,2,0,0,34,30,6,19,15,24,1.0,0.0,0,103.0,39.0,34.0,53.4,Matches,feyenoord
+Marcos Senesi,ar ARG,DF,24.0,28.3,4,0,0,26,15,0,9,52,40,0.0,0.0,1,251.0,81.0,38.0,68.1,Matches,feyenoord
+Gernot Trauner,at AUT,DF,29.0,29.2,0,0,0,19,11,0,1,42,33,0.0,0.0,0,227.0,115.0,49.0,70.1,Matches,feyenoord
+Luis Sinisterra,co COL,FW,22.0,26.7,1,0,0,23,43,10,18,17,28,0.0,0.0,0,162.0,56.0,51.0,52.3,Matches,feyenoord
+Fredrik Aursnes,no NOR,MF,25.0,27.6,6,0,0,16,18,1,54,35,34,0.0,0.0,0,263.0,45.0,34.0,57.0,Matches,feyenoord
+Bryan Linssen,nl NED,FW,30.0,24.0,3,0,0,45,10,21,23,10,13,0.0,0.0,0,52.0,35.0,50.0,41.2,Matches,feyenoord
+Marcus Pedersen,no NOR,DF,21.0,22.0,1,0,0,10,6,3,86,19,13,0.0,0.0,0,140.0,4.0,16.0,20.0,Matches,feyenoord
+Justin Bijlow,nl NED,GK,23.0,22.0,0,0,0,0,4,0,0,1,0,0.0,0.0,0,41.0,2.0,0.0,100.0,Matches,feyenoord
+Jens Toornstra,nl NED,"MF,FW",32.0,19.9,4,0,0,22,7,3,71,27,17,0.0,0.0,0,137.0,5.0,22.0,18.5,Matches,feyenoord
+Lutsharel Geertruida,nl NED,DF,21.0,19.1,3,0,0,9,25,1,6,16,22,0.0,0.0,0,133.0,17.0,15.0,53.1,Matches,feyenoord
+Alireza Jahanbakhsh,ir IRN,FW,27.0,17.3,2,0,0,27,20,4,73,11,21,1.0,0.0,0,99.0,15.0,16.0,48.4,Matches,feyenoord
+Ofir Marciano,il ISR,GK,31.0,12.0,0,0,0,0,0,0,0,1,0,0.0,0.0,0,20.0,2.0,1.0,66.7,Matches,feyenoord
+Reiss Nelson,eng ENG,FW,21.0,10.1,2,0,0,7,10,1,27,5,18,0.0,1.0,0,70.0,3.0,7.0,30.0,Matches,feyenoord
+Cyriel Dessers,ng NGA,FW,26.0,12.0,0,0,0,14,8,15,5,1,2,0.0,0.0,0,21.0,22.0,22.0,50.0,Matches,feyenoord
+Ramon Hendriks,nl NED,DF,20.0,2.7,1,0,0,1,1,1,0,2,2,0.0,0.0,0,12.0,6.0,6.0,50.0,Matches,feyenoord
+Jorrit Hendrix,nl NED,MF,26.0,3.5,1,0,0,3,4,0,3,5,5,0.0,1.0,0,33.0,4.0,5.0,44.4,Matches,feyenoord
+Patrik Wålemark,se SWE,"FW,MF",19.0,4.2,0,0,0,7,14,0,26,2,5,0.0,0.0,0,23.0,4.0,6.0,40.0,Matches,feyenoord
+Cole Bassett,us USA,"MF,DF",20.0,1.0,0,0,0,2,1,0,4,0,0,0.0,0.0,0,3.0,2.0,5.0,28.6,Matches,feyenoord
+Wouter Burger,nl NED,DF,20.0,0.9,1,0,0,1,0,0,0,1,0,0.0,0.0,0,4.0,1.0,3.0,25.0,Matches,feyenoord
+Philippe Sandler,nl NED,DF,24.0,0.6,0,0,0,2,0,0,0,0,0,0.0,0.0,0,6.0,1.0,1.0,50.0,Matches,feyenoord
+Denzel Hall,nl NED,DF,20.0,0.6,0,0,0,1,0,0,2,0,2,0.0,0.0,0,2.0,0.0,0.0,,Matches,feyenoord
+Róbert Boženík,sk SVK,FW,21.0,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0,Matches,feyenoord
+Ridgeciano Haps,sr SUR,FW,28.0,0.2,0,0,0,1,1,0,1,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,feyenoord
+Naoufal Bannis,nl NED,"MF,FW",19.0,0.2,0,0,0,1,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,feyenoord
+Mark Diemers,nl NED,"MF,FW",27.0,0.2,0,0,0,0,1,0,2,0,0,0.0,0.0,0,2.0,0.0,0.0,,Matches,feyenoord
+Aliou Badara Baldé,sn SEN,FW,18.0,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,feyenoord
+João Carlos Teixeira,pt POR,MF,28.0,0.1,0,0,0,0,1,0,0,0,1,0.0,0.0,0,0.0,0.0,0.0,,Matches,feyenoord
+Karim Dermane,tg TOG,MF,17.0,0.1,0,0,0,0,0,0,0,0,1,0.0,0.0,0,2.0,0.0,1.0,0.0,Matches,feyenoord
+Robin Pröpper,nl NED,DF,27.0,31.7,4,0,0,45,21,0,1,40,23,1.0,0.0,2,189.0,118.0,60.0,66.3,Matches,twente
+Ramiz Zerrouki,dz ALG,MF,23.0,28.9,10,1,1,49,26,0,51,49,51,0.0,0.0,0,216.0,56.0,54.0,50.9,Matches,twente
+Ricky van Wolfswinkel,nl NED,FW,32.0,28.4,6,0,0,51,21,11,5,14,12,1.0,0.0,0,78.0,89.0,104.0,46.1,Matches,twente
+Michel Vlap,nl NED,MF,24.0,27.0,2,0,0,29,35,4,11,15,32,2.0,0.0,0,153.0,39.0,39.0,50.0,Matches,twente
+Michal Sadílek,cz CZE,"MF,DF",22.0,28.7,6,1,0,20,27,1,110,50,41,0.0,0.0,0,226.0,52.0,56.0,48.1,Matches,twente
+Dimitris Limnios,gr GRE,FW,23.0,24.2,2,0,0,12,53,6,85,11,13,0.0,0.0,0,134.0,18.0,41.0,30.5,Matches,twente
+Daan Rots,nl NED,FW,20.0,19.0,2,0,0,17,31,5,34,10,19,0.0,0.0,0,101.0,29.0,63.0,31.5,Matches,twente
+Gijs Smal,nl NED,DF,23.0,20.8,1,0,0,12,16,1,66,37,33,0.0,0.0,0,146.0,19.0,24.0,44.2,Matches,twente
+Mees Hilgers,nl NED,DF,20.0,20.2,1,0,0,19,12,2,2,27,45,0.0,1.0,0,122.0,33.0,36.0,47.8,Matches,twente
+Giovanni Troupée,cw CUW,DF,23.0,18.9,1,0,0,19,12,1,11,19,17,0.0,0.0,0,93.0,37.0,17.0,68.5,Matches,twente
+Julio Pleguezuelo,es ESP,DF,24.0,14.8,3,0,0,8,15,0,2,20,10,0.0,0.0,0,97.0,51.0,35.0,59.3,Matches,twente
+Virgil Misidjan,nl NED,FW,28.0,12.6,0,0,0,24,44,5,56,8,8,0.0,0.0,0,91.0,10.0,13.0,43.5,Matches,twente
+Joshua Brenet,nl NED,DF,27.0,11.1,4,0,0,11,5,1,24,10,15,0.0,0.0,0,103.0,20.0,7.0,74.1,Matches,twente
+Jayden Oosterwolde,nl NED,DF,20.0,10.0,2,0,0,15,6,0,31,11,10,1.0,0.0,0,44.0,18.0,10.0,64.3,Matches,twente
+Jesse Bosch,nl NED,MF,21.0,9.7,0,0,0,9,10,0,2,18,10,0.0,0.0,0,80.0,18.0,28.0,39.1,Matches,twente
+Wout Brama,nl NED,MF,34.0,7.1,1,0,0,7,5,0,2,7,3,0.0,0.0,0,34.0,6.0,19.0,24.0,Matches,twente
+Manfred Ugalde,cr CRC,"FW,MF",19.0,7.2,2,0,0,5,25,0,3,1,4,0.0,0.0,0,28.0,29.0,65.0,30.9,Matches,twente
+Václav Černý,cz CZE,FW,23.0,6.0,1,0,0,7,0,1,17,5,6,0.0,0.0,0,38.0,1.0,10.0,9.1,Matches,twente
+Queensy Menig,nl NED,FW,25.0,3.0,2,0,0,2,1,0,2,0,0,0.0,0.0,0,13.0,5.0,4.0,55.6,Matches,twente
+Luka Ilić,rs SRB,"MF,FW",22.0,2.6,2,1,1,3,0,0,3,2,0,0.0,0.0,0,11.0,1.0,7.0,12.5,Matches,twente
+Jeffrey De Lange,nl NED,GK,23.0,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,5.0,0.0,0.0,,Matches,twente
+Luca Everink,nl NED,DF,20.0,1.8,1,0,0,2,4,0,5,3,2,0.0,0.0,0,11.0,5.0,7.0,41.7,Matches,twente
+Max Bruns,nl NED,DF,18.0,1.2,1,0,0,3,0,0,0,1,3,0.0,0.0,0,6.0,6.0,4.0,60.0,Matches,twente
+Casper Staring,nl NED,MF,20.0,1.1,0,0,0,2,0,0,1,1,1,0.0,0.0,0,16.0,3.0,2.0,60.0,Matches,twente
+Denilho Cleonise,nl NED,"FW,MF",19.0,2.1,0,0,0,1,3,1,3,4,0,0.0,0.0,0,20.0,2.0,3.0,40.0,Matches,twente
+Dario Đumić,ba BIH,"DF,MF",29.0,0.2,0,0,0,0,0,0,0,0,1,0.0,0.0,0,0.0,3.0,1.0,75.0,Matches,twente
+Dani de Wit,nl NED,"MF,FW",23.0,31.5,4,0,0,72,37,17,6,28,44,1.0,0.0,0,145.0,113.0,74.0,60.4,Matches,az alkmaar
+Peter Vindahl Jensen,dk DEN,GK,23.0,32.0,1,0,0,0,4,0,0,1,0,0.0,0.0,0,66.0,17.0,0.0,100.0,Matches,az alkmaar
+Vangelis Pavlidis,gr GRE,FW,22.0,27.7,6,0,0,34,30,28,12,12,11,1.0,0.0,0,89.0,112.0,112.0,50.0,Matches,az alkmaar
+Bruno Martins Indi,nl NED,DF,29.0,30.8,4,0,0,27,19,0,11,28,17,0.0,0.0,0,172.0,74.0,49.0,60.2,Matches,az alkmaar
+Owen Wijndal,nl NED,DF,21.0,29.8,7,0,0,25,31,3,101,31,26,0.0,0.0,0,173.0,32.0,37.0,46.4,Matches,az alkmaar
+Yukinari Sugawara,jp JPN,"DF,FW",21.0,29.3,3,0,0,28,12,0,118,26,53,1.0,0.0,0,195.0,23.0,31.0,42.6,Matches,az alkmaar
+Jordy Clasie,nl NED,MF,30.0,26.8,5,1,0,26,18,0,9,43,33,0.0,0.0,0,229.0,18.0,29.0,38.3,Matches,az alkmaar
+Fredrik Midtsjø,no NOR,MF,27.0,25.5,5,0,0,19,27,1,72,42,20,0.0,0.0,0,229.0,18.0,21.0,46.2,Matches,az alkmaar
+Pantelis Hatzidiakos,gr GRE,DF,24.0,23.4,6,0,0,21,9,1,4,22,11,0.0,0.0,0,140.0,53.0,43.0,55.2,Matches,az alkmaar
+Aslak Witry,no NOR,DF,25.0,15.5,0,0,0,10,9,0,34,20,9,0.0,0.0,0,118.0,24.0,32.0,42.9,Matches,az alkmaar
+Albert Guðmundsson,is ISL,FW,24.0,12.1,4,0,0,14,20,2,18,5,3,2.0,0.0,0,58.0,4.0,10.0,28.6,Matches,az alkmaar
+Tijjani Reijnders,nl NED,MF,23.0,14.5,1,0,0,12,12,0,21,22,16,0.0,0.0,0,102.0,11.0,17.0,39.3,Matches,az alkmaar
+Håkon Evjen,no NOR,"FW,MF",21.0,10.1,0,0,0,7,17,2,16,11,24,1.0,0.0,0,78.0,6.0,19.0,24.0,Matches,az alkmaar
+Sam Beukema,nl NED,DF,22.0,11.0,0,0,0,5,4,0,2,20,11,0.0,0.0,0,68.0,37.0,42.0,46.8,Matches,az alkmaar
+Zakaria Aboukhlal,ma MAR,"FW,MF",21.0,9.1,1,0,0,13,13,7,7,6,10,0.0,0.0,0,39.0,16.0,21.0,43.2,Matches,az alkmaar
+Timo Letschert,nl NED,DF,28.0,3.2,1,0,0,1,1,0,1,3,3,0.0,0.0,0,17.0,6.0,4.0,60.0,Matches,az alkmaar
+Hobie Verhulst,nl NED,GK,28.0,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,az alkmaar
+Thijs Oosting,nl NED,"DF,FW",21.0,1.5,0,0,0,2,0,0,2,1,2,0.0,0.0,0,10.0,1.0,2.0,33.3,Matches,az alkmaar
+Teun Koopmeiners,nl NED,MF,23.0,1.3,0,0,0,1,2,0,11,2,2,0.0,0.0,0,17.0,1.0,1.0,50.0,Matches,az alkmaar
+Peer Koopmeiners,nl NED,MF,21.0,0.8,1,0,0,1,0,0,1,1,0,0.0,0.0,0,3.0,2.0,1.0,66.7,Matches,az alkmaar
+Kamal Sowah,gh GHA,"FW,MF",21.0,1.8,0,0,0,4,0,1,2,0,3,0.0,0.0,0,20.0,3.0,11.0,21.4,Matches,az alkmaar
+Yusuf Barasi,tr TUR,FW,18.0,0.6,0,0,0,0,0,0,0,1,0,0.0,0.0,0,3.0,1.0,1.0,50.0,Matches,az alkmaar
+Ernest Poku,nl NED,"FW,MF",17.0,0.5,0,0,0,2,0,0,0,1,3,0.0,0.0,0,3.0,0.0,2.0,0.0,Matches,az alkmaar
+Jelle Duin,nl NED,FW,22.0,0.2,0,0,0,0,2,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,az alkmaar
+Myron van Brederode,nl NED,FW,18.0,0.1,0,0,0,0,1,0,0,0,1,0.0,0.0,0,1.0,0.0,0.0,,Matches,az alkmaar
+Mohamed Taabouni,nl NED,FW,19.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,az alkmaar
+Loïs Openda,be BEL,FW,21.0,29.4,3,1,0,40,64,27,51,6,12,0.0,0.0,0,94.0,34.0,44.0,43.6,Matches,vitesse
+Eli Dasa,il ISR,"DF,MF",28.0,29.1,1,0,0,14,14,2,202,27,19,0.0,0.0,0,166.0,11.0,16.0,40.7,Matches,vitesse
+Danilho Doekhi,nl NED,DF,23.0,28.9,4,1,1,25,16,0,6,39,37,0.0,0.0,0,179.0,128.0,50.0,71.9,Matches,vitesse
+Jacob Rasmussen,dk DEN,DF,24.0,24.3,5,1,0,23,9,0,6,48,29,1.0,1.0,1,169.0,97.0,59.0,62.2,Matches,vitesse
+Maximilian Wittek,de GER,"DF,MF",25.0,24.7,8,0,0,28,36,2,189,32,37,0.0,0.0,0,177.0,21.0,29.0,42.0,Matches,vitesse
+Matúš Bero,sk SVK,MF,25.0,24.2,12,1,1,52,38,1,12,18,21,0.0,1.0,0,180.0,20.0,40.0,33.3,Matches,vitesse
+Riechedly Bazoer,nl NED,DF,24.0,21.8,9,0,0,21,46,0,40,43,18,0.0,1.0,0,201.0,20.0,20.0,50.0,Matches,vitesse
+Markus Schubert,de GER,GK,23.0,19.5,1,0,0,2,2,0,0,0,2,0.0,1.0,0,41.0,9.0,0.0,100.0,Matches,vitesse
+Nikolai Baden Frederiksen,dk DEN,FW,21.0,14.5,2,0,0,19,16,5,9,2,6,0.0,0.0,0,35.0,14.0,34.0,29.2,Matches,vitesse
+Jeroen Houwen,nl NED,GK,25.0,14.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,26.0,1.0,0.0,100.0,Matches,vitesse
+Toni Domgjoni,xk KVX,MF,22.0,11.9,1,0,0,13,7,0,9,11,19,0.0,0.0,0,78.0,9.0,13.0,40.9,Matches,vitesse
+Yann Gboho,fr FRA,"MF,FW",20.0,10.6,0,0,0,13,17,1,4,6,6,0.0,0.0,0,58.0,6.0,18.0,25.0,Matches,vitesse
+Thomas Buitink,nl NED,"FW,MF",21.0,12.8,7,1,0,17,12,3,17,7,16,1.0,0.0,0,53.0,3.0,6.0,33.3,Matches,vitesse
+Tomáš Hájek,cz CZE,DF,29.0,10.1,1,0,0,19,4,2,7,13,15,0.0,1.0,1,58.0,22.0,24.0,47.8,Matches,vitesse
+Daan Huisman,nl NED,"MF,FW",19.0,9.9,1,0,0,10,6,0,14,5,10,0.0,0.0,0,62.0,15.0,20.0,42.9,Matches,vitesse
+Alois Oroz,hr CRO,"DF,MF",20.0,9.0,4,0,0,13,2,0,6,26,8,0.0,0.0,0,55.0,30.0,27.0,52.6,Matches,vitesse
+Million Manhoef,nl NED,"DF,FW",19.0,8.4,1,0,0,14,6,0,16,7,9,0.0,0.0,0,71.0,6.0,9.0,40.0,Matches,vitesse
+Adrian Grbić,at AUT,"FW,MF",24.0,8.4,0,1,0,5,6,7,2,4,4,0.0,0.0,0,15.0,35.0,45.0,43.8,Matches,vitesse
+Enzo Cornelisse,nl NED,DF,18.0,9.3,0,0,0,4,9,0,9,12,12,0.0,0.0,0,52.0,26.0,21.0,55.3,Matches,vitesse
+Oussama Darfalou,dz ALG,FW,27.0,6.0,1,0,0,6,5,4,3,2,1,0.0,0.0,0,19.0,15.0,25.0,37.5,Matches,vitesse
+Patrick Vroegh,nl NED,MF,21.0,7.3,1,0,0,2,1,1,10,4,6,0.0,0.0,0,45.0,8.0,22.0,26.7,Matches,vitesse
+Romaric Yapi,fr FRA,"DF,FW",21.0,3.3,0,0,0,6,5,1,5,2,7,0.0,0.0,0,18.0,3.0,5.0,37.5,Matches,vitesse
+Oussama Tannane,ma MAR,"MF,FW",27.0,2.3,2,0,0,6,6,1,10,2,3,0.0,0.0,0,9.0,1.0,3.0,25.0,Matches,vitesse
+Gyan de Regt,nl NED,DF,18.0,0.4,0,0,0,0,1,0,0,0,2,0.0,0.0,0,2.0,1.0,0.0,100.0,Matches,vitesse
+Julian von Moos,ch SUI,"FW,DF",20.0,1.3,0,0,0,2,0,0,4,0,4,0.0,0.0,0,9.0,3.0,10.0,23.1,Matches,vitesse
+Hilary Gong,ng NGA,"DF,FW",22.0,0.7,0,0,0,1,2,0,2,0,1,0.0,0.0,0,0.0,2.0,0.0,100.0,Matches,vitesse
+Simon Van Duivenbooden,nl NED,MF,19.0,0.3,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,2.0,4.0,33.3,Matches,vitesse
+Mike van der Hoorn,nl NED,DF,28.0,28.6,2,0,0,21,31,1,3,35,16,1.0,1.0,1,180.0,123.0,64.0,65.8,Matches,utrecht
+Quinten Timber,nl NED,MF,20.0,26.1,4,0,0,29,43,1,20,43,34,0.0,0.0,0,172.0,20.0,23.0,46.5,Matches,utrecht
+Anastasios Douvikas,gr GRE,FW,21.0,26.4,1,0,0,40,54,7,8,7,20,1.0,0.0,0,61.0,88.0,106.0,45.4,Matches,utrecht
+Mark van der Maarel,nl NED,DF,31.0,22.7,10,0,0,34,16,2,14,32,41,0.0,0.0,0,150.0,25.0,35.0,41.7,Matches,utrecht
+Bart Ramselaar,nl NED,"MF,FW",25.0,22.2,0,0,0,16,12,1,36,9,9,1.0,0.0,0,76.0,11.0,21.0,34.4,Matches,utrecht
+Willem Janssen,nl NED,DF,35.0,21.5,6,0,0,26,11,1,4,37,13,0.0,2.0,1,107.0,67.0,43.0,60.9,Matches,utrecht
+Django Warmerdam,nl NED,DF,25.0,21.4,3,0,0,10,13,0,46,25,33,0.0,0.0,0,141.0,25.0,22.0,53.2,Matches,utrecht
+Hidde ter Avest,nl NED,DF,24.0,20.4,3,0,0,18,6,2,43,39,26,0.0,0.0,0,115.0,40.0,21.0,65.6,Matches,utrecht
+Maarten Paes,nl NED,GK,23.0,17.0,2,0,0,1,2,0,0,2,0,0.0,0.0,0,36.0,2.0,0.0,100.0,Matches,utrecht
+Simon Gustafson,se SWE,"MF,FW",26.0,15.0,1,0,0,8,15,0,45,10,19,1.0,0.0,0,103.0,19.0,23.0,45.2,Matches,utrecht
+Sander van de Streek,nl NED,"MF,FW",28.0,17.3,3,0,0,25,18,4,11,4,15,0.0,0.0,0,80.0,60.0,60.0,50.0,Matches,utrecht
+Moussa Sylla,fr FRA,FW,21.0,15.3,2,0,0,11,21,3,95,16,9,0.0,0.0,0,83.0,20.0,27.0,42.6,Matches,utrecht
+Othman Boussaid,be BEL,"FW,MF",21.0,13.8,1,0,0,6,8,1,52,21,8,0.0,0.0,0,104.0,7.0,7.0,50.0,Matches,utrecht
+Fabian de Keijzer,nl NED,GK,21.0,13.5,1,0,0,1,3,0,0,1,0,0.0,1.0,0,18.0,2.0,0.0,100.0,Matches,utrecht
+Djevencio van der Kust,nl NED,DF,20.0,10.7,0,0,0,5,5,2,35,14,20,0.0,0.0,0,63.0,7.0,15.0,31.8,Matches,utrecht
+Joris van Overeem,nl NED,MF,27.0,11.7,2,0,0,17,5,2,16,26,14,0.0,0.0,1,96.0,8.0,7.0,53.3,Matches,utrecht
+Mimoun Mahi,ma MAR,"FW,MF",27.0,9.7,0,0,0,13,7,7,39,5,9,0.0,0.0,0,43.0,10.0,21.0,32.3,Matches,utrecht
+Remco Balk,nl NED,"FW,MF",20.0,5.0,0,0,0,4,13,0,7,2,3,1.0,0.0,0,19.0,2.0,6.0,25.0,Matches,utrecht
+Arthur Zagre,fr FRA,"DF,FW",19.0,4.6,0,0,0,8,7,0,13,2,5,0.0,0.0,0,45.0,4.0,7.0,36.4,Matches,utrecht
+Henk Veerman,nl NED,"FW,MF",28.0,4.6,0,0,0,4,0,4,1,0,0,0.0,0.0,0,9.0,31.0,23.0,57.4,Matches,utrecht
+Eric Oelschlägel,de GER,GK,25.0,3.5,0,0,0,0,0,0,0,1,0,0.0,0.0,0,9.0,1.0,0.0,100.0,Matches,utrecht
+Pontus Almqvist,se SWE,"FW,MF",22.0,2.9,0,0,0,2,4,0,6,3,3,0.0,0.0,0,9.0,3.0,5.0,37.5,Matches,utrecht
+Adrián Dalmau,es ESP,FW,27.0,2.7,0,0,0,10,2,3,0,0,0,0.0,0.0,0,4.0,9.0,9.0,50.0,Matches,utrecht
+Tommy St. Jago,nl NED,DF,21.0,2.2,0,0,0,1,4,0,2,2,2,0.0,0.0,0,19.0,7.0,4.0,63.6,Matches,utrecht
+Gyrano Kerk,nl NED,FW,25.0,2.0,1,0,0,3,2,2,3,1,0,0.0,0.0,0,3.0,4.0,1.0,80.0,Matches,utrecht
+Benaissa Benamar,ma MAR,DF,24.0,1.0,0,0,0,0,0,0,0,0,1,0.0,0.0,0,10.0,4.0,1.0,80.0,Matches,utrecht
+Rocco Robert Shein,ee EST,MF,18.0,0.6,0,0,0,0,0,0,0,1,0,0.0,0.0,0,3.0,1.0,1.0,50.0,Matches,utrecht
+Naoki Maeda,jp JPN,MF,26.0,0.1,0,0,0,0,0,0,0,1,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,utrecht
+Mohamed Mallahi,nl NED,"FW,DF",21.0,0.5,1,0,0,1,1,0,12,1,1,0.0,0.0,0,3.0,0.0,1.0,0.0,Matches,utrecht
+Sylian Mokono,nl NED,DF,22.0,0.2,0,0,0,0,0,0,0,2,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,utrecht
+Rick Meijssen,nl NED,DF,19.0,0.1,0,0,0,0,0,0,0,0,3,0.0,0.0,0,0.0,0.0,0.0,,Matches,utrecht
+Mees Rijks,nl NED,MF,18.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,utrecht
+Eros Maddy,nl NED,FW,20.0,0.1,0,0,0,0,0,0,3,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,utrecht
+Dave Van Den Berg,nl NED,MF,21.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,utrecht
+Tibor Halilović,hr CRO,"MF,FW",26.0,28.7,2,0,0,14,35,4,19,19,19,0.0,0.0,0,122.0,14.0,8.0,63.6,Matches,heerenveen
+Sven van Beek,nl NED,DF,27.0,28.5,4,0,0,20,10,4,4,45,40,0.0,0.0,1,159.0,91.0,58.0,61.1,Matches,heerenveen
+Ibrahim Drešević,xk KVX,DF,24.0,22.8,5,1,0,24,14,0,7,36,24,0.0,3.0,0,159.0,37.0,35.0,51.4,Matches,heerenveen
+Rami Kaib,tn TUN,DF,24.0,20.6,5,0,0,27,21,0,69,18,19,0.0,2.0,0,129.0,16.0,17.0,48.5,Matches,heerenveen
+Nicolas Madsen,dk DEN,MF,21.0,18.6,2,0,0,11,15,2,5,14,14,0.0,0.0,0,132.0,35.0,13.0,72.9,Matches,heerenveen
+Erwin Mulder,nl NED,GK,32.0,18.5,1,0,0,0,0,0,0,0,1,0.0,0.0,0,29.0,2.0,0.0,100.0,Matches,heerenveen
+Nick Bakker,nl NED,DF,29.0,18.2,1,0,0,12,3,0,0,22,13,0.0,0.0,0,86.0,27.0,35.0,43.5,Matches,heerenveen
+Siem de Jong,nl NED,"FW,MF",32.0,15.4,0,0,0,14,13,4,5,6,14,0.0,0.0,0,47.0,36.0,34.0,51.4,Matches,heerenveen
+Henk Veerman,nl NED,FW,28.0,17.3,0,0,0,11,5,14,4,2,5,1.0,0.0,0,24.0,62.0,57.0,52.1,Matches,heerenveen
+Joey Veerman,nl NED,MF,22.0,16.9,1,0,0,8,19,0,103,19,16,0.0,0.0,0,118.0,10.0,3.0,76.9,Matches,heerenveen
+Lucas Woudenberg,nl NED,DF,27.0,16.7,3,0,0,15,4,1,35,18,14,0.0,0.0,0,85.0,20.0,21.0,48.8,Matches,heerenveen
+Xavier Mous,nl NED,GK,25.0,15.5,0,0,0,0,0,0,0,1,0,0.0,0.0,0,23.0,3.0,0.0,100.0,Matches,heerenveen
+Anthony Musaba,nl NED,"FW,MF",20.0,14.6,5,1,1,15,11,5,25,6,6,0.0,0.0,0,49.0,12.0,20.0,37.5,Matches,heerenveen
+Thom Haye,nl NED,MF,26.0,13.6,3,0,0,22,17,0,131,14,32,0.0,0.0,0,128.0,13.0,12.0,52.0,Matches,heerenveen
+Sydney van Hooijdonk,nl NED,FW,21.0,11.1,1,0,0,15,12,8,12,4,1,0.0,0.0,0,20.0,38.0,29.0,56.7,Matches,heerenveen
+Amin Sarr,se SWE,FW,20.0,12.0,0,0,0,9,9,2,6,6,10,0.0,0.0,0,27.0,25.0,35.0,41.7,Matches,heerenveen
+Anas Tahiri,be BEL,MF,26.0,11.0,0,0,0,4,8,0,16,8,6,0.0,0.0,0,85.0,1.0,7.0,12.5,Matches,heerenveen
+Filip Stevanovic,rs SRB,"FW,MF",18.0,9.5,2,0,0,7,10,5,9,5,5,0.0,0.0,0,35.0,1.0,8.0,11.1,Matches,heerenveen
+Rodney Kongolo,nl NED,MF,23.0,6.9,1,0,0,6,9,0,0,8,11,0.0,0.0,0,45.0,7.0,3.0,70.0,Matches,heerenveen
+Arjen van der Heide,nl NED,"FW,MF",19.0,5.5,1,0,0,10,6,2,16,0,6,0.0,0.0,0,26.0,5.0,6.0,45.5,Matches,heerenveen
+Benjamin Nygren,se SWE,"FW,MF",20.0,5.3,0,0,0,8,8,2,5,2,12,0.0,0.0,0,40.0,9.0,5.0,64.3,Matches,heerenveen
+Rami Al Hajj,se SWE,"MF,FW",19.0,5.2,0,0,0,7,7,1,2,3,3,0.0,0.0,0,41.0,3.0,11.0,21.4,Matches,heerenveen
+Syb Van Ottele,nl NED,DF,19.0,2.2,0,0,0,0,1,0,0,2,4,0.0,0.0,0,12.0,0.0,4.0,0.0,Matches,heerenveen
+Joost van Aken,nl NED,DF,27.0,2.2,0,0,0,1,0,0,1,2,5,0.0,1.0,0,13.0,9.0,3.0,75.0,Matches,heerenveen
+Hamdi Akujobi,nl NED,"DF,FW",21.0,1.6,0,0,0,0,2,0,6,3,2,0.0,0.0,0,10.0,2.0,1.0,66.7,Matches,heerenveen
+Mitchell van Bergen,nl NED,FW,21.0,1.0,0,0,0,2,0,0,5,2,1,0.0,0.0,0,5.0,0.0,2.0,0.0,Matches,heerenveen
+Djenahro Nunumete,nl NED,DF,19.0,0.3,0,0,0,0,0,0,2,0,2,0.0,0.0,0,1.0,0.0,2.0,0.0,Matches,heerenveen
+Trustin van 't Loo,nl NED,MF,17.0,0.3,0,0,0,0,0,0,1,0,0,0.0,0.0,0,3.0,0.0,1.0,0.0,Matches,heerenveen
+Timo Zaal,nl NED,"DF,MF",17.0,0.1,1,0,0,1,0,0,0,1,0,0.0,0.0,0,1.0,1.0,0.0,100.0,Matches,heerenveen
+Jan Ras,nl NED,MF,22.0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,heerenveen
+Robin Maulun,fr FRA,MF,24.0,29.5,5,0,0,21,15,0,89,13,16,0.0,0.0,0,140.0,11.0,33.0,25.0,Matches,cambuur
+Calvin Mac-Intosch,sr SUR,DF,31.0,27.7,5,0,0,19,19,1,3,24,19,0.0,1.0,0,139.0,34.0,37.0,47.9,Matches,cambuur
+Sonny Stevens,nl NED,GK,29.0,28.9,0,0,0,0,3,0,0,1,1,0.0,0.0,0,60.0,9.0,0.0,100.0,Matches,cambuur
+Doke Schmidt,nl NED,DF,29.0,27.7,1,1,0,18,22,1,16,46,33,1.0,0.0,1,167.0,30.0,25.0,54.5,Matches,cambuur
+Erik Schouten,nl NED,DF,29.0,26.5,2,0,0,18,11,1,0,46,21,0.0,0.0,0,138.0,47.0,45.0,51.1,Matches,cambuur
+Mees Hoedemakers,nl NED,MF,23.0,26.3,5,0,0,30,22,1,51,46,39,0.0,0.0,0,190.0,17.0,35.0,32.7,Matches,cambuur
+Alex Bangura,sl SLE,DF,22.0,26.8,8,1,1,39,54,1,26,29,34,1.0,0.0,0,188.0,12.0,16.0,42.9,Matches,cambuur
+Jamie Jacobs,nl NED,MF,23.0,21.2,4,0,0,28,9,3,23,21,35,0.0,0.0,0,99.0,35.0,44.0,44.3,Matches,cambuur
+Roberts Uldriķis,lv LVA,FW,23.0,17.1,3,0,0,27,14,9,2,7,7,0.0,0.0,0,54.0,103.0,77.0,57.2,Matches,cambuur
+Mitchell Paulissen,nl NED,"MF,FW",28.0,15.4,5,0,0,18,14,2,16,9,12,1.0,1.0,0,89.0,25.0,23.0,52.1,Matches,cambuur
+Tom Boere,nl NED,FW,28.0,14.1,1,0,0,22,14,9,5,0,0,0.0,0.0,0,29.0,54.0,75.0,41.9,Matches,cambuur
+Michael Breij,nl NED,"MF,FW",24.0,15.5,2,0,0,18,24,2,26,11,15,0.0,0.0,0,87.0,7.0,26.0,21.2,Matches,cambuur
+Patrick Joosten,nl NED,FW,25.0,10.7,1,0,0,5,19,4,26,2,10,0.0,0.0,0,43.0,9.0,18.0,33.3,Matches,cambuur
+Marco Tol,nl NED,DF,23.0,13.6,1,0,0,6,3,0,0,22,12,0.0,0.0,0,62.0,23.0,25.0,47.9,Matches,cambuur
+David Sambissa,ga GAB,"MF,DF",25.0,9.3,1,0,0,8,19,0,22,11,12,0.0,0.0,0,48.0,14.0,15.0,48.3,Matches,cambuur
+Nick Doodeman,nl NED,"FW,MF",24.0,6.5,0,0,0,6,3,1,22,5,2,0.0,0.0,0,29.0,2.0,4.0,33.3,Matches,cambuur
+Pieter Bos,nl NED,GK,24.0,5.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,9.0,1.0,0.0,100.0,Matches,cambuur
+Sékou Oumar Sylla,gn GUI,DF,22.0,4.2,3,1,1,5,6,0,6,6,5,0.0,0.0,0,29.0,4.0,5.0,44.4,Matches,cambuur
+Jasper Ter Heide,nl NED,"MF,DF",22.0,5.3,1,0,0,5,4,0,2,6,12,0.0,0.0,0,19.0,6.0,14.0,30.0,Matches,cambuur
+Jhondly van der Meer,ht HAI,DF,19.0,4.7,0,0,0,4,1,0,1,10,4,0.0,0.0,0,24.0,4.0,9.0,30.8,Matches,cambuur
+Tamás Kiss,hu HUN,"MF,FW",20.0,3.0,1,0,0,3,3,0,5,6,6,0.0,0.0,0,14.0,3.0,3.0,50.0,Matches,cambuur
+Sam Hendriks,nl NED,"FW,MF",26.0,1.4,0,0,0,1,1,1,0,0,0,0.0,0.0,0,2.0,3.0,2.0,60.0,Matches,cambuur
+Maxim Gullit,nl NED,DF,20.0,1.3,1,0,0,3,0,0,0,1,1,0.0,0.0,0,7.0,1.0,1.0,50.0,Matches,cambuur
+Milan Smit,nl NED,"FW,MF",18.0,0.7,0,0,0,0,0,0,1,0,1,0.0,0.0,0,3.0,4.0,4.0,50.0,Matches,cambuur
+Filip Krastev,bg BUL,MF,19.0,0.4,0,0,0,1,0,0,0,1,1,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches,cambuur
+Vurnon Anita,cw CUW,MF,32.0,30.3,3,0,0,23,15,0,5,41,22,0.0,0.0,0,219.0,10.0,19.0,34.5,Matches,rkc waalwijk
+Etienne Vaessen,nl NED,GK,26.0,31.0,2,0,0,1,7,0,0,0,1,0.0,1.0,0,56.0,9.0,3.0,75.0,Matches,rkc waalwijk
+Ahmed Touba,dz ALG,DF,23.0,27.7,7,0,0,28,11,1,6,59,31,0.0,4.0,0,215.0,68.0,32.0,68.0,Matches,rkc waalwijk
+Jens Odgaard,dk DEN,"FW,MF",22.0,27.4,3,0,0,44,63,13,49,9,9,0.0,0.0,0,91.0,51.0,63.0,44.7,Matches,rkc waalwijk
+Saïd Bakari,km COM,"DF,MF",26.0,26.3,1,0,0,4,12,2,78,24,21,0.0,0.0,0,162.0,20.0,25.0,44.4,Matches,rkc waalwijk
+Michiel Kramer,nl NED,FW,32.0,25.2,8,0,0,40,24,17,5,4,3,0.0,0.0,0,53.0,93.0,78.0,54.4,Matches,rkc waalwijk
+Juriën Gaari,cw CUW,DF,27.0,25.8,6,0,0,38,17,0,57,35,24,0.0,0.0,0,184.0,35.0,27.0,56.5,Matches,rkc waalwijk
+Alexander Büttner,nl NED,"DF,MF",32.0,20.9,6,0,0,28,42,2,186,36,31,0.0,0.0,0,109.0,13.0,13.0,50.0,Matches,rkc waalwijk
+Ayman Azhil,ma MAR,MF,20.0,18.6,1,0,0,22,2,2,5,18,21,0.0,0.0,0,115.0,15.0,24.0,38.5,Matches,rkc waalwijk
+Shawn Adewoye,be BEL,DF,21.0,19.1,5,1,0,34,8,0,0,49,13,0.0,0.0,0,118.0,48.0,32.0,60.0,Matches,rkc waalwijk
+Richard van der Venne,nl NED,MF,29.0,15.0,4,0,0,24,20,0,17,8,16,1.0,0.0,0,72.0,17.0,24.0,41.5,Matches,rkc waalwijk
+Dario Van den Buijs,be BEL,DF,25.0,11.7,0,0,0,10,4,0,13,37,12,0.0,1.0,0,75.0,24.0,25.0,49.0,Matches,rkc waalwijk
+Finn Stokkers,nl NED,"FW,MF",25.0,12.4,0,0,0,10,11,12,11,1,5,0.0,0.0,0,40.0,36.0,51.0,41.4,Matches,rkc waalwijk
+Iliass Bel Hassani,ma MAR,"MF,FW",28.0,9.3,1,0,0,1,12,1,37,5,7,0.0,0.0,0,37.0,2.0,3.0,40.0,Matches,rkc waalwijk
+Yassin Oukili,nl NED,MF,20.0,10.0,1,0,0,24,6,3,7,15,14,0.0,0.0,0,92.0,10.0,17.0,37.0,Matches,rkc waalwijk
+Luuk Wouters,nl NED,DF,22.0,6.5,0,0,0,3,2,0,3,8,10,0.0,1.0,0,28.0,6.0,7.0,46.2,Matches,rkc waalwijk
+Lennerd Daneels,be BEL,"FW,MF",23.0,6.3,1,0,0,12,10,0,28,4,2,0.0,0.0,0,29.0,6.0,5.0,54.5,Matches,rkc waalwijk
+Thierry Lutonda,be BEL,DF,20.0,4.2,0,0,0,3,2,0,4,8,10,0.0,0.0,0,24.0,1.0,5.0,16.7,Matches,rkc waalwijk
+Achraf El Bouchataoui,nl NED,MF,21.0,4.1,0,0,0,10,6,0,22,3,4,0.0,0.0,0,35.0,2.0,4.0,33.3,Matches,rkc waalwijk
+Joel Castro Pereira,pt POR,GK,25.0,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,7.0,0.0,0.0,,Matches,rkc waalwijk
+Lars Nieuwpoort,nl NED,DF,26.0,2.0,0,0,0,1,2,0,0,1,4,0.0,0.0,0,10.0,2.0,1.0,66.7,Matches,rkc waalwijk
+Sebbe Augustijns,be BEL,MF,21.0,1.6,1,0,0,3,2,0,1,2,0,0.0,0.0,0,11.0,2.0,2.0,50.0,Matches,rkc waalwijk
+Hans Mulder,nl NED,"MF,DF",34.0,1.1,1,0,0,2,1,0,0,3,2,0.0,0.0,0,7.0,5.0,3.0,62.5,Matches,rkc waalwijk
+Issam El Maach,ma MAR,GK,21.0,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,rkc waalwijk
+Bart van Rooij,nl NED,"DF,MF",20.0,33.0,3,0,0,19,34,1,78,40,64,0.0,0.0,1,192.0,17.0,21.0,44.7,Matches,nec nijmegen
+Lasse Schöne,dk DEN,MF,35.0,32.6,7,0,0,22,27,0,148,55,27,0.0,0.0,0,257.0,29.0,26.0,52.7,Matches,nec nijmegen
+Souffian El Karouani,ma MAR,DF,20.0,28.4,3,1,0,26,58,2,129,28,38,0.0,0.0,0,184.0,14.0,24.0,36.8,Matches,nec nijmegen
+Iván Márquez,es ESP,DF,27.0,29.0,6,1,0,20,15,2,2,47,19,0.0,1.0,0,116.0,87.0,64.0,57.6,Matches,nec nijmegen
+Cas Odenthal,nl NED,DF,20.0,27.9,4,0,0,18,12,1,4,32,19,1.0,0.0,0,143.0,49.0,37.0,57.0,Matches,nec nijmegen
+Jonathan Okita,cd COD,"FW,MF",25.0,25.7,3,0,0,31,24,16,34,12,13,0.0,0.0,0,150.0,25.0,34.0,42.4,Matches,nec nijmegen
+Elayis Tavsan,nl NED,"FW,MF",20.0,24.9,3,0,0,18,60,6,37,8,6,0.0,0.0,0,115.0,18.0,48.0,27.3,Matches,nec nijmegen
+Jordy Bruijn,nl NED,"MF,FW",25.0,20.1,4,0,0,33,42,2,9,8,18,1.0,1.0,0,85.0,13.0,25.0,34.2,Matches,nec nijmegen
+Magnus Mattsson,dk DEN,"FW,MF",22.0,19.3,0,0,0,11,36,1,5,17,22,0.0,1.0,0,102.0,12.0,28.0,30.0,Matches,nec nijmegen
+Rodrigo Guth,br BRA,DF,20.0,18.4,2,0,0,27,9,0,2,31,20,0.0,0.0,0,105.0,66.0,28.0,70.2,Matches,nec nijmegen
+Ali Akman,tr TUR,FW,19.0,17.4,1,1,0,13,20,17,12,6,7,0.0,0.0,0,63.0,16.0,37.0,30.2,Matches,nec nijmegen
+Dirk Proper,nl NED,MF,19.0,15.1,3,0,0,18,12,0,0,5,17,0.0,0.0,0,93.0,20.0,23.0,46.5,Matches,nec nijmegen
+Édgar Barreto,py PAR,"MF,DF",37.0,13.8,3,0,0,20,13,0,2,27,22,0.0,0.0,0,108.0,27.0,15.0,64.3,Matches,nec nijmegen
+Mikkel Duelund,dk DEN,"MF,FW",24.0,9.7,2,0,0,18,16,1,3,7,13,0.0,0.0,0,47.0,18.0,25.0,41.9,Matches,nec nijmegen
+Calvin Verdonk,nl NED,"DF,MF",24.0,10.7,2,0,0,22,8,0,12,19,25,0.0,0.0,0,86.0,12.0,13.0,48.0,Matches,nec nijmegen
+Javier Vet,nl NED,"MF,FW",27.0,6.2,2,0,0,10,3,0,3,6,6,0.0,0.0,0,43.0,19.0,26.0,42.2,Matches,nec nijmegen
+Ilias Bronkhorst,nl NED,"DF,FW",24.0,2.2,1,0,0,3,3,0,5,2,5,0.0,0.0,0,14.0,5.0,6.0,45.5,Matches,nec nijmegen
+Ole Romeny,nl NED,FW,21.0,1.9,0,0,0,5,3,3,1,0,1,0.0,0.0,0,7.0,4.0,15.0,21.1,Matches,nec nijmegen
+Ibrahim Cissoko,nl NED,FW,18.0,1.0,0,0,0,0,3,0,2,0,3,1.0,0.0,0,10.0,1.0,1.0,50.0,Matches,nec nijmegen
+Pedro,es ESP,FW,21.0,0.8,0,0,0,3,2,0,1,0,0,0.0,0.0,0,3.0,3.0,4.0,42.9,Matches,nec nijmegen
+Rens van Eijden,nl NED,"MF,DF",33.0,0.3,0,0,0,0,0,0,0,1,1,0.0,0.0,0,2.0,1.0,2.0,33.3,Matches,nec nijmegen
+Wilfried Bony,ci CIV,FW,32.0,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,2.0,2.0,50.0,Matches,nec nijmegen
+Thomas Beekman,nl NED,MF,21.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,,Matches,nec nijmegen
+Neraysho Kasanwirjo,nl NED,"DF,MF",19.0,30.3,6,1,0,19,32,0,25,52,44,0.0,0.0,1,231.0,51.0,43.0,54.3,Matches,groningen
+Tomáš Suslov,sk SVK,"MF,FW",19.0,26.1,9,0,0,26,65,0,99,20,39,0.0,0.0,0,157.0,8.0,18.0,30.8,Matches,groningen
+Bart van Hintum,nl NED,DF,34.0,24.4,4,0,0,19,10,1,43,49,28,0.0,0.0,0,160.0,28.0,28.0,50.0,Matches,groningen
+Michael de Leeuw,nl NED,"FW,MF",34.0,22.6,1,0,0,34,18,8,3,15,19,1.0,0.0,0,59.0,51.0,47.0,52.0,Matches,groningen
+Jørgen Strand Larsen,no NOR,FW,21.0,26.0,5,0,0,42,18,18,5,6,10,0.0,0.0,0,57.0,66.0,116.0,36.3,Matches,groningen
+Mohamed El Hankouri,nl NED,"MF,DF",24.0,25.8,2,0,0,13,39,1,114,18,17,0.0,0.0,1,132.0,14.0,32.0,30.4,Matches,groningen
+Laros Duarte,nl NED,MF,24.0,25.4,3,0,0,17,25,0,94,30,22,0.0,0.0,0,173.0,19.0,34.0,35.8,Matches,groningen
+Mike te Wierik,nl NED,DF,29.0,23.8,6,2,1,32,22,0,3,45,36,0.0,0.0,0,136.0,52.0,52.0,50.0,Matches,groningen
+Cyril Ngonge,be BEL,"FW,MF",21.0,18.5,4,0,0,27,15,12,22,15,12,0.0,0.0,0,61.0,40.0,42.0,48.8,Matches,groningen
+Bjorn Meijer,nl NED,"DF,MF",18.0,17.6,2,0,0,12,6,2,62,28,22,0.0,1.0,0,109.0,38.0,32.0,54.3,Matches,groningen
+Damil Dankerlui,sr SUR,"DF,MF",24.0,16.6,1,0,0,21,9,0,58,25,30,0.0,1.0,0,123.0,17.0,12.0,58.6,Matches,groningen
+Paulos Abraham,se SWE,"FW,MF",19.0,15.0,2,0,0,22,13,6,20,5,10,0.0,0.0,0,69.0,12.0,28.0,30.0,Matches,groningen
+Wessel Dammers,nl NED,"DF,MF",26.0,13.3,3,0,0,11,7,0,2,24,11,0.0,0.0,0,101.0,38.0,35.0,52.1,Matches,groningen
+Marin Šverko,hr CRO,DF,23.0,11.1,1,0,0,13,23,0,4,13,16,0.0,0.0,0,76.0,35.0,27.0,56.5,Matches,groningen
+Daleho Irandust,se SWE,"MF,FW",23.0,10.8,1,0,0,13,16,0,22,4,12,0.0,0.0,0,55.0,2.0,10.0,16.7,Matches,groningen
+Daniël van Kaam,nl NED,"MF,DF",21.0,5.5,0,1,0,2,8,0,11,3,6,0.0,0.0,0,44.0,5.0,9.0,35.7,Matches,groningen
+Patrick Joosten,nl NED,"MF,FW",25.0,3.7,0,0,0,7,2,0,20,1,1,0.0,0.0,0,17.0,6.0,2.0,75.0,Matches,groningen
+Azor Matusiwa,nl NED,MF,23.0,3.0,1,0,0,4,2,0,0,7,7,0.0,0.0,0,29.0,4.0,7.0,36.4,Matches,groningen
+Gabriel Gudmundsson,se SWE,DF,22.0,2.7,0,0,0,2,7,0,17,1,10,0.0,0.0,0,15.0,5.0,0.0,100.0,Matches,groningen
+Romano Postema,nl NED,"FW,MF",19.0,7.9,2,0,0,7,9,1,11,0,6,0.0,0.0,0,24.0,11.0,37.0,22.9,Matches,groningen
+Melayro Bogarde,nl NED,MF,19.0,2.7,0,0,0,3,2,0,2,5,5,0.0,0.0,0,13.0,3.0,12.0,20.0,Matches,groningen
+Yahya Kalley,se SWE,"DF,MF",20.0,1.9,1,0,0,5,1,0,1,3,4,0.0,0.0,0,11.0,0.0,4.0,0.0,Matches,groningen
+Ahmed El Messaoudi,ma MAR,"FW,MF",25.0,1.9,0,0,0,2,0,2,0,0,1,0.0,0.0,0,4.0,2.0,7.0,22.2,Matches,groningen
+Emmanuel Matuta,be BEL,"MF,FW",19.0,1.1,0,0,0,2,1,0,0,2,2,0.0,0.0,0,11.0,0.0,5.0,0.0,Matches,groningen
+Ramon Lundqvist,se SWE,FW,24.0,0.1,0,0,0,0,1,0,1,0,0,0.0,0.0,0,1.0,1.0,1.0,50.0,Matches,groningen
+Alex Mortensen,se SWE,FW,19.0,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,2.0,3.0,2.0,60.0,Matches,groningen
+Ragnar Oratmangoen,nl NED,"MF,FW",23.0,29.2,1,0,0,10,27,2,30,22,20,0.0,0.0,0,220.0,12.0,35.0,25.5,Matches,go ahead eagles
+Philippe Rommens,be BEL,MF,23.0,30.0,2,0,0,23,24,0,141,37,24,0.0,0.0,0,160.0,29.0,32.0,47.5,Matches,go ahead eagles
+Bas Kuipers,nl NED,DF,26.0,28.0,5,0,0,19,25,3,80,47,14,1.0,0.0,0,142.0,33.0,32.0,50.8,Matches,go ahead eagles
+Mats Deijl,nl NED,"DF,MF",24.0,27.1,6,0,0,26,40,3,38,26,29,0.0,0.0,0,174.0,58.0,51.0,53.2,Matches,go ahead eagles
+Iñigo Córdoba,es ESP,"FW,MF",24.0,25.7,3,1,1,30,34,14,69,20,32,0.0,0.0,0,148.0,33.0,39.0,45.8,Matches,go ahead eagles
+Gerrit Nauber,de GER,DF,29.0,24.8,2,0,0,14,9,1,1,32,18,0.0,0.0,0,130.0,53.0,40.0,57.0,Matches,go ahead eagles
+Joris Kramer,nl NED,DF,24.0,24.4,3,2,1,21,7,0,4,55,28,0.0,1.0,1,168.0,74.0,64.0,53.6,Matches,go ahead eagles
+Isac Lidberg,se SWE,FW,22.0,22.0,3,1,0,22,27,9,10,6,6,1.0,0.0,0,76.0,77.0,117.0,39.7,Matches,go ahead eagles
+Boyd Lucassen,nl NED,"DF,MF",23.0,23.5,2,0,0,26,41,0,32,42,38,0.0,0.0,0,108.0,35.0,52.0,40.2,Matches,go ahead eagles
+Warner Hahn,sr SUR,GK,29.0,19.0,1,0,0,1,1,0,0,1,1,0.0,1.0,0,36.0,7.0,0.0,100.0,Matches,go ahead eagles
+Jay Idzes,nl NED,"DF,MF",21.0,16.9,2,0,0,17,11,0,4,33,8,0.0,1.0,0,117.0,32.0,40.0,44.4,Matches,go ahead eagles
+Andries Noppert,nl NED,GK,27.0,15.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,24.0,5.0,0.0,100.0,Matches,go ahead eagles
+Ioannis-Foivos Botos,gr GRE,"MF,FW",20.0,11.5,1,1,0,8,11,8,7,1,5,0.0,0.0,0,33.0,8.0,16.0,33.3,Matches,go ahead eagles
+Cuco Martina,cw CUW,DF,31.0,8.4,1,0,0,7,1,1,14,19,8,0.0,0.0,0,63.0,6.0,10.0,37.5,Matches,go ahead eagles
+Marc Cardona,es ESP,FW,26.0,8.8,0,0,0,5,7,7,4,4,7,0.0,0.0,0,52.0,18.0,34.0,34.6,Matches,go ahead eagles
+Justin Bakker,nl NED,DF,23.0,8.2,0,0,0,2,0,0,25,5,3,0.0,0.0,0,48.0,8.0,8.0,50.0,Matches,go ahead eagles
+Martijn Berden,nl NED,"FW,MF",24.0,6.9,0,0,0,10,3,4,14,1,2,0.0,0.0,0,25.0,7.0,18.0,28.0,Matches,go ahead eagles
+Ogechika Heil,de GER,"FW,MF",20.0,7.9,1,0,0,11,27,0,18,6,10,0.0,0.0,0,45.0,9.0,16.0,36.0,Matches,go ahead eagles
+Jacob Mulenga,zm ZAM,"FW,MF",37.0,2.2,1,0,0,7,1,0,2,0,2,0.0,0.0,0,5.0,18.0,21.0,46.2,Matches,go ahead eagles
+Frank Ross,sct SCO,"MF,FW",23.0,0.8,0,0,0,2,0,0,4,2,3,0.0,0.0,0,3.0,0.0,0.0,,Matches,go ahead eagles
+Evert Linthorst,nl NED,MF,21.0,0.5,0,0,0,0,0,0,0,0,2,0.0,0.0,0,1.0,0.0,0.0,,Matches,go ahead eagles
+Yacine Bourhane,km COM,MF,22.0,0.5,0,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,1.0,2.0,33.3,Matches,go ahead eagles
+Zakaria Eddahchouri,nl NED,FW,21.0,0.2,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,2.0,2.0,50.0,Matches,go ahead eagles
+Turan Tuzlacik,nl NED,"DF,MF",20.0,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,,Matches,go ahead eagles
+Bart Vriends,nl NED,DF,30.0,31.4,4,0,0,23,10,1,2,52,29,0.0,1.0,0,170.0,105.0,51.0,67.3,Matches,sparta rotterdam
+Adil Auassar,nl NED,"DF,MF",34.0,27.5,7,0,0,27,10,2,7,47,26,0.0,1.0,0,143.0,69.0,55.0,55.6,Matches,sparta rotterdam
+Maduka Okoye,ng NGA,GK,21.0,29.3,4,0,0,0,3,0,0,1,1,0.0,0.0,0,28.0,4.0,1.0,80.0,Matches,sparta rotterdam
+Lennart Thy,de GER,"FW,MF",29.0,26.5,1,0,0,7,33,12,23,6,11,1.0,0.0,0,99.0,113.0,143.0,44.1,Matches,sparta rotterdam
+Vito van Crooy,nl NED,"MF,FW",25.0,24.2,6,0,0,33,17,4,62,14,21,0.0,0.0,0,112.0,41.0,63.0,39.4,Matches,sparta rotterdam
+Sven Mijnans,nl NED,"MF,FW",21.0,21.0,1,0,0,19,15,1,65,21,26,0.0,0.0,0,144.0,30.0,29.0,50.8,Matches,sparta rotterdam
+Bryan Smeets,nl NED,MF,28.0,16.4,3,0,0,15,9,0,56,8,12,0.0,0.0,0,126.0,19.0,11.0,63.3,Matches,sparta rotterdam
+Michael Pinto,lu LUX,DF,28.0,17.1,2,1,0,12,19,1,45,27,29,0.0,0.0,0,119.0,18.0,10.0,64.3,Matches,sparta rotterdam
+Tom Beugelsdijk,nl NED,DF,30.0,17.0,5,0,0,22,10,0,1,38,11,0.0,2.0,0,78.0,62.0,43.0,59.0,Matches,sparta rotterdam
+Joeri de Kamps,nl NED,MF,29.0,13.1,5,0,0,33,14,0,0,19,41,0.0,0.0,0,99.0,6.0,6.0,50.0,Matches,sparta rotterdam
+Arno Verschueren,be BEL,MF,24.0,10.7,1,1,0,16,11,0,8,16,19,0.0,0.0,0,68.0,13.0,16.0,44.8,Matches,sparta rotterdam
+Younes Namli,dk DEN,MF,27.0,9.6,0,0,0,4,11,1,38,3,10,0.0,0.0,0,59.0,7.0,4.0,63.6,Matches,sparta rotterdam
+Mario Engels,de GER,FW,27.0,12.2,4,0,0,32,24,14,27,3,5,0.0,0.0,0,42.0,6.0,16.0,27.3,Matches,sparta rotterdam
+Michaël Heylen,be BEL,DF,27.0,9.9,2,0,0,7,6,0,0,15,8,0.0,1.0,0,58.0,13.0,13.0,50.0,Matches,sparta rotterdam
+Giannis Masouras,gr GRE,"DF,MF",24.0,9.3,2,0,0,10,2,0,28,16,10,0.0,1.0,0,78.0,14.0,19.0,42.4,Matches,sparta rotterdam
+Emanuel Emegha,nl NED,"FW,MF",18.0,10.8,0,0,0,17,7,3,2,1,4,0.0,0.0,0,29.0,38.0,47.0,44.7,Matches,sparta rotterdam
+Aaron Meijers,nl NED,DF,33.0,8.2,1,1,0,3,13,0,33,4,15,0.0,0.0,0,47.0,11.0,13.0,45.8,Matches,sparta rotterdam
+Mohammed Osman,sy SYR,MF,27.0,7.5,0,0,0,10,16,0,25,6,8,0.0,0.0,0,55.0,9.0,1.0,90.0,Matches,sparta rotterdam
+Riza Durmisi,dk DEN,DF,27.0,6.8,0,0,0,2,5,1,9,6,6,0.0,0.0,0,30.0,2.0,2.0,50.0,Matches,sparta rotterdam
+Laurent Jans,lu LUX,"DF,MF",28.0,8.6,0,0,0,7,8,0,25,11,9,0.0,0.0,0,59.0,7.0,8.0,46.7,Matches,sparta rotterdam
+Adrián Dalmau,es ESP,FW,27.0,6.5,1,0,0,13,19,8,3,1,1,0.0,0.0,0,18.0,10.0,20.0,33.3,Matches,sparta rotterdam
+Jeremy van Mullem,nl NED,MF,22.0,6.4,0,0,0,4,3,0,4,11,9,0.0,0.0,0,38.0,8.0,20.0,28.6,Matches,sparta rotterdam
+Tim Coremans,nl NED,GK,30.0,3.0,0,0,0,0,1,0,0,0,0,0.0,0.0,2,5.0,1.0,0.0,100.0,Matches,sparta rotterdam
+Laros Duarte,nl NED,MF,24.0,2.1,0,0,0,0,2,0,8,0,0,0.0,0.0,0,6.0,2.0,4.0,33.3,Matches,sparta rotterdam
+Benjamin van Leer,nl NED,GK,29.0,1.7,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,,Matches,sparta rotterdam
+Abdou Harroui,nl NED,MF,23.0,1.0,1,0,0,2,2,0,0,0,3,0.0,0.0,0,7.0,0.0,2.0,0.0,Matches,sparta rotterdam
+Kenzo Goudmijn,nl NED,"MF,FW",19.0,2.1,1,0,0,3,3,0,5,4,1,0.0,0.0,0,11.0,2.0,4.0,33.3,Matches,sparta rotterdam
+Gaultiér Overman,nl NED,"MF,DF",20.0,0.5,0,0,0,0,1,0,3,0,0,0.0,0.0,0,2.0,1.0,0.0,100.0,Matches,sparta rotterdam
+Augustin Drakpe,nl NED,DF,19.0,0.3,0,0,0,1,0,0,0,0,1,0.0,0.0,0,3.0,0.0,1.0,0.0,Matches,sparta rotterdam
+Jason Meerstadt,nl NED,MF,20.0,0.2,0,0,0,1,0,0,1,0,0,0.0,0.0,0,0.0,1.0,1.0,50.0,Matches,sparta rotterdam
+Mats Seuntjens,nl NED,"FW,MF",29.0,31.7,5,0,0,69,31,7,128,9,25,1.0,0.0,0,161.0,15.0,41.0,26.8,Matches,fortuna sittard
+Deroy Duarte,cv CPV,"MF,DF",22.0,30.0,5,0,0,22,22,0,12,38,33,0.0,0.0,0,165.0,35.0,59.0,37.2,Matches,fortuna sittard
+Martin Angha,ch SUI,DF,27.0,28.8,6,0,0,32,18,2,8,47,32,0.0,0.0,0,160.0,87.0,68.0,56.1,Matches,fortuna sittard
+Zian Flemming,nl NED,"MF,FW",22.0,27.7,5,0,0,42,39,6,15,20,9,0.0,0.0,0,98.0,74.0,51.0,59.2,Matches,fortuna sittard
+George Cox,eng ENG,DF,23.0,24.4,7,0,0,8,22,4,103,40,38,0.0,0.0,1,180.0,27.0,13.0,67.5,Matches,fortuna sittard
+Ben Rienstra,nl NED,MF,31.0,23.9,4,0,0,21,5,0,6,22,17,0.0,0.0,0,119.0,29.0,29.0,50.0,Matches,fortuna sittard
+Mickaël Tirpan,be BEL,DF,27.0,22.0,4,0,0,29,20,1,94,42,26,0.0,1.0,0,164.0,37.0,29.0,56.1,Matches,fortuna sittard
+Tesfaldet Tekie,se SWE,MF,24.0,23.5,1,0,0,20,32,0,21,18,21,0.0,0.0,0,146.0,12.0,20.0,37.5,Matches,fortuna sittard
+Roel Janssen,nl NED,DF,31.0,14.4,4,1,0,21,14,1,0,33,17,0.0,1.0,0,101.0,18.0,21.0,46.2,Matches,fortuna sittard
+Ivo Pinto,pt POR,DF,31.0,16.6,3,0,0,15,18,1,17,18,12,0.0,0.0,0,112.0,15.0,16.0,48.4,Matches,fortuna sittard
+Andreas Samaris,gr GRE,"DF,MF",32.0,12.0,1,0,0,6,17,0,6,16,12,0.0,0.0,0,88.0,16.0,13.0,55.2,Matches,fortuna sittard
+Dimitris Siovas,gr GRE,DF,32.0,11.2,2,0,0,6,3,0,2,22,5,0.0,0.0,0,82.0,55.0,12.0,82.1,Matches,fortuna sittard
+Tijjani Noslin,nl NED,"FW,MF",22.0,9.1,0,0,0,10,8,3,15,3,5,0.0,0.0,0,51.0,20.0,22.0,47.6,Matches,fortuna sittard
+Arianit Ferati,xk KVX,"MF,DF",23.0,8.2,1,0,0,8,4,4,15,9,8,0.0,0.0,0,46.0,6.0,10.0,37.5,Matches,fortuna sittard
+Emil Hansson,se SWE,"FW,MF",23.0,7.2,0,0,0,5,2,0,38,1,4,0.0,0.0,0,28.0,0.0,4.0,0.0,Matches,fortuna sittard
+Nigel Lonwijk,nl NED,DF,18.0,9.9,1,0,0,6,6,0,2,19,13,0.0,0.0,0,66.0,20.0,12.0,62.5,Matches,fortuna sittard
+Paul Gladon,nl NED,FW,29.0,6.7,3,0,0,9,19,4,2,1,0,1.0,0.0,0,12.0,51.0,36.0,58.6,Matches,fortuna sittard
+Charlison Benschop,cw CUW,FW,31.0,6.4,0,0,0,9,4,4,0,1,5,0.0,0.0,0,20.0,37.0,30.0,55.2,Matches,fortuna sittard
+Lisandro Semedo,cv CPV,"FW,MF",25.0,5.2,1,0,0,4,7,2,10,4,4,0.0,0.0,0,21.0,3.0,6.0,33.3,Matches,fortuna sittard
+Samy Baghdadi,fr FRA,"FW,MF",24.0,4.8,2,0,0,9,3,2,11,4,5,0.0,0.0,0,28.0,7.0,13.0,35.0,Matches,fortuna sittard
+Bassala Sambou,eng ENG,FW,23.0,4.6,2,0,0,11,8,3,2,0,0,0.0,0.0,0,7.0,10.0,22.0,31.3,Matches,fortuna sittard
+Richie Musaba,nl NED,"MF,FW",20.0,2.4,1,0,0,5,1,0,2,2,0,0.0,0.0,0,11.0,4.0,7.0,36.4,Matches,fortuna sittard
+Ryan Johansson,ie IRL,"MF,DF",20.0,2.3,1,0,0,3,1,1,3,1,3,0.0,0.0,0,17.0,5.0,4.0,55.6,Matches,fortuna sittard
+Llazaros Rota,gr GRE,DF,23.0,2.0,0,0,0,2,3,0,6,3,1,0.0,0.0,0,13.0,2.0,0.0,100.0,Matches,fortuna sittard
+Michael Verrips,nl NED,GK,24.0,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,6.0,0.0,0.0,,Matches,fortuna sittard
+Jordan Botaka,cd COD,"MF,DF",28.0,1.8,0,0,0,1,1,0,4,0,3,0.0,0.0,0,15.0,1.0,1.0,50.0,Matches,fortuna sittard
+Toshio Lake,nl NED,MF,20.0,2.7,1,0,0,6,3,2,5,1,1,,,0,,,,,Matches,fortuna sittard
+Noah Fadiga,sn SEN,DF,21.0,30.1,8,0,0,36,31,0,36,30,25,0.0,0.0,0,213.0,17.0,13.0,56.7,Matches,heracles almelo
+Mats Knoester,nl NED,DF,22.0,29.6,3,0,0,23,10,1,16,57,28,0.0,1.0,2,178.0,76.0,60.0,55.9,Matches,heracles almelo
+Giacomo Quagliata,it ITA,DF,21.0,28.3,9,0,0,39,24,3,163,56,36,0.0,0.0,0,181.0,24.0,28.0,46.2,Matches,heracles almelo
+Marco Rente,de GER,DF,24.0,25.7,5,0,0,22,18,0,3,85,30,0.0,1.0,0,193.0,52.0,48.0,52.0,Matches,heracles almelo
+Lucas Schoofs,be BEL,"MF,DF",24.0,23.3,1,0,0,18,9,1,9,32,41,0.0,1.0,0,190.0,44.0,30.0,59.5,Matches,heracles almelo
+Nikolai Laursen,dk DEN,"FW,MF",23.0,20.6,3,0,0,18,26,5,46,8,27,0.0,0.0,0,110.0,28.0,27.0,50.9,Matches,heracles almelo
+Janis Blaswich,de GER,GK,30.0,22.0,1,0,0,0,5,0,1,0,0,0.0,0.0,0,31.0,4.0,0.0,100.0,Matches,heracles almelo
+Orestis Kiomourtzoglou,de GER,MF,23.0,20.9,1,0,0,27,26,0,7,33,39,0.0,0.0,0,153.0,45.0,41.0,52.3,Matches,heracles almelo
+Bilal Başaçıkoğlu,tr TUR,"FW,MF",26.0,16.4,4,0,0,22,25,6,123,10,27,0.0,0.0,0,64.0,15.0,18.0,45.5,Matches,heracles almelo
+Kaj Sierhuis,nl NED,FW,23.0,15.8,2,0,0,16,11,5,14,0,5,1.0,0.0,0,38.0,27.0,30.0,47.4,Matches,heracles almelo
+Sinan Bakış,tr TUR,FW,27.0,17.0,2,1,1,22,16,19,0,8,5,0.0,0.0,0,38.0,46.0,63.0,42.2,Matches,heracles almelo
+Koen Bucker,nl NED,GK,25.0,12.0,0,0,0,0,1,0,0,1,0,0.0,0.0,0,9.0,3.0,1.0,75.0,Matches,heracles almelo
+Delano Burgzorg,nl NED,"FW,MF",22.0,12.8,3,0,0,14,17,9,1,6,15,1.0,0.0,0,49.0,7.0,19.0,26.9,Matches,heracles almelo
+Rai Vloet,nl NED,MF,26.0,11.3,3,0,0,13,13,1,75,8,12,0.0,0.0,0,44.0,10.0,13.0,43.5,Matches,heracles almelo
+Anas Ouahim,de GER,"MF,FW",23.0,7.7,2,1,0,18,12,0,10,8,6,0.0,0.0,0,35.0,6.0,18.0,25.0,Matches,heracles almelo
+Justin Hoogma,nl NED,"DF,MF",23.0,8.5,0,0,0,5,6,0,1,6,6,0.0,0.0,0,37.0,10.0,11.0,47.6,Matches,heracles almelo
+Emil Hansson,se SWE,"MF,FW",23.0,6.3,0,0,0,3,4,1,31,0,4,0.0,0.0,0,24.0,0.0,1.0,0.0,Matches,heracles almelo
+Ruben Roosken,nl NED,DF,21.0,5.4,0,0,0,6,3,0,20,11,13,0.0,0.0,0,30.0,7.0,3.0,70.0,Matches,heracles almelo
+Navajo Bakboord,nl NED,DF,22.0,5.4,3,0,0,14,10,0,4,9,8,0.0,0.0,0,39.0,2.0,6.0,25.0,Matches,heracles almelo
+Sven Sonnenberg,de GER,DF,22.0,5.3,0,1,0,4,1,0,2,9,1,0.0,0.0,0,40.0,14.0,4.0,77.8,Matches,heracles almelo
+Elias Sierra,be BEL,"MF,FW",19.0,4.3,0,0,0,3,2,0,21,1,4,0.0,0.0,0,22.0,0.0,5.0,0.0,Matches,heracles almelo
+Ismail Azzaoui,be BEL,"FW,MF",23.0,4.8,0,0,0,4,8,2,5,2,8,0.0,0.0,0,30.0,3.0,4.0,42.9,Matches,heracles almelo
+Adrian Szöke,hu HUN,"FW,MF",23.0,1.6,0,0,0,5,0,1,0,0,0,0.0,0.0,0,2.0,4.0,4.0,50.0,Matches,heracles almelo
+Mohamed Amissi,bi BDI,"FW,MF",20.0,1.4,0,0,0,1,4,0,2,0,3,0.0,0.0,0,9.0,2.0,2.0,50.0,Matches,heracles almelo
+Samuel Armenteros,se SWE,FW,31.0,2.3,0,0,0,5,4,3,2,2,0,0.0,0.0,0,6.0,9.0,12.0,42.9,Matches,heracles almelo
+Kasper Lunding,dk DEN,MF,22.0,1.8,1,0,0,3,1,0,2,1,3,0.0,0.0,0,10.0,0.0,2.0,0.0,Matches,heracles almelo
+Melih Ibrahimoglu,tr TUR,MF,21.0,0.5,0,0,0,1,1,0,0,1,0,0.0,0.0,0,2.0,0.0,2.0,0.0,Matches,heracles almelo
+Mateo Leš,hr CRO,DF,21.0,0.5,0,0,0,0,0,0,0,0,1,0.0,0.0,0,6.0,1.0,0.0,100.0,Matches,heracles almelo
+Sem Scheperman,nl NED,DF,19.0,0.2,0,0,0,0,1,0,0,0,0,0.0,0.0,0,2.0,1.0,0.0,100.0,Matches,heracles almelo
+Timon Wellenreuther,de GER,GK,25.0,31.0,4,0,0,0,6,0,0,1,1,0.0,0.0,1,64.0,9.0,5.0,64.3,Matches,willem ii
+Leeroy Owusu,nl NED,DF,24.0,30.6,1,0,0,17,17,0,136,16,23,0.0,1.0,0,188.0,12.0,14.0,46.2,Matches,willem ii
+Derrick Köhn,de GER,DF,22.0,28.1,3,1,1,27,37,0,71,29,32,0.0,0.0,0,185.0,20.0,33.0,37.7,Matches,willem ii
+Ché Nunnely,nl NED,FW,22.0,27.2,2,0,0,18,40,5,73,10,13,0.0,0.0,0,117.0,14.0,40.0,25.9,Matches,willem ii
+Mats Köhlert,de GER,"FW,DF",23.0,27.5,2,0,0,28,31,2,101,26,30,0.0,0.0,0,184.0,21.0,42.0,33.3,Matches,willem ii
+Pol Llonch,es ESP,MF,28.0,21.1,4,0,0,33,25,1,4,33,48,0.0,0.0,0,182.0,21.0,31.0,40.4,Matches,willem ii
+Ulrik Yttergård Jenssen,no NOR,DF,25.0,20.9,3,1,0,10,4,1,2,16,11,0.0,1.0,0,117.0,38.0,36.0,51.4,Matches,willem ii
+Max Svensson,se SWE,"FW,MF",23.0,21.2,1,0,0,5,12,3,99,10,11,0.0,0.0,0,115.0,20.0,48.0,29.4,Matches,willem ii
+Freek Heerkens,nl NED,"DF,MF",31.0,17.8,0,0,0,4,16,0,0,20,11,0.0,0.0,0,107.0,26.0,37.0,41.3,Matches,willem ii
+Kwasi Okyere Wriedt,gh GHA,FW,27.0,13.3,3,0,0,25,21,15,13,1,7,0.0,0.0,0,29.0,40.0,42.0,48.8,Matches,willem ii
+Görkem Sağlam,de GER,MF,23.0,12.8,2,0,0,11,8,0,91,8,7,0.0,0.0,0,59.0,16.0,15.0,51.6,Matches,willem ii
+Wessel Dammers,nl NED,DF,26.0,13.9,0,0,0,3,4,0,3,20,13,0.0,0.0,1,76.0,33.0,21.0,61.1,Matches,willem ii
+Jizz Hornkamp,nl NED,FW,23.0,11.9,2,0,0,18,3,6,4,3,10,0.0,0.0,0,25.0,47.0,40.0,54.0,Matches,willem ii
+Daniel Crowley,eng ENG,MF,23.0,9.5,3,0,0,9,10,1,19,4,6,0.0,0.0,0,83.0,2.0,10.0,16.7,Matches,willem ii
+Elton Kabangu,cd COD,FW,23.0,10.5,1,0,0,12,13,17,20,3,14,0.0,0.0,0,44.0,22.0,34.0,39.3,Matches,willem ii
+Emil Bergström,se SWE,DF,28.0,8.3,0,1,0,5,2,0,0,13,6,0.0,0.0,0,40.0,27.0,19.0,58.7,Matches,willem ii
+Godfried Roemeratoe,cw CUW,"MF,DF",21.0,7.8,0,0,0,6,6,0,0,11,11,0.0,0.0,0,72.0,17.0,11.0,60.7,Matches,willem ii
+Nikolaos Michelis,gr GRE,DF,20.0,7.2,0,1,0,2,0,0,0,17,6,0.0,1.0,0,29.0,23.0,13.0,63.9,Matches,willem ii
+Ringo Meerveld,nl NED,MF,20.0,6.0,0,0,0,1,8,0,1,3,7,0.0,0.0,0,43.0,3.0,6.0,33.3,Matches,willem ii
+Thijs Oosting,nl NED,MF,21.0,3.0,1,0,0,2,1,1,3,2,2,0.0,0.0,0,12.0,2.0,3.0,40.0,Matches,willem ii
+Jorn Brondeel,be BEL,GK,27.0,1.2,0,1,0,1,0,0,0,0,0,0.0,0.0,0,4.0,1.0,0.0,100.0,Matches,willem ii
+Vincent Schippers,nl NED,"DF,FW",20.0,1.8,0,0,0,1,0,0,1,3,6,0.0,0.0,0,10.0,2.0,5.0,28.6,Matches,willem ii
+Wesley Spieringhs,nl NED,"MF,FW",19.0,1.1,0,0,0,0,2,0,0,2,1,0.0,0.0,0,5.0,0.0,3.0,0.0,Matches,willem ii
+Robbin Ruiter,nl NED,GK,34.0,1.0,0,0,0,0,0,0,0,1,0,0.0,0.0,0,2.0,0.0,0.0,,Matches,willem ii
+Miquel Nelom,nl NED,DF,30.0,0.9,2,1,1,2,1,0,0,2,0,0.0,0.0,0,6.0,2.0,2.0,50.0,Matches,willem ii
+Anargyros Kampetsis,gr GRE,"FW,MF",22.0,3.6,0,0,0,1,1,0,0,0,3,0.0,0.0,0,6.0,7.0,31.0,18.4,Matches,willem ii
+John Yeboah,de GER,"FW,MF",21.0,0.9,1,0,0,1,2,0,1,0,2,0.0,0.0,0,7.0,0.0,1.0,0.0,Matches,willem ii
+Connor van den Berg,nl NED,GK,20.0,0.8,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,1.0,0.0,100.0,Matches,willem ii
+Kilian Ludewig,de GER,"FW,DF",21.0,0.6,0,0,0,1,1,0,4,1,2,0.0,0.0,0,3.0,2.0,0.0,100.0,Matches,willem ii
+Abdenasser El Khayati,nl NED,"MF,FW",32.0,0.6,0,0,0,0,1,1,3,0,0,0.0,0.0,0,5.0,0.0,0.0,,Matches,willem ii
+Rick Zuijderwijk,nl NED,"MF,FW",20.0,0.4,0,0,0,0,0,0,1,1,1,0.0,0.0,0,3.0,0.0,0.0,,Matches,willem ii
+Bram van Polen,nl NED,DF,35.0,29.4,3,0,0,37,11,1,38,75,28,0.0,0.0,1,189.0,52.0,53.0,49.5,Matches,zwolle
+Yuta Nakayama,jp JPN,DF,24.0,28.9,5,0,0,29,30,1,19,38,35,0.0,0.0,0,232.0,115.0,80.0,59.0,Matches,zwolle
+Mees de Wit,nl NED,"DF,FW",23.0,25.8,6,0,0,40,30,3,79,26,39,0.0,0.0,0,214.0,34.0,27.0,55.7,Matches,zwolle
+Daishawn Redan,nl NED,"FW,MF",20.0,22.7,2,0,0,28,24,11,10,4,13,1.0,0.0,0,79.0,7.0,38.0,15.6,Matches,zwolle
+Thomas van den Belt,nl NED,MF,20.0,22.9,5,0,0,31,18,0,34,31,22,0.0,0.0,1,174.0,29.0,43.0,40.3,Matches,zwolle
+Kenneth Paal,sr SUR,"DF,MF",24.0,18.2,1,0,0,14,19,1,81,29,25,0.0,0.0,0,132.0,30.0,27.0,52.6,Matches,zwolle
+Rico Strieder,de GER,MF,29.0,16.1,4,0,0,27,18,1,12,29,21,0.0,1.0,0,86.0,39.0,28.0,58.2,Matches,zwolle
+Pelle Clement,nl NED,"MF,FW",25.0,15.2,2,0,0,13,7,1,64,10,12,0.0,0.0,0,98.0,22.0,23.0,48.9,Matches,zwolle
+Mustafa Saymak,nl NED,MF,28.0,14.3,4,0,0,14,32,3,41,14,15,1.0,0.0,0,74.0,12.0,19.0,38.7,Matches,zwolle
+Gervane Kastaneer,cw CUW,"FW,MF",25.0,17.3,3,0,0,33,16,15,40,5,13,0.0,0.0,0,50.0,62.0,53.0,53.9,Matches,zwolle
+Siemen Voet,be BEL,DF,21.0,13.8,2,1,0,22,3,0,11,24,22,0.0,1.0,0,73.0,34.0,27.0,55.7,Matches,zwolle
+Dean Huiberts,nl NED,MF,21.0,12.8,2,0,0,20,21,1,6,18,20,1.0,0.0,0,79.0,9.0,13.0,40.9,Matches,zwolle
+Eliano Reijnders,nl NED,"DF,MF",20.0,14.1,2,0,0,20,9,1,31,15,19,0.0,0.0,0,91.0,23.0,29.0,44.2,Matches,zwolle
+Sam Kersten,nl NED,DF,23.0,12.7,3,1,0,13,4,0,2,23,8,0.0,0.0,0,67.0,14.0,19.0,42.4,Matches,zwolle
+Djavan Anderson,nl NED,"DF,MF",26.0,11.4,0,0,0,9,7,0,29,11,5,0.0,0.0,0,62.0,9.0,15.0,37.5,Matches,zwolle
+Slobodan Tedić,rs SRB,FW,21.0,13.2,2,0,0,16,25,7,1,3,2,0.0,0.0,0,26.0,61.0,93.0,39.6,Matches,zwolle
+Oussama Darfalou,dz ALG,FW,27.0,9.7,0,0,0,10,6,6,8,0,0,0.0,0.0,0,27.0,47.0,57.0,45.2,Matches,zwolle
+Luka Adžić,rs SRB,"FW,MF",22.0,8.1,0,0,0,4,8,6,75,3,5,0.0,0.0,0,35.0,8.0,20.0,28.6,Matches,zwolle
+Mark Pabai,lr LBR,DF,20.0,7.6,1,0,0,7,6,1,29,10,4,0.0,0.0,0,59.0,4.0,10.0,28.6,Matches,zwolle
+Maikel van der Werff,nl NED,DF,32.0,5.5,1,0,0,6,2,0,2,13,6,0.0,1.0,0,34.0,28.0,12.0,70.0,Matches,zwolle
+Chardi Landu,nl NED,"FW,MF",21.0,5.0,0,0,0,6,11,2,18,4,3,0.0,0.0,0,25.0,9.0,13.0,40.9,Matches,zwolle
+Rav van den Berg,nl NED,DF,17.0,4.1,0,0,0,2,1,0,1,4,2,0.0,0.0,0,30.0,11.0,5.0,68.8,Matches,zwolle
+Sai van Wermeskerken,jp JPN,"DF,MF",27.0,3.1,1,0,0,2,2,0,5,3,2,0.0,0.0,0,17.0,3.0,9.0,25.0,Matches,zwolle
+Elikia Mbinga,nl NED,"MF,FW",20.0,1.2,1,0,0,8,1,0,0,1,2,0.0,0.0,0,8.0,2.0,6.0,25.0,Matches,zwolle
+Thomas Beelen,nl NED,"MF,DF",20.0,0.8,0,0,0,1,0,0,0,0,6,0.0,0.0,0,6.0,2.0,5.0,28.6,Matches,zwolle
+Ryan Koolwijk,sr SUR,MF,35.0,1.9,0,0,0,3,2,0,3,1,6,0.0,1.0,0,21.0,7.0,8.0,46.7,Matches,zwolle
+Max de Waal,nl NED,"MF,FW",19.0,1.8,0,0,0,1,2,1,0,0,3,0.0,0.0,0,3.0,1.0,7.0,12.5,Matches,zwolle
+Samir Lagsir,nl NED,"FW,MF",18.0,1.0,0,0,0,2,2,1,10,0,1,0.0,0.0,0,8.0,1.0,4.0,20.0,Matches,zwolle
+Leandro Fernandes,nl NED,"FW,MF",21.0,0.8,0,0,0,0,0,0,5,0,0,0.0,0.0,0,5.0,2.0,3.0,40.0,Matches,zwolle
+Tristan van Gilst,nl NED,FW,18.0,0.2,0,0,0,2,0,0,0,0,2,0.0,0.0,0,1.0,0.0,1.0,0.0,Matches,zwolle
